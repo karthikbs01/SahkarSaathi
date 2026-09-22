@@ -1,0 +1,69 @@
+{
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "embedding_dimension": 384,
+  "active_chunks_indexed": 2464,
+  "total_jsonl_records": 2753,
+  "records_excluded": 289,
+  "sources_represented": {
+    "MSCS_ACT_2002": 210,
+    "MSCS_AMD_2023": 38,
+    "MSCS_RULES_2002": 30,
+    "MSCS_RULES_AMD_2023": 67,
+    "KA_ACT_1959": 275,
+    "MH_ACT_1960": 618,
+    "MH_RULES_1961": 199,
+    "PACS_MODEL_BYLAWS": 107,
+    "PACS_COMPUTERIZATION": 58,
+    "PMFBY_2023": 858,
+    "CRCS_OMBUDSMAN": 4
+  },
+  "top1_source_hit_rate": 0.8181818181818182,
+  "top3_source_hit_rate": 0.9090909090909091,
+  "top5_source_hit_rate": 0.9090909090909091,
+  "jurisdiction_violation_rate": 0.0,
+  "forbidden_source_leakage_rate": 0.0,
+  "rate_definitions": "Source hit rates: answerable questions only. Leakage/violation rates: all tested questions, counted once per question.",
+  "answerable_questions_tested": 11,
+  "abstention_questions_tested": 1,
+  "abstention_questions_with_results": 1,
+  "abstention_candidates": 0,
+  "abstention_policy": "Uncalibrated baseline: no hits or maximum cosine similarity below 0.70 is a candidate. Similarity is not evidence of factual support. Human support review is required; labels and expected sources never influence retrieval or this heuristic.",
+  "abstention_support_reviewed": 0,
+  "support_assessment": "No entailment or answerability claim: examine retrieved evidence separately.",
+  "questions_sha256": "a302974c1c8ab4ec42b88e334ab1075267dace10656c15d1f1b7919c079d407e",
+  "index_fingerprint": "5585013b1aa67db0feb5f06746434756bab9ad1d6fe95084226baf4fa6ab623b",
+  "multi_window_chunks": 272,
+  "failed_top5_question_ids": [
+    "H003"
+  ],
+  "failed_top5_questions": [
+    {
+      "question_id": "H003",
+      "question": "Our society is in Maharashtra and I want to know the legal rules about becoming a member. Which source should the assistant use?",
+      "expected_source_ids": [
+        "MH_ACT_1960"
+      ],
+      "top5_source_ids": [
+        "MH_RULES_1961",
+        "PACS_MODEL_BYLAWS",
+        "MH_RULES_1961",
+        "MSCS_RULES_AMD_2023",
+        "MH_RULES_1961"
+      ],
+      "top5_chunk_ids": [
+        "MH_RULES_1961_RULE_19",
+        "PACS_MODEL_BYLAWS_CLAUSE_7_SUB_3",
+        "MH_RULES_1961_RULE_119A",
+        "MSCS_RULES_AMD_2023_FORM_VIII",
+        "MH_RULES_1961_RULE_23"
+      ],
+      "scores": [
+        0.874789,
+        0.857869,
+        0.873006,
+        0.855497,
+        0.879525
+      ]
+    }
+  ]
+}

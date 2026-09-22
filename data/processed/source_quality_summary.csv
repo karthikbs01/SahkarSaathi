@@ -1,0 +1,12 @@
+source_id,parent_records,child_records,child_word_min,child_word_p10,child_word_median,child_word_p90,child_word_max,chunks_lt20,chunks_20_49,chunks_50_149,chunks_150_450,chunks_451_900,chunks_gt900,all_records_lt20,all_records_gt900,structure_warnings,table_warnings,duplicate_text_warnings,missing_heading_count,missing_structural_id_count,missing_parent_count,topic_tag_warnings,form_number_warnings,hierarchy_warnings,metadata_warnings,suspicious_chunks
+MSCS_ACT_2002,16,211,6,26.0,88,280.0,588,9,48,92,58,4,0,10,0,0,0,0,2,0,0,0,0,0,0,0
+MSCS_AMD_2023,1,51,27,34.0,117,458.0,1894,0,11,19,15,5,1,1,1,1,0,1,13,0,0,0,0,0,0,11
+MSCS_RULES_2002,2,33,18,41.4,157,646.2,6103,1,4,11,11,3,3,2,3,8,2,0,3,1,0,0,1,0,0,1
+MSCS_RULES_AMD_2023,4,69,9,41.0,164,689.6,7390,2,7,22,25,8,5,5,5,9,0,1,67,0,0,0,5,0,0,1
+KA_ACT_1959,19,312,5,45.4,150.0,417.6,2483,8,28,118,133,17,8,15,8,25,0,0,5,6,0,0,0,0,0,6
+MH_ACT_1960,47,618,4,33.7,113.0,372.0,5644,20,110,244,208,22,14,31,15,19,6,6,8,4,0,0,1,0,0,4
+MH_RULES_1961,9,206,8,32.0,157.5,695.5,5770,8,27,62,71,24,14,11,14,61,4,6,4,3,0,0,1,0,0,4
+PACS_MODEL_BYLAWS,8,107,6,15.0,37,196.4,883,21,44,27,13,2,0,23,1,0,0,0,1,0,0,0,0,0,0,0
+PACS_COMPUTERIZATION,10,58,3,15.0,59.5,237.3,502,10,13,24,10,1,0,19,0,0,6,0,10,0,0,0,0,0,0,0
+PMFBY_2023,101,865,3,22.4,60,175.0,2475,50,314,390,90,16,5,130,6,41,32,2,151,0,0,0,3,0,0,2
+CRCS_OMBUDSMAN,1,5,30,36.8,47,128.6,157,0,3,1,1,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0

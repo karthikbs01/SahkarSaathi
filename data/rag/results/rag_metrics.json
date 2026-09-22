@@ -1,0 +1,27 @@
+{
+  "total_questions": 32,
+  "answerable_questions": 28,
+  "abstention_questions": 4,
+  "correct_behavior_count": 26,
+  "correct_behavior_rate": 0.8125,
+  "citation_validation_failures": 0,
+  "unsupported_claim_warnings": 7,
+  "jurisdiction_violations": 0,
+  "forbidden_source_leakage": 0,
+  "api_failures_after_retries": 5,
+  "failed_question_ids": [
+    "Q002",
+    "Q003",
+    "Q004",
+    "Q008",
+    "Q010",
+    "Q011",
+    "Q019",
+    "H001",
+    "H003",
+    "H004",
+    "H006",
+    "H009",
+    "H012"
+  ]
+}

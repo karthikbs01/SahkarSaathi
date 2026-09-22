@@ -1,0 +1,53 @@
+chunk_id,source_id,record_type,retrieval_status,document_type,jurisdiction,word_count,char_count,page_start,page_end,section,subsection,rule,subrule,clause,heading,topics,warning
+MSCS_AMD_2023_DOC,MSCS_AMD_2023,parent,REFERENCE_ONLY,amendment,Central,4,30,1,23,,,,,,,multistate,CONTEXT_PARENT;SHORT_CONTEXT_PARENT
+MSCS_AMD_2023_CONTEXT_001,MSCS_AMD_2023,child,REFERENCE_ONLY,amendment,Central,117,781,1,1,,,,,,,multistate,
+MSCS_AMD_2023_BACKGROUND_ENGLISH_NOTICE,MSCS_AMD_2023,child,REFERENCE_ONLY,amendment,Central,122,903,1,2,,,,,,MINISTRY OF COOPERATION,multistate,
+MSCS_AMD_2023_CONTEXT_003,MSCS_AMD_2023,child,ACTIVE,amendment,Central,151,906,2,2,,,,,,,multistate,STRUCTURE_UNCERTAIN
+MSCS_AMD_2023_ITEM_1,MSCS_AMD_2023,child,ACTIVE,amendment,Central,78,471,2,2,,,,,,(1) This Act may be called the Multi-State Co-operative Societies (Amendment) Short title and,multistate,
+MSCS_AMD_2023_ITEM_2,MSCS_AMD_2023,child,REVIEW,amendment,Central,226,1444,2,3,,,,,,"In section 3 of the Multi-State Co-operative Societies Act, 2002 (hereinafter referred",elections;multistate;ombudsman;registrar,MULTIPLE_AMENDMENT_ACTIONS
+MSCS_AMD_2023_ITEM_3,MSCS_AMD_2023,child,ACTIVE,amendment,Central,414,2632,3,4,,,,,,"In section 7 of the principal Act, for sub-sections (2) and (3), the following",byelaws;multistate;registrar;registration,
+MSCS_AMD_2023_ITEM_4,MSCS_AMD_2023,child,ACTIVE,amendment,Central,33,205,4,4,,,,,,"In section 10 of the principal Act, in sub-section (2), in clause (a), for the word Amendment",multistate,
+MSCS_AMD_2023_ITEM_5,MSCS_AMD_2023,child,ACTIVE,amendment,Central,41,268,4,4,,,,,,"In section 14 of the principal Act,",multistate,
+MSCS_AMD_2023_ITEM_6,MSCS_AMD_2023,child,ACTIVE,amendment,Central,90,582,4,4,,,,,,"In section 17 of the principal Act, after sub-section (9), the following sub-section Amendment of",meetings;multistate,
+MSCS_AMD_2023_ITEM_7,MSCS_AMD_2023,child,ACTIVE,amendment,Central,38,219,4,4,,,,,,"In section 19 of the principal Act, in the Explanation, in clause (a),",multistate,
+MSCS_AMD_2023_ITEM_8,MSCS_AMD_2023,child,ACTIVE,amendment,Central,82,506,4,4,,,,,,"In section 22 of the principal Act, in sub-section (5), for clause (c), the following Amendment of",multistate;registrar,
+MSCS_AMD_2023_ITEM_9,MSCS_AMD_2023,child,REVIEW,amendment,Central,116,708,4,4,,,,,,"In section 26 of the principal Act,",management;meetings;multistate,MULTIPLE_AMENDMENT_ACTIONS
+MSCS_AMD_2023_ITEM_10,MSCS_AMD_2023,child,ACTIVE,amendment,Central,57,344,4,4,,,,,,"In section 28 of the principal Act, for the words “to the society in respect of Amendment of",byelaws;membership;multistate,
+MSCS_AMD_2023_ITEM_11,MSCS_AMD_2023,child,ACTIVE,amendment,Central,45,263,4,4,,,,,,,byelaws;multistate,
+MSCS_AMD_2023_ITEM_12,MSCS_AMD_2023,child,ACTIVE,amendment,Central,30,170,4,5,,,,,,"In section 30 of the principal Act, in sub-section (2), for the words “one year”, the Amendment of",multistate,
+MSCS_AMD_2023_ITEM_13,MSCS_AMD_2023,child,ACTIVE,amendment,Central,170,1045,5,5,,,,,,,byelaws;multistate,
+MSCS_AMD_2023_ITEM_14,MSCS_AMD_2023,child,ACTIVE,amendment,Central,29,185,5,5,,,,,,"In section 39 of the principal Act, in sub-section (1), after clause (o), the following",multistate,
+MSCS_AMD_2023_ITEM_15,MSCS_AMD_2023,child,ACTIVE,amendment,Central,458,2907,5,6,,,,,,"In section 41 of the principal Act, for sub-section (3), the following sub-sections",byelaws;elections;eligibility;management;meetings;multistate,
+MSCS_AMD_2023_ITEM_16,MSCS_AMD_2023,child,REVIEW,amendment,Central,386,2417,6,7,,,,,,"In section 43 of the principal Act,",documents;elections;eligibility;meetings;multistate;registrar,MULTIPLE_AMENDMENT_ACTIONS
+MSCS_AMD_2023_ITEM_17,MSCS_AMD_2023,child,ACTIVE,amendment,Central,1894,11643,7,10,,,,,,,byelaws;documents;elections;eligibility;meetings;multistate,LONG_CHUNK_NO_SAFE_SPLIT
+MSCS_AMD_2023_ITEM_18,MSCS_AMD_2023,child,ACTIVE,amendment,Central,114,745,10,11,,,,,,"In section 49 of the principal Act, in sub-section (2),",elections;multistate,
+MSCS_AMD_2023_ITEM_19,MSCS_AMD_2023,child,REVIEW,amendment,Central,194,1205,11,11,,,,,,"In section 50 of the principal Act,",governance;meetings;multistate,MULTIPLE_AMENDMENT_ACTIONS
+MSCS_AMD_2023_ITEM_20,MSCS_AMD_2023,child,ACTIVE,amendment,Central,187,1143,11,11,,,,,,"In section 51 of the principal Act, after sub-section (1), the following sub-section",multistate;registrar,
+MSCS_AMD_2023_ITEM_21,MSCS_AMD_2023,child,ACTIVE,amendment,Central,27,160,11,11,,,,,,"In section 52 of the principal Act, in clause (j), for the words “thirty days”, the",multistate,
+MSCS_AMD_2023_ITEM_22,MSCS_AMD_2023,child,ACTIVE,amendment,Central,73,477,11,12,,,,,,"In section 53 of the principal Act, for sub-section (1), the following sub-section",byelaws;multistate,
+MSCS_AMD_2023_ITEM_23,MSCS_AMD_2023,child,ACTIVE,amendment,Central,88,536,12,12,,,,,,"In section 63 of the principal Act, in sub-section (1), for clause (b), the following Amendment",multistate,
+MSCS_AMD_2023_ITEM_24,MSCS_AMD_2023,child,ACTIVE,amendment,Central,583,3801,12,13,,,,,,,management;multistate;registrar,
+MSCS_AMD_2023_ITEM_25,MSCS_AMD_2023,child,REVIEW,amendment,Central,194,1248,13,13,,,,,,"In section 64 of the principal Act,",multistate,MULTIPLE_AMENDMENT_ACTIONS
+MSCS_AMD_2023_ITEM_26,MSCS_AMD_2023,child,ACTIVE,amendment,Central,39,231,13,13,,,,,,"In section 67 of the principal Act, in sub-section (1), in the first proviso, for the",multistate,
+MSCS_AMD_2023_ITEM_27,MSCS_AMD_2023,child,REVIEW,amendment,Central,231,1501,13,14,,,,,,"In section 70 of the principal Act,",deposits;multistate;registrar,MULTIPLE_AMENDMENT_ACTIONS
+MSCS_AMD_2023_ITEM_28,MSCS_AMD_2023,child,ACTIVE,amendment,Central,80,511,14,14,,,,,,,deposits;multistate;registrar,
+MSCS_AMD_2023_ITEM_29,MSCS_AMD_2023,child,ACTIVE,amendment,Central,129,847,14,14,,,,,,"In section 73 of the principal Act, after sub-section (5), the following sub-section Amendment",multistate,
+MSCS_AMD_2023_ITEM_30,MSCS_AMD_2023,child,ACTIVE,amendment,Central,532,3374,14,15,,,,,,"In section 78 of the principal Act, after sub-section (1), the following sub-sections Amendment",appeal;complaint;deposits;documents;multistate;ombudsman;registrar,
+MSCS_AMD_2023_ITEM_32,MSCS_AMD_2023,child,REVIEW,amendment,Central,288,1897,15,16,,,,,,"In section 86 of the principal Act,",loans;multistate;registrar;registration,MULTIPLE_AMENDMENT_ACTIONS
+MSCS_AMD_2023_ITEM_33,MSCS_AMD_2023,child,ACTIVE,amendment,Central,34,194,16,16,,,,,,"In section 94 of the principal Act, in the opening paragraph, after the words and Amendment of",multistate,
+MSCS_AMD_2023_ITEM_34,MSCS_AMD_2023,child,ACTIVE,amendment,Central,87,604,16,16,,,,,,"In section 98 of the principal Act, after sub-section (2), the following sub-section Amendment of",elections;multistate;registrar,
+MSCS_AMD_2023_ITEM_35,MSCS_AMD_2023,child,ACTIVE,amendment,Central,158,982,16,16,,,,,,,deposits;multistate;registrar,
+MSCS_AMD_2023_ITEM_36,MSCS_AMD_2023,child,ACTIVE,amendment,Central,112,769,16,17,,,,,,"In section 103 of the principal Act, in sub-section (1), the following provisos Amendment of",multistate;registrar;registration,
+MSCS_AMD_2023_ITEM_37,MSCS_AMD_2023,child,REVIEW,amendment,Central,502,3061,17,18,,,,,,"In section 104 of the principal Act,",byelaws;documents;elections;governance;multistate,MULTIPLE_AMENDMENT_ACTIONS
+MSCS_AMD_2023_ITEM_38,MSCS_AMD_2023,child,ACTIVE,amendment,Central,56,320,18,18,,,,,,,multistate,
+MSCS_AMD_2023_ITEM_39,MSCS_AMD_2023,child,ACTIVE,amendment,Central,226,1488,18,18,,,,,,,appeal;byelaws;management;multistate;ombudsman;timeline,
+MSCS_AMD_2023_ITEM_40,MSCS_AMD_2023,child,ACTIVE,amendment,Central,46,278,18,18,,,,,,"In section 108 of the principal Act, in sub-section (1), in clause (i), after the words Amendment",multistate;registrar,
+MSCS_AMD_2023_ITEM_41,MSCS_AMD_2023,child,ACTIVE,amendment,Central,27,167,18,18,,,,,,"In section 109 of the principal Act, in clause (a), for the words “co-operative Amendment",multistate,
+MSCS_AMD_2023_ITEM_42,MSCS_AMD_2023,child,REVIEW,amendment,Central,131,840,18,19,,,,,,"In section 116 of the principal Act,",multistate,MULTIPLE_AMENDMENT_ACTIONS
+MSCS_AMD_2023_ITEM_43,MSCS_AMD_2023,child,ACTIVE,amendment,Central,97,620,19,19,,,,,,"In section 120 of the principal Act,",governance;multistate;registrar,
+MSCS_AMD_2023_ITEM_44,MSCS_AMD_2023,child,ACTIVE,amendment,Central,440,2766,19,20,,,,,,,byelaws;documents;multistate;registrar;registration;reporting,
+MSCS_AMD_2023_ITEM_45,MSCS_AMD_2023,child,ACTIVE,amendment,Central,62,369,20,20,,,,,,"In section 121 of the principal Act, in sub-section (1), for the words and figures Amendment of",multistate,
+MSCS_AMD_2023_ITEM_46,MSCS_AMD_2023,child,REVIEW,amendment,Central,299,1886,20,21,,,,,,"In section 123 of the principal Act,",elections;loans;multistate;timeline,MULTIPLE_AMENDMENT_ACTIONS
+MSCS_AMD_2023_ITEM_47,MSCS_AMD_2023,child,REVIEW,amendment,Central,726,4583,21,22,,,,,,"In section 124 of the principal Act,",appeal;complaint;deposits;documents;elections;meetings;multistate;ombudsman;registrar,MULTIPLE_AMENDMENT_ACTIONS
+MSCS_AMD_2023_ITEM_48,MSCS_AMD_2023,child,ACTIVE,amendment,Central,119,764,22,22,,,,,,"In section 125 of the principal Act, after sub-section (1), the following Amendment",multistate,
+MSCS_AMD_2023_ITEM_49,MSCS_AMD_2023,child,ACTIVE,amendment,Central,272,1632,22,23,,,,,,,management;multistate,

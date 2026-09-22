@@ -1,0 +1,534 @@
+chunk_id,source_id,record_type,word_count,page_start,page_end,section,rule,clause,heading,warning,audit_flags,severity,groups,text_excerpt
+MSCS_RULES_2002_FORM_I,MSCS_RULES_2002,child,375,46,49,,,,FORM – I,TABLE_REVIEW,,INFO,F_TABLE,"FORM – I
+
+Headquarters and address to be registered;
+
+The Central Registrar of Cooperative Societies,
+
+Area of operations; Main objectives; Act,2002;
+
+:
+
+indicated below :
+
+(g) (h)
+
+(d)
+
+(b)
+
+(e) (f)
+"
+MSCS_RULES_2002_FORM_II,MSCS_RULES_2002,child,76,49,50,,,,FORM – II,TABLE_REVIEW,,INFO,F_TABLE,"FORM – II
+
+Registration
+
+(7)
+
+(10)
+
+Name of the proposed multi-state co-operative society
+
+called
+
+No. and date of the report, if any sent to the Central
+
+Government, if the society is not registered,"
+MH_ACT_1960_CONTEXT_001,MH_ACT_1960,child,291,1,1,,,,,SECTION_IDENTIFIER_MISSING;STRUCTURE_UNCERTAIN;TABLE_REVIEW,MISSING_STRUCTURAL_ID,REVIEW,E_STRUCTURE;F_TABLE,"THE MAHARASHTRA CO-OPERATIVE SOCIETIES
+
+ACT, 1960
+
+(Maharashtra Act No XXIV of 1961)
+
+{Received the assent of the President on the 4th day of May 1961:
+
+Assent first published in the Maharashtra Gover"
+MH_ACT_1960_SEC_107_A,MH_ACT_1960,parent,95,199,201,107-A,,,Maximum rates of traveling allowance and daily allowance and sitting fees etc. for,CONTEXT_PARENT;TABLE_REVIEW,,INFO,F_TABLE,"107-A. Maximum rates of traveling allowance and daily allowance and sitting fees etc. for members of Committees —
+
+Subject to the provision of section 160-A, no member of a Committee of any Society sh"
+MH_ACT_1960_SEC_107_A_SUB_1,MH_ACT_1960,child,354,199,199,107-A,,,Maximum rates of traveling allowance and daily allowance and sitting fees etc. for,TABLE_REVIEW,,INFO,F_TABLE,"(1) Traveling Allowance.—
+
+(a) Journey by Air.—
+
+The Chairman or vice-Chairman of a Society which is an Apex Society or a State Level Society or a Cooperative Sugar Factory or a Co-operative Spinning "
+MH_ACT_1960_SEC_107_A_SUB_2,MH_ACT_1960,child,583,200,201,107-A,,,Maximum rates of traveling allowance and daily allowance and sitting fees etc. for,TABLE_REVIEW,,INFO,F_TABLE,"(2) Daily Allowance.—
+
+(a) (I) Rates of daily allowance admissible while on tour.—
+
+Subject to the provisions of clause (b), a member of a Committee of a class of Society shown in column (1) of the Ta"
+MH_ACT_1960_SEC_107_A_SUB_3,MH_ACT_1960,child,202,201,201,107-A,,,Maximum rates of traveling allowance and daily allowance and sitting fees etc. for,TABLE_REVIEW,,INFO,F_TABLE,"(3) Sitting Fees.—
+
+A member of a Committee of class of Society shown in column (1) of the Table hereto shall be entitled to claim per meeting sitting fee at the rate shown against it in column (2) of"
+MH_ACT_1960_SEC_107_B,MH_ACT_1960,child,167,201,201,107-B,,,"Security to be furnished by officers and employees of societies handling cash, etc",TABLE_REVIEW,,INFO,F_TABLE,"107-B. Security to be furnished by officers and employees of societies handling cash, etc.—
+
+Every officer or employees of a society who is required to handle cash securities or property belonging to "
+MH_RULES_1961_RULE_107A,MH_RULES_1961,child,1548,95,99,,107A,,Maximum rates of travelling allowance and daily allowance and,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN;TABLE_REVIEW,,INFO,A_LONG;E_STRUCTURE;F_TABLE;C_TOP20_LONG,"1[ 107A. Maximum rates of travelling allowance and daily allowance and sitting fees, etc for members of Committees:- Subject to the provisions of section 160-A, no member of a committee of any society"
+MH_RULES_1961_FORM_M_13,MH_RULES_1961,child,67,128,128,,,,Form M-13,TABLE_REVIEW,,INFO,F_TABLE,"Form M-13 [See Rule 56A-11(2))
+
+List of Blind and Infirm voters
+
+Election to the ................................ Co-operative Society Ltd .......................,
+
+(name of society)
+
+Tahsil ........."
+MH_RULES_1961_FORM_M_14,MH_RULES_1961,child,103,128,129,,,,Form M-14,TABLE_REVIEW,,INFO,F_TABLE,"Form M-14 [See Rule 56A-13(2)1
+
+Tendered Voters List
+
+Election to the ................................ Co-operative Society Ltd.,......................
+
+(name of society)
+
+Tahsil ....................."
+MH_RULES_1961_FORM_N_002,MH_RULES_1961,child,263,139,139,,,,FORM ‘N',TABLE_REVIEW,,INFO,F_TABLE,"FORM ‘N' Profit and Loss Account
+
+Last
+
+Lost
+
+This
+
+This
+
+year's
+
+year's
+
+year's
+
+Income
+
+Expenditure year's
+
+figures
+
+figures
+
+figures
+
+Rs. nP.
+
+Rs. nP.
+
+Rs. nP.
+
+Interest Received :
+
+. ... (I)
+
+Inte"
+PACS_COMPUTERIZATION_SEC_3_8_1,PACS_COMPUTERIZATION,child,64,7,7,3.8.1,,,"Project Cost, Sources of Funds & Funding Pattern",TABLE_REVIEW,,INFO,F_TABLE,"3.8.1 Project Cost:
+
+The total cost of the project is estimated at ₹2516.00 crore to be shared as under:
+
+Agency Cost share (₹ Crore)
+
+Government of India (60.73%)
+
+1528
+
+State Govt. (29.25%)
+
+736
+
+NA"
+PACS_COMPUTERIZATION_SEC_3_8_2,PACS_COMPUTERIZATION,child,133,7,8,3.8.2,,,"Project Cost, Sources of Funds & Funding Pattern",TABLE_REVIEW,,INFO,F_TABLE,"3.8.2 Component wise Cost Sharing Pattern:
+
+Component Cost Sharing pattern
+
+Comprehensive software To be shared by GoI and NABARD. NABARD will
+
+Component Cost Sharing pattern
+
+(including cyber securit"
+PACS_COMPUTERIZATION_SEC_023,PACS_COMPUTERIZATION,child,83,8,8,,,,₹ per PACS,TABLE_REVIEW,,INFO,F_TABLE,"Amount in
+
+SN
+
+Item
+
+₹ per PACS
+
+A
+
+Per PACS project cost
+
+Hardware –Computer, Multi-functional Devices (MFD),
+
+UPS, webcam, bio-metric scanner, external HDD,
+
+(i) including 5 years of AMC for hardwar"
+PACS_COMPUTERIZATION_SEC_024,PACS_COMPUTERIZATION,child,72,9,9,,,,₹ per PACS,TABLE_REVIEW,,INFO,F_TABLE,"Amount in
+
+SN
+
+Item
+
+₹ per PACS
+
+(iii) Training
+
+10,198/-
+
+a. Implementation Services including data preparation,
+
+digitization, verification till final reconciliation and
+
+porting into the ERP soluti"
+PACS_COMPUTERIZATION_SEC_3_8_4,PACS_COMPUTERIZATION,child,502,9,12,3.8.4,,,"Project Cost, Sources of Funds & Funding Pattern",TABLE_REVIEW,,INFO,F_TABLE,"3.8.4 Component wise Fund Flow Mechanism
+
+The component wise Fund Flow mechanism of the project will be as under:
+
+Cost
+
+Sl
+
+per Total cost Source of
+
+No Component
+
+Release of Fund
+
+PACS (in ₹ crore) "
+PACS_COMPUTERIZATION_SEC_027,PACS_COMPUTERIZATION,child,43,12,12,,,,Total No. of PACS to be Maintenance and hand-,TABLE_REVIEW,,INFO,F_TABLE,"Total No. of PACS to be Maintenance and hand-
+
+Year
+
+computerized
+
+holding support
+
+Year I 2022-23
+
+13,000
+
+Year II 2023-24
+
+20,000
+
+Handholding support of
+
+total 5 years from 2022-23
+
+Year III 2024-2"
+PMFBY_2023_SEC_002,PMFBY_2023,child,440,1,3,,,,Ministry of Agriculture & Farmers Welfare,TABLE_REVIEW;TOC_REVIEW,,REVIEW,F_TABLE,"Ministry of Agriculture & Farmers Welfare
+
+Government of India Krishi Bhawan, New Delhi-110001
+
+INDEX
+
+Operational Guidelines 2023
+
+Sl. No.
+
+Section
+
+Page No.
+
+1 Objective of the Scheme
+
+11
+
+2 Adoptio"
+PMFBY_2023_SEC_5_7_4_1,PMFBY_2023,child,99,18,19,5.7.4.1,,,,TABLE_REVIEW,,INFO,F_TABLE,"5.7.4.1 “Profit & Loss” Sharing Mechanism:
+
+Parameter
+
+Specifications
+
+Risk Sharing Insurance Company – up to loss ratios of 100%
+
+Insurance Company & Government (GoI and State Govt.) – Risk sharin
+
+1"
+PMFBY_2023_SEC_5_7_4_2,PMFBY_2023,child,119,20,20,5.7.4.2,,,,TABLE_REVIEW,,INFO,F_TABLE,"5.7.4.2 “Cup & Cap” model (60:130)
+
+Parameter
+
+Specifications
+
+Insurance Company – up to loss ratios of 130%
+
+Risk Sharing
+
+Government (GoI and State Govt. equally) – loss ratio > 130%
+
+Loss ratio bet"
+PMFBY_2023_SEC_5_7_4_3,PMFBY_2023,child,160,20,21,5.7.4.3,,,,TABLE_REVIEW,,INFO,F_TABLE,"5.7.4.3 “Cup & Cap” Model (80-110)
+
+Parameters
+
+Specifications
+
+Insurance Company – up to loss ratios of 110%
+
+Risk Sharing
+
+State Govt. – loss ratio > 110%
+
+Loss ratio between 0%-80% - Insurance Comp"
+PMFBY_2023_SEC_164,PMFBY_2023,child,139,38,38,,,,responding Increase/ Decrease in APR against each 1% point Increase/Decrease in,TABLE_REVIEW,,INFO,F_TABLE,"responding Increase/ Decrease in APR against each 1% point Increase/Decrease in
+
+APR Grid
+
+Indemnity Level
+
+Premium Range
+
+70%
+
+80%
+
+90%
+
+0%<=APR<5%
+
+4.65%
+
+5.80%
+
+6.90%
+
+5%<=APR<10%
+
+2.80%
+
+3.45%
+
+4."
+PMFBY_2023_SEC_7_6_10,PMFBY_2023,child,92,42,42,7.6.10,,,Procedure for Issuance of Tender by the States/UTs,TABLE_REVIEW,,INFO,F_TABLE,"7.6.10 The cost of implementing the WINDS component would be shared between Central and State Governments/UT Administrations on sunset basis as under:
+
+SN | Particulars | Sharing Ratio/Pattern between"
+PMFBY_2023_SEC_13_1,PMFBY_2023,parent,147,47,50,13.1,,,Premium Rates and Premium Subsidy,TABLE_REVIEW,,INFO,F_TABLE,"13.1 The Actuarial Premium Rate (APR) would be charged under PMFBY& RWBCIS by the implementing Insurance Company. The rate of premium payable by the farmer will be as per the following Table 1:
+
+Seaso"
+PMFBY_2023_SEC_16_4,PMFBY_2023,child,2475,52,57,16.4,,,Seasonality Discipline,LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW,,INFO,A_LONG;F_TABLE;C_TOP20_LONG,"16.4 The broad indicative seasonality discipline is given in the Table 2 below:
+
+Action to
+
+S. No.
+
+Activity
+
+Kharif
+
+Rabi
+
+be taken by
+
+Nodal
+
+Conduct of SLCCCI meeting to take decision
+
+15th Novembe"
+PMFBY_2023_SEC_17_6_6,PMFBY_2023,child,317,61,62,17.6.6,,,Loanee Farmers:,TABLE_REVIEW,,INFO,F_TABLE,"17.6.6 Detailed example for Calculation of crop-wise Sum Insured (SI) for the season for coverage of loanee farmers is given in Table 3 below:
+
+| Crop 1 | Crop 2 | Crop 3 | Crop 4 | Crop 5 | Crop 6
+To"
+PMFBY_2023_SEC_340,PMFBY_2023,child,258,74,74,,,,An Example for Yield Calculation for multi-picking crop is mentioned in Table 5 below:,TABLE_REVIEW,,INFO,F_TABLE,"An Example for Yield Calculation for multi-picking crop is mentioned in Table 5 below:
+
+Crop | Experiment no. | Picking 1 Yield (kg) | Picking 2 Yield (kg) | Picking 3 Yield (kg) | Picking 4 Yield (kg"
+PMFBY_2023_SEC_20_2_1_9,PMFBY_2023,child,83,85,85,20.2.1.9,,,Yield Estimation System Based on Technology (YES-TECH),TABLE_REVIEW,,INFO,F_TABLE,"20.2.1.9 Cost of implementing the YES-TECH component would be shared between the GoI and the State/UT Government on sunset basis as under:
+
+| Particulars | Sharing Ratio/Pattern between Central and St"
+PMFBY_2023_SEC_21_3_5_11,PMFBY_2023,child,1117,92,95,21.3.5.11,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW,,INFO,A_LONG;F_TABLE,"21.3.5.11 Detailed Procedure and Timelines for payment of Prevented / Failed Sowing and Prevented Planting / Germination Claims is mentioned in Table 8 below:
+
+Schedule for taking
+
+Sl. No. Action requ"
+PMFBY_2023_SEC_21_4_6_6,PMFBY_2023,child,886,99,102,21.4.6.6,,,On-Account Payment of Claims due to Mid-Season Adversity,TABLE_REVIEW,,INFO,F_TABLE,"21.4.6.6 Detailed Procedure and Timelines for On Account Payment of Claims due to Mid- Season Adversity is mentioned in Table 9 below:
+
+Action to be taken Schedule for taking
+
+Sl. No Action required t"
+PMFBY_2023_SEC_506,PMFBY_2023,child,40,106,106,,,,D. The tentative sample size would be as under:,TABLE_REVIEW,,INFO,F_TABLE,"D. The tentative sample size would be as under:
+
+Intimation (affected area against Insured are
+
+Survey
+
+notiﬁed crop)
+
+Less than 25%
+
+All Intimations would be surveyed
+
+Sample survey at IU crop level "
+PMFBY_2023_SEC_21_5_10,PMFBY_2023,child,629,107,109,21.5.10,,,Localized Calamity,TABLE_REVIEW,,INFO,F_TABLE,"21.5.10 Detailed Procedure and Timelines for payment of Localized claims is mentioned in Table 10 below:
+
+Schedule for
+
+Action required to be taken
+
+Sl. No.
+
+Action to be taken by
+
+taking action
+
+Inti"
+PMFBY_2023_SEC_516,PMFBY_2023,parent,647,109,111,,,,Protocol for Area based Assessment: If affected area >25% of total insured Area:,TABLE_REVIEW,,INFO,F_TABLE,"Protocol for Area based Assessment: If affected area >25% of total insured Area:
+
+Action to be taken Schedule for taking
+
+Action required to be taken
+
+Sl. No.
+
+by
+
+action
+
+Fulfilment of eligibility of"
+PMFBY_2023_SEC_516_SUB_1,PMFBY_2023,child,529,109,111,,,,Protocol for Area based Assessment: If affected area >25% of total insured Area:,TABLE_REVIEW,,INFO,F_TABLE,"Protocol for Area based Assessment: If affected area >25% of total insured Area:
+
+Action to be taken Schedule for taking
+
+Action required to be taken
+
+Sl. No.
+
+by
+
+action
+
+Fulfilment of eligibility of"
+PMFBY_2023_SEC_516_SUB_2,PMFBY_2023,child,192,111,111,,,,Protocol for Area based Assessment: If affected area >25% of total insured Area:,TABLE_REVIEW,,INFO,F_TABLE,Data of loss assessment ﬁnalized by DLJC and admissible claims will be Within 7 days of the Insurance Company uploaded on the NCIP against survey. 7 the farmer from whom loss intimation has been recei
+PMFBY_2023_SEC_542,PMFBY_2023,child,39,114,115,,,,I. The tentative sample size would be as under:,TABLE_REVIEW,,INFO,F_TABLE,"I. The tentative sample size would be as under:
+
+Intimation (Insured area under notiﬁed
+
+Survey
+
+crop)
+
+All Intimations would be surveyed
+
+Less than 25%
+
+Sample survey at IU crop level as per mid-
+
+>2"
+PMFBY_2023_SEC_21_6_10_8,PMFBY_2023,child,636,115,117,21.6.10.8,,,Post-Harvest Losses,TABLE_REVIEW,,INFO,F_TABLE,21.6.10.8 Farmers getting enrolled or whose premium is debited after the occurrence of insurance peril or data has not been uploaded on NCIP would not be eligible for ﬁnancial support under this cover
+PMFBY_2023_SEC_551,PMFBY_2023,child,387,117,118,,,,Sl. No. Action required to be taken Action to be taken by Schedule for taking action,TABLE_REVIEW,,INFO,F_TABLE,"Protocol for Area based Assessment: If affected area>25% of total insured Area Sl. No. Action required to be taken Action to be taken by Schedule for taking action
+
+Fulﬁllment of eligibility of post-
+"
+PMFBY_2023_SEC_552,PMFBY_2023,child,196,119,119,,,,Sl. No. Action required to be taken Action to be taken by Schedule for taking action,TABLE_REVIEW,,INFO,F_TABLE,"Sl. No. Action required to be taken Action to be taken by Schedule for taking action
+
+based on the joint survey.
+
+out the loss assessment
+
+surveys subject to receipt of
+
+full Government share of
+
+Paym"
+PMFBY_2023_SEC_562,PMFBY_2023,child,219,121,121,,,,Claim Reported,TABLE_REVIEW,,INFO,F_TABLE,"Claim Reported
+
+Is this multi-peril
+
+No
+
+Calculate the claim by multiplying
+
+claim reported on
+
+%age with Notified SI & pay as
+
+Same Land
+
+per applicable provisions.
+
+Parcel-Same Crop
+
+& Same Season?
+"
+PMFBY_2023_ANNEXURE_II,PMFBY_2023,child,376,174,175,,,,ANNEXURE - II,TABLE_REVIEW,,INFO,F_TABLE,"ANNEXURE - II
+
+Format for reporting of excess area insured/ acreage discrepancy for consideration of
+
+application of area correction factor by Insurance Company
+
+(All areas in Hectare)
+
+Details availa"
+PMFBY_2023_ANNEXURE_III,PMFBY_2023,parent,682,176,181,,,,ANNEXURE- III,CONTEXT_PARENT;TABLE_REVIEW,,INFO,F_TABLE,"ANNEXURE- III
+
+Illustration for classiﬁcation of risks, clubbing / clustering of risks and Districts and
+
+determination of L1 bidder:
+
+Method 1
+
+Deﬁne Risk Level
+
+i. Calculate Loss Cost for each distr"
+PMFBY_2023_ANNEXURE_III_SUB_1,PMFBY_2023,child,227,178,178,,,,ANNEXURE- III,TABLE_REVIEW,,INFO,F_TABLE,"d) Allocation of codes to different districts:
+
+• Arrange the districts in any order.
+
+• Write risk level and coverage level corresponding to each district.
+
+• On the basis on above code table allot c"
+PMFBY_2023_ANNEXURE_III_SUB_2,PMFBY_2023,child,280,178,179,,,,ANNEXURE- III,TABLE_REVIEW,,INFO,F_TABLE,"Applicable conditions for Clustering/Clubbing of districts:
+
+i. Within the cluster, Insurance Companies would be required to quote the premium rates for all district-crop combination for their bids to"
+PMFBY_2023_ANNEXURE_III_SUB_3,PMFBY_2023,child,893,179,181,,,,ANNEXURE- III,TABLE_REVIEW,,INFO,F_TABLE,"Method 2
+
+Agriculture output in the area/ district is inﬂuenced by the agro-climatic conditions of that area/district. On the basis of the variation in agriculture output (crops) in each district duri"
+PMFBY_2023_ANNEXURE_IV,PMFBY_2023,child,1100,182,185,,,,ANNEXURE- IV,LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW,,INFO,A_LONG;F_TABLE,"ANNEXURE- IV
+
+Checklist for STAC while disposing-off Yield Disputes under PMFBY and for referring
+
+case to Central TAC
+
+SN | Particular | | (Yes/No) | If Yes- then give date and attach as Annexure, If"
+PMFBY_2023_ANNEXURE_V,PMFBY_2023,parent,8736,186,210,,,,ANNEXURE- V,CONTEXT_PARENT;LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW,,INFO,A_LONG;F_TABLE;C_TOP20_LONG,"ANNEXURE- V
+
+Illustration of Modalities of Claim Settlement under Multiple Events of similar or
+
+different Perils at same land-parcel & Crop under PMFBY
+
+Scenarios | | | Clarifications/Remarks |
+1. Cl"
+PMFBY_2023_ANNEXURE_V_SUB_1,PMFBY_2023,child,718,206,207,,,,ANNEXURE- V,TABLE_REVIEW,,INFO,F_TABLE,"Localized Claims
+
+and will not be reduced by localized
+
+(Rs.)
+
+claim amount paid
+
+Residual Sum
+
+Insured for Post-
+
+Sum Insured value will be reduced by
+
+Harvest (Rs.)
+
+41,875
+
+Amount of Localized clai"
+PMFBY_2023_ANNEXURE_V_SUB_2,PMFBY_2023,child,1104,208,210,,,,ANNEXURE- V,LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW,,INFO,A_LONG;F_TABLE,"Residual Sum
+
+Sum Insured value remains identical
+
+Insured for
+
+after invocation of WSL/MSA loss
+
+Localized Claims
+
+%age and will not be reduced by
+
+(Rs.)
+
+41,875
+
+localized claim amount paid
+
+Residua"

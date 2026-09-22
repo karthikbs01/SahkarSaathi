@@ -1,0 +1,309 @@
+chunk_id,source_id,record_type,word_count,page_start,page_end,section,rule,clause,heading,warning,audit_flags,severity,groups,text_excerpt
+MSCS_AMD_2023_ITEM_17,MSCS_AMD_2023,child,1894,7,10,,,,,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG;C_TOP20_LONG,"17. For section 45 of the principal Act, the following sections shall be substituted,
+
+Substitution of new section
+
+namely:––
+
+for section 45.
+
+‘45. (1) The Central Government shall, by notification, "
+MSCS_RULES_2002_CONTEXT_022,MSCS_RULES_2002,child,924,19,21,,,,,LONG_CHUNK_NO_SAFE_SPLIT;RULE_IDENTIFIER_MISSING;STRUCTURE_UNCERTAIN,MISSING_STRUCTURAL_ID,REVIEW,A_LONG;E_STRUCTURE,"Chapter 6 Appeals and Review
+
+Appeals 31.
+
+For the purpose of sub-section (2) of section 99, an appeal against any decision or order shall be made, if the decision or order was made by–
+
+(a) the Centr"
+MSCS_RULES_2002_RULE_36,MSCS_RULES_2002,child,6103,23,37,,36,,Mode of service of summon,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE;C_TOP20_LONG,"Chapter 9 Miscellaneous
+
+36. Mode of service of summon
+
+(1) Every summon issued under the Act or these rules shall be in writing, shall be authenticated by the sea, if any, of the officer by whom it i"
+MSCS_RULES_2002_SCHEDULE_027,MSCS_RULES_2002,child,4087,37,46,,,,SCHEDULE,LONG_CHUNK_NO_SAFE_SPLIT;MULTIPLE_FORMS_REVIEW,,INFO,A_LONG;C_TOP20_LONG,"SCHEDULE
+
+1. Procedure for the conduct of election to the board of Multi-State Co-operative Societies
+
+(a) The board of Directors in office shall meet, at least, sixty clear days in advance of the dat"
+MSCS_RULES_AMD_2023_ITEM_4,MSCS_RULES_AMD_2023,child,7390,2,12,,,,,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG;C_TOP20_LONG,"4. मूल जनयम में, जनयम 19 के स्ट् थान पर, जनम् नजलजखत जनयम रखा िाएगा,अथाातम: -
+
+“19. चयन सजमजत की संरचना - (1) प्राजधकरण के सभापजत, उपसभापजत और उसके प्रत् येक सिस्ट् य की जनयुजि एक चयन सजमजत की जसफाररि"
+MSCS_RULES_AMD_2023_ITEM_7,MSCS_RULES_AMD_2023,child,1497,14,16,,,,,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG;C_TOP20_LONG,"7. मूल जनयमों में, अध् याय 5 के पश् चातम जनम् नजलजखत अध् याय अंत:स्ट् थाजपत दकया िाएगा, अथाातम: -
+
+“अध् याय 5क
+
+सहकारी ऑम् बुड्समसमैन
+
+30क. ऑम् बुड्समसमैन की जनयुजि और उसका िेत्राजधकार- (1) केन्द् रीय"
+MSCS_RULES_AMD_2023_ITEM_10,MSCS_RULES_AMD_2023,child,1122,17,19,,,,,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"10. मूल जनयमों में जनयम 37 के पश् चातम, जनम् नजलजखत जनयमों को अंत्स्ट्थाजपत दकया िाएगा,अथाातम: -
+
+“37क. सहकारी सोसाइरटयों में कार्माकों की भती - जवजभन्द् न स्ट् तरों पर कार्माकों की भती एक पारििी, उेे"
+MSCS_RULES_AMD_2023_ITEM_14,MSCS_RULES_AMD_2023,child,2110,20,27,,,,,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG;C_TOP20_LONG,"14. मूल जनयमों में प्रूपप -V के स्ट् थान पर, जनम् नजलजखत प्रूपप रखा िाएगा, अथाातम: -
+
+“प्रूपप V
+
+[जनयम19 िेखें]
+
+पिाजधकाररयों के जनवााचन हेतु नामांकन पत्र
+
+1. बहुराज्य सहकारी सोसाइटी का नाम और पता:
+
+2"
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19M,MSCS_RULES_AMD_2023,child,1319,32,34,,19M,,,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"19M. Voting.— (1) If for any area or constituency for which election is to be held, the number of candidates whose nomination Forms have been declared valid, does not exceed the number of candidates t"
+KA_ACT_1959_SEC_2,KA_ACT_1959,child,2223,33,40,2,,,Definitions,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE;C_TOP20_LONG,"2. Definitions.- In this Act, unless the context otherwise requires,—
+
+1 [(a) ‗Apex Society‘ means a federal society whose area of operation extends to the whole
+
+of the State;
+
+5 [(a-1) ‗Area of oper"
+KA_ACT_1959_SEC_2A,KA_ACT_1959,child,907,40,42,2A,,,"Registrar, Additional Registrars, Joint Registrars, Deputy Registrars [,State",LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE,"2A. Registrar, Additional Registrars, Joint Registrars, Deputy Registrars [,State
+
+2
+
+Representatives]
+
+and Assistant Registrars.-
+
+(1) The State Government may appoint a
+
+person to be the Registrar o"
+KA_ACT_1959_SEC_28A,KA_ACT_1959,child,2235,64,70,28A,,,Management of co-operative societies vest in the *board*,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE;C_TOP20_LONG,"[28A. Management of co-operative societies vest in the *board*.-
+
+(1) The
+
+management of a co-operative society shall vest in a *board* constituted in accordance with
+
+this Act, the rules and the bye-"
+KA_ACT_1959_SEC_29G_SUB_6,KA_ACT_1959,child,994,79,81,29G,,,Appointment of Chief Executive,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"(6) In respect of primary co-operative societies, the Chief Executive shall send a [copy of
+
+1
+
+the receipt and payment account] duly certified by him every month to the Registrar and the
+
+financing b"
+KA_ACT_1959_SEC_39_SUB_2,KA_ACT_1959,child,1078,88,91,39,,,Registration of documents executed on behalf of co-operative societies,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"(2) Where any instrument is so executed, the registering officer to whom such instrument
+
+is presented for registration may, if he thinks fit, refer to such member, secretary or officer for
+
+informati"
+KA_ACT_1959_CONTEXT_120,KA_ACT_1959,child,2483,104,109,,,,,LONG_CHUNK_NO_SAFE_SPLIT;SECTION_IDENTIFIER_MISSING;STRUCTURE_UNCERTAIN,MISSING_STRUCTURAL_ID,REVIEW,A_LONG;E_STRUCTURE;C_TOP20_LONG,"CHAPTER VIII
+
+AUDIT, INQUIRY, INSPECTION AND SURCHARGE.
+
+1 [63 Audit.- (1) Every Cooperative society shall get its accounts audited at least
+
+once in a year before the first of September following the"
+KA_ACT_1959_SEC_129_SUB_2,KA_ACT_1959,child,1185,172,175,129,,,Powers to make rules,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"(2) In particular, and without prejudice to the generality of the foregoing power, such rules
+
+may provide for all or any of the following matters, namely:—
+
+(a) the applicant to whom the order refusi"
+KA_ACT_1959_SEC_37_002,KA_ACT_1959,child,1355,179,185,37,,,Repeal and Savings,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE,"37. Repeal and Savings.-
+
+(1) The Karnataka Co-operative Societies (Amendment)
+
+Ordinance, 2009 (Karnataka Ordinance No. 8 of 2009) is hereby repealed.
+
+(2) Notwithstanding such repeal anything done o"
+MH_ACT_1960_CONTEXT_002,MH_ACT_1960,child,1367,2,4,,,,,LONG_CHUNK_NO_SAFE_SPLIT;SECTION_IDENTIFIER_MISSING;STRUCTURE_UNCERTAIN,MISSING_STRUCTURAL_ID,REVIEW,A_LONG;E_STRUCTURE,"CHAPTER I
+
+PRELIMINARY
+
+(1) Short Title, Extent and Commencement:--
+
+(1) This Act may be called the Maharashtra Co-operative Societies Act, 1960.
+
+(2) It extends to the whole of the State of Maharasht"
+MH_ACT_1960_SEC_73,MH_ACT_1960,child,1971,34,36,73,,,"Committee, its powers and functions",LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE;C_TOP20_LONG,"73. Committee, its powers and functions.—
+
+(1) The management of every society shall vest in a committee, constituted in accordance with this Act, the rules and bye-laws which shall exercise such powe"
+MH_ACT_1960_SEC_73_B,MH_ACT_1960,child,1912,38,42,73-B,,,"Reservation of seats on committees of certain societies for Scheduled Castes,",LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE;C_TOP20_LONG,"73-B. Reservation of seats on committees of certain societies for Scheduled Castes, Scheduled tribes, Other Backward Classes, De-notified Tribes (Vimukta Jatis), Nomadic Tribes, Special Backward Class"
+MH_ACT_1960_SEC_79,MH_ACT_1960,child,955,49,50,79,,,Registrar's power to enforce performance of obligations,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE,"79. Registrar's power to enforce performance of obligations.—
+
+(1) The Registrar may direct any society or class of societies, to keep proper books of accounts with respect to all sums of money receiv"
+MH_ACT_1960_SEC_91,MH_ACT_1960,child,1059,58,59,91,,,Disputes,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE,"CHAPTER IX
+
+SETTLEMENT OF DISPUTES
+
+91. Disputes.-
+
+(1) Notwithstanding anything contained in any other law for the time being in force, any dispute touching the constitution, elections of the committ"
+MH_ACT_1960_SCHEDULE_135,MH_ACT_1960,parent,990,71,84,,,,"Schedule Tribes and one from the persons belonging to the weaker section,",CONTEXT_PARENT;LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"Schedule Tribes and one from the persons belonging to the weaker section, who shall be elected from the District:
+
+Provided that, in district, where there are more than seven Taluka and before the dat"
+MH_ACT_1960_SCHEDULE_135_SUB_1,MH_ACT_1960,child,1328,72,74,,,,"Schedule Tribes and one from the persons belonging to the weaker section,",LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"112. B General Body and committee of State Agriculture and Rural Development Bank.—
+
+(1) Notwithstanding anything contained in this Act, or in the rules made there under, or in the bye-laws of the Sta"
+MH_ACT_1960_SCHEDULE_135_SUB_22,MH_ACT_1960,child,1041,82,84,,,,"Schedule Tribes and one from the persons belonging to the weaker section,",LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"143. Service of notice.—
+
+The provisions of section 102 and 103 of the Transfer of Property Act, 1882, and of any rules made under section 104 thereof, shall apply, so far as may be in respect of all "
+MH_ACT_1960_SEC_165_SUB_2,MH_ACT_1960,child,2756,103,108,165,,,Rules,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG;C_TOP20_LONG,"(2) In particular, and without prejudice to the generality of the foregoing power, such rules may-
+
+(i) subject to the provisions of section, prescribe the designation of officers who shall exercise p"
+MH_ACT_1960_FORM_D_SUB_7,MH_ACT_1960,child,1630,120,122,,,,Form D.,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG;C_TOP20_LONG,"18. Reconstruction of a society.—
+
+(1) An application for reconstruction of a society under section 19 may be made in Form H. On receipt of such application the Registrar may, taking into consideratio"
+MH_ACT_1960_SEC_53_002,MH_ACT_1960,child,1402,136,139,53,,,Rate of annual contribution to education fund of Slate Federal Society,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"53. Rate of annual contribution to education fund of Slate Federal Society.-
+
+The rate at which the classes of societies specified under column (2) of the Table below shall contribute annually under s"
+MH_ACT_1960_CONTEXT_235,MH_ACT_1960,child,937,144,145,,,,,LONG_CHUNK_NO_SAFE_SPLIT;SECTION_IDENTIFIER_MISSING;STRUCTURE_UNCERTAIN,MISSING_STRUCTURAL_ID,REVIEW,A_LONG;E_STRUCTURE,"CHAPTER V - A
+
+ELECTION TO NOTIFIED SOCIETIES, ETC
+
+56 - A Manner of election to notified Societies.-
+
+(1) The elections of the societies notified by the State Government under Section 73-IC. shall be"
+MH_ACT_1960_SEC_56Z,MH_ACT_1960,child,5644,152,161,56Z,,,Ballot Box,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE;C_TOP20_LONG,"56Z. Ballot Box —
+
+Every ballot box shall be of such design as may be approved by the Chief Election Officer.
+
+56A-1. Form of ballot paper.—
+
+Every ballot paper shall be in Form M-10 and the names of "
+MH_ACT_1960_SEC_107_002_SUB_5,MH_ACT_1960,child,1336,191,193,107,,,Procedure for attachment and sale of property under section 156,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"(5) In the seizure and sale of moveable property, the following rules shall be observed:—
+
+(a) The Sale Officer shall, after giving previous notice to the applicant, proceed to the village where the d"
+MH_ACT_1960_SEC_107_002_SUB_11,MH_ACT_1960,child,1395,195,197,107,,,Procedure for attachment and sale of property under section 156,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"(11) In the attachment and sale or sale without attachment of immovable property, the following rules shall be observed:—
+
+(a) The application presented under sub-rule (2) shall contain a description "
+MH_RULES_1961_RULE_13,MH_RULES_1961,child,1001,10,11,,13,,Manner of calling upon society to make amendment to bye-laws:- (1),LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE,"13. Manner of calling upon society to make amendment to bye-laws:-
+
+(1) Subject to the provisions of this rule, the Registrar may by serving a notice in Form 'E' call upon a society to make such amend"
+MH_RULES_1961_RULE_18A_SUB_1,MH_RULES_1961,child,1303,14,16,,18A,,Conditions for realising the assets and liquidating the liabilities of the,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"(1) The Official Assignee shall work under the general control, superintendence and directions of the Registrar.
+
+(2) He shall have the following powers for the purposes of realising the assets and fo"
+MH_RULES_1961_RULE_53,MH_RULES_1961,child,951,30,33,,53,,Rates of annual contribution to education fund of State Federal,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,2[53. Rates of annual contribution to education fund of State Federal Society: - The rates at which the classes of societies specified under column (2) of the Table below shall contribute annually und
+MH_RULES_1961_RULE_153B,MH_RULES_1961,child,1630,34,36,,153B,,Manner of contributions to be made under the Rule 53A:- (1) The Apex society,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE;C_TOP20_LONG,"153B. Manner of contributions to be made under the Rule 53A:-
+
+(1) The Apex society which has been notified by the State Government under subsection (3) of Section 69-A shall open an account in the na"
+MH_RULES_1961_RULE_56A,MH_RULES_1961,child,1229,38,40,,56A,,Manner of election to notified Societies:- (i) The elections of the societies,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE,"56A. Manner of election to notified Societies:- (i) The elections of the societies notified by the State Government under Section 73-IC, shall be held or cause to be held by the Registrar through the "
+MH_RULES_1961_FORM_M_4_SUB_5,MH_RULES_1961,child,983,46,47,,,,Form M-4 :,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"56V. Appointment of Polling Agents and Counting Agents:- (J) At an election at which a poll is to be taken, any contesting candidate may appoint one agent and one relief agent to act as Polling Agents"
+MH_RULES_1961_FORM_M_4_SUB_6,MH_RULES_1961,child,1446,47,50,,,,Form M-4 :,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"56A-4. The preparation of ballot boxes for poll:- (J) Where a paper seal is used for securing a ballot box, the Presiding Officer shall affix his own signature on the paper seal and obtain thereon the"
+MH_RULES_1961_FORM_M_4_SUB_13,MH_RULES_1961,child,1059,53,55,,,,Form M-4 :,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"56A-23. Scrutiny and rejection of ballot papers:-
+
+(1) The ballot papers taken out of each ballot box shall be arranged in convenient bundles and scrutinised.
+
+(2) The Returning Officer shall reject a"
+MH_RULES_1961_RULE_57_SUB_1,MH_RULES_1961,child,1437,57,59,,57,,Prohibition against being interested in contracts etc:- (1),LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"(1) No officer of a society shall have any interest, directly or indirectly otherwise than as such Officer;—
+
+(a) in any contract made with or by the society; or
+
+(b) in any property sold or purchased"
+MH_RULES_1961_FORM_P_SUB_5,MH_RULES_1961,child,1272,73,75,,,,"Form P, make the following averments, namely ;—",LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"85. Transfer of property which cannot be sold:-(1) When in execution of an order sought to be executed under Section 98 any property cannot be sold for want of buyers, if such property is in the posse"
+MH_RULES_1961_RULE_93,MH_RULES_1961,child,1449,80,82,,93,,Procedure for Submission and consideration of applications for loans,LONG_CHUNK_NO_SAFE_SPLIT;MULTIPLE_FORMS_REVIEW;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE;C_TOP20_LONG,"Chapter X
+
+Land Development Banks
+
+93. Procedure for Submission and consideration of applications for loans from Land Development Banks:-
+
+(1) All applications for loans from a Land Development Bank s"
+MH_RULES_1961_RULE_107,MH_RULES_1961,child,5770,87,95,,107,,1 [Procedure for attachment and sale of property under Section 156.]:,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN,,INFO,A_LONG;E_STRUCTURE;C_TOP20_LONG,"Chapter XII
+
+Miscellaneous
+
+107.1 [Procedure for attachment and sale of property under Section 156.]:-
+
+1[(l) A creditor holding a decree requiring the provisions of Section 156 to be applied, or soci"
+MH_RULES_1961_RULE_107A,MH_RULES_1961,child,1548,95,99,,107A,,Maximum rates of travelling allowance and daily allowance and,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN;TABLE_REVIEW,,INFO,A_LONG;E_STRUCTURE;F_TABLE;C_TOP20_LONG,"1[ 107A. Maximum rates of travelling allowance and daily allowance and sitting fees, etc for members of Committees:- Subject to the provisions of section 160-A, no member of a committee of any society"
+MH_RULES_1961_FORM_N,MH_RULES_1961,child,1108,133,138,,,,FORM N,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"FORM N [See Rule 62(1)]
+
+Balance Sheet
+
+Instructions in accordance Liabilities with which liabilities should be Figures for
+
+Figures
+
+made out
+
+the
+
+for the
+
+previous
+
+current
+
+1
+
+year
+
+3
+
+year
+
+2
+
+4 "
+PACS_MODEL_BYLAWS_CLAUSE_10,PACS_MODEL_BYLAWS,parent,1048,20,27,,,10,BOARD OF DIRECTOR,CONTEXT_PARENT;LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"10. BOARD OF DIRECTOR
+
+(1) There shall be a Board of Directors of the Society to manage its affairs and it shall
+
+be constituted by election from amongst members of the Society or as laid down
+
+in the"
+PMFBY_2023_SEC_003,PMFBY_2023,child,1184,4,9,,,,TABLE INDEX,LONG_CHUNK_NO_SAFE_SPLIT,,INFO,A_LONG,"TABLE INDEX
+
+Table No. | Topic | Para. No.
+Table 1 | Premium Rate Payable by the Farmer | 13.1
+Table 2 | Seasonality Discipline | 16.4
+Table 3 | Calculation of Crop-wise Sum Insured | 17.6.6
+Table 4 |"
+PMFBY_2023_SEC_16_4,PMFBY_2023,child,2475,52,57,16.4,,,Seasonality Discipline,LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW,,INFO,A_LONG;F_TABLE;C_TOP20_LONG,"16.4 The broad indicative seasonality discipline is given in the Table 2 below:
+
+Action to
+
+S. No.
+
+Activity
+
+Kharif
+
+Rabi
+
+be taken by
+
+Nodal
+
+Conduct of SLCCCI meeting to take decision
+
+15th Novembe"
+PMFBY_2023_SEC_21_3_5_11,PMFBY_2023,child,1117,92,95,21.3.5.11,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW,,INFO,A_LONG;F_TABLE,"21.3.5.11 Detailed Procedure and Timelines for payment of Prevented / Failed Sowing and Prevented Planting / Germination Claims is mentioned in Table 8 below:
+
+Schedule for taking
+
+Sl. No. Action requ"
+PMFBY_2023_ANNEXURE_IV,PMFBY_2023,child,1100,182,185,,,,ANNEXURE- IV,LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW,,INFO,A_LONG;F_TABLE,"ANNEXURE- IV
+
+Checklist for STAC while disposing-off Yield Disputes under PMFBY and for referring
+
+case to Central TAC
+
+SN | Particular | | (Yes/No) | If Yes- then give date and attach as Annexure, If"
+PMFBY_2023_ANNEXURE_V,PMFBY_2023,parent,8736,186,210,,,,ANNEXURE- V,CONTEXT_PARENT;LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW,,INFO,A_LONG;F_TABLE;C_TOP20_LONG,"ANNEXURE- V
+
+Illustration of Modalities of Claim Settlement under Multiple Events of similar or
+
+different Perils at same land-parcel & Crop under PMFBY
+
+Scenarios | | | Clarifications/Remarks |
+1. Cl"
+PMFBY_2023_ANNEXURE_V_SUB_2,PMFBY_2023,child,1104,208,210,,,,ANNEXURE- V,LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW,,INFO,A_LONG;F_TABLE,"Residual Sum
+
+Sum Insured value remains identical
+
+Insured for
+
+after invocation of WSL/MSA loss
+
+Localized Claims
+
+%age and will not be reduced by
+
+(Rs.)
+
+41,875
+
+localized claim amount paid
+
+Residua"

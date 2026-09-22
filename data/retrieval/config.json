@@ -1,0 +1,19 @@
+{
+  "model_name": "intfloat/multilingual-e5-small",
+  "model_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "embedding_dimension": 384,
+  "max_seq_length": 512,
+  "query_prefix": "query: ",
+  "passage_prefix": "passage: ",
+  "context_token_limit": 64,
+  "body_window_tokens": 440,
+  "batch_size": 16,
+  "cpu_threads": 4,
+  "device": "cpu",
+  "top_k": 5,
+  "abstention_similarity_threshold": 0.7,
+  "selection_reason": "Small multilingual retrieval encoder with 384-dimensional vectors; model language list includes English, Hindi, Kannada and Marathi. Runs locally on CPU without a paid API. Low-resource language quality still requires separate evaluation.",
+  "model_documentation": "https://huggingface.co/intfloat/multilingual-e5-small",
+  "long_chunk_policy": "Non-overlapping token windows with bounded structural context; token-weighted mean of normalized window vectors, then normalize to one vector per original chunk. No source text is discarded or changed.",
+  "abstention_policy": "Uncalibrated baseline: no hits or maximum cosine similarity below 0.70 is a candidate. Similarity is not evidence of factual support. Human support review is required; labels and expected sources never influence retrieval or this heuristic."
+}

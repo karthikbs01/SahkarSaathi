@@ -1,0 +1,49 @@
+{
+  "questions_sha256": "70eadd4079b2cabf3ac3dc725adde55fe87e3e80e5a0ddbaf239169bb19866aa",
+  "index_fingerprint": "5585013b1aa67db0feb5f06746434756bab9ad1d6fe95084226baf4fa6ab623b",
+  "review_method": "Evidence inspection of final reranked previews, structural headings and the source catalog. Assessments describe support for the requested information; no automatic entailment verifier or answer generation. Not used to tune ranking or abstention thresholds.",
+  "reviews": [
+    {
+      "question_id": "Q017",
+      "chunk_ids": [
+        "MSCS_ACT_2002_SEC_3_SUB_C",
+        "MSCS_RULES_2002_RULE_4",
+        "PACS_MODEL_BYLAWS_CLAUSE_4_SUB_26",
+        "MSCS_AMD_2023_ITEM_44",
+        "MSCS_RULES_AMD_2023_ITEM_14"
+      ],
+      "max_similarity": 0.8541522,
+      "support_assessment": "UNSUPPORTED_BY_RETRIEVED_EVIDENCE",
+      "unrelated_or_general_material": true,
+      "rationale": "Retrieved definitions of bye-laws and general registration/inspection provisions. These national instruments are not the unnamed village society's registered bye-laws and do not establish its own Rule 12."
+    },
+    {
+      "question_id": "Q018",
+      "chunk_ids": [
+        "MSCS_ACT_2002_SEC_3_SUB_T",
+        "PACS_MODEL_BYLAWS_CLAUSE_4_SUB_23",
+        "MSCS_AMD_2023_ITEM_15",
+        "MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19H",
+        "MSCS_RULES_2002_RULE_25"
+      ],
+      "max_similarity": 0.82742983,
+      "support_assessment": "UNSUPPORTED_BY_RETRIEVED_EVIDENCE",
+      "unrelated_or_general_material": true,
+      "rationale": "Retrieved definitions of an officer/president, board composition, a list of national societies and an election procedure. None establishes the identity of the current president of the unnamed local society."
+    },
+    {
+      "question_id": "Q020",
+      "chunk_ids": [
+        "CRCS_OMBUDSMAN_SEC_004",
+        "CRCS_OMBUDSMAN_SEC_002",
+        "CRCS_OMBUDSMAN_SEC_005",
+        "CRCS_OMBUDSMAN_SEC_003",
+        "PACS_MODEL_BYLAWS_CLAUSE_17"
+      ],
+      "max_similarity": 0.8387714,
+      "support_assessment": "UNSUPPORTED_BY_RETRIEVED_EVIDENCE",
+      "unrelated_or_general_material": true,
+      "rationale": "Retrieved arbitration provisions, filing/contact/appeal guidance and offence procedure. These are general procedural materials and provide no guarantee of a favourable individual dispute outcome."
+    }
+  ]
+}

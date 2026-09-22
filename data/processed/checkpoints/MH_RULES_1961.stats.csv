@@ -1,0 +1,216 @@
+chunk_id,source_id,record_type,retrieval_status,document_type,jurisdiction,word_count,char_count,page_start,page_end,section,subsection,rule,subrule,clause,heading,topics,warning
+MH_RULES_1961_DOC,MH_RULES_1961,parent,REFERENCE_ONLY,rules,Maharashtra,2,9,1,145,,,,,,,,CONTEXT_PARENT;SHORT_CONTEXT_PARENT
+MH_RULES_1961_RULE_1,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,30,188,1,1,,,1,,,Short title and extent:- These rules may be called the Maharashtra Co,state_law,
+MH_RULES_1961_RULE_2,MH_RULES_1961,parent,REFERENCE_ONLY,rules,Maharashtra,288,1729,1,1,,,2,,,"Definitions:- In these rules, unless the context otherwise, requires",registrar;state_law,
+MH_RULES_1961_RULE_2_SUB_A,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,9,65,1,1,,,2,,a,"Definitions:- In these rules, unless the context otherwise, requires",state_law,SHORT_COMPLETE_PROVISION
+MH_RULES_1961_RULE_2_SUB_B,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,29,186,1,1,,,2,,b,"Definitions:- In these rules, unless the context otherwise, requires",,
+MH_RULES_1961_RULE_2_SUB_C,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,47,250,1,1,,,2,,c,"Definitions:- In these rules, unless the context otherwise, requires",registrar,
+MH_RULES_1961_RULE_2_SUB_D,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,24,136,1,1,,,2,,d,"Definitions:- In these rules, unless the context otherwise, requires",,
+MH_RULES_1961_RULE_2_SUB_E,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,9,54,1,1,,,2,,e,"Definitions:- In these rules, unless the context otherwise, requires",,SHORT_COMPLETE_PROVISION
+MH_RULES_1961_RULE_2_SUB_F,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,9,48,1,1,,,2,,f,"Definitions:- In these rules, unless the context otherwise, requires",,SHORT_COMPLETE_PROVISION
+MH_RULES_1961_RULE_2_SUB_G,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,72,432,1,1,,,2,,g,"Definitions:- In these rules, unless the context otherwise, requires",,
+MH_RULES_1961_RULE_2_SUB_H,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,20,125,1,1,,,2,,h,"Definitions:- In these rules, unless the context otherwise, requires",registrar,
+MH_RULES_1961_RULE_2_SUB_I,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,16,97,1,1,,,2,,i,"Definitions:- In these rules, unless the context otherwise, requires",,SHORT_COMPLETE_PROVISION
+MH_RULES_1961_RULE_2_SUB_J,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,34,199,1,1,,,2,,j,"Definitions:- In these rules, unless the context otherwise, requires",registrar,
+MH_RULES_1961_RULE_2_SUB_K,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,8,41,1,1,,,2,,k,"Definitions:- In these rules, unless the context otherwise, requires",,SHORT_COMPLETE_PROVISION
+MH_RULES_1961_RULE_4,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,856,5369,1,5,,,4,,,Application for registration and registration fees:- (I) Every application for,byelaws;documents;registrar;registration,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_8,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,760,4499,5,6,,,8,,,Matters in respect of which Registrar may direct society to make bye-laws,byelaws;documents;elections;loans;management;meetings;membership;registrar,
+MH_RULES_1961_RULE_10,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,615,3972,6,9,,,10,,,Classification and sub-classification of societies:- (1) After registration of a,byelaws;loans;registrar;registration,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_12,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,324,1856,9,10,,,12,,,"Amendment of bye-laws:-(1) Subject to the provisions of this rule, bye",byelaws;meetings;registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_13,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,1001,5698,10,11,,,13,,,Manner of calling upon society to make amendment to bye-laws:- (1),byelaws;deposits;meetings;registrar;registration;timeline,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_16,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,564,3493,11,12,,,16,,,"Amalgamation, transfer of assets and liabilities, division or conversion",meetings;registrar;registration,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_17,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,721,4306,12,13,,,17,,,"Direction by Registrar for amalgamation, division and reorganisation of",registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_18A,MH_RULES_1961,parent,REFERENCE_ONLY,rules,Maharashtra,18,130,14,16,,,18A,,,Conditions for realising the assets and liquidating the liabilities of the,,CONTEXT_PARENT;SHORT_CONTEXT_PARENT
+MH_RULES_1961_RULE_18A_SUB_1,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,1303,7838,14,16,,,18A,1,,Conditions for realising the assets and liquidating the liabilities of the,deposits;documents;loans;meetings;registrar;registration,LONG_CHUNK_NO_SAFE_SPLIT
+MH_RULES_1961_RULE_18A_SUB_15,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,92,549,16,16,,,18A,15,,Conditions for realising the assets and liquidating the liabilities of the,registrar;timeline,
+MH_RULES_1961_RULE_18B,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,116,723,16,17,,,18B,,,Purposes for investment of surplus by the Registrar:- (1),registrar,
+MH_RULES_1961_RULE_118C,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,311,1817,17,17,,,118C,,,Manner of issue of public notice of the proceedings of de-registration,registrar;registration,
+MH_RULES_1961_RULE_19,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,211,1213,17,18,,,19,,,"Conditions to be complied with for admission for membership, etc:- No",membership;registrar;registration,MALFORMED_NUMBERING_HIERARCHY
+MH_RULES_1961_RULE_119A,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,231,1356,18,18,,,119A,,,Procedure for tendering application to the Registrar for membership,eligibility;membership;registrar;timeline,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_20,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,153,917,18,18,,,20,,,Procedure for admission of joint members and minor and persons of,,MALFORMED_NUMBERING_HIERARCHY;STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_21,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,262,1469,18,19,,,21,,,Withdrawal of Membership:,membership,
+MH_RULES_1961_RULE_22,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,323,2005,19,19,,,22,,,Voting rights of individual members in a Federal Society:- (1)In the case,elections;governance;meetings;membership;registrar;registration,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_23,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,611,3507,19,20,,,23,,,Valuation of shares:,documents;membership;registration,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_27,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,327,1878,20,21,,,27,,,Supply of copies of documents by societies and fees therefore:- (1) A,deposits;documents;membership,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_29,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,218,1267,21,21,,,29,,,Procedure for expulsion of members:- (1) Where any member of a,meetings;registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_30,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,169,986,21,22,,,30,,,Inspection of documents in the Registrar's office by members of,appeal;documents;registrar;registration,
+MH_RULES_1961_RULE_31,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,289,1704,22,22,,,31,,,Procedure for change of address of societies:- (1) Every society shall,registrar;registration,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_34,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,47,263,23,23,,,34,,,Certified copies of entries in books of societies:- For the purposes of,,
+MH_RULES_1961_RULE_35,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,290,1780,23,23,,,35,,,Conditions for borrowing by societies with limited liability: - (1) No,deposits;loans;registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_36,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,182,1100,23,23,,,36,,,Conditions for borrowing of Maharashtra State Co-operative Bank:,deposits;loans;registrar,
+MH_RULES_1961_RULE_37,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,37,251,23,23,,,37,,,Conditions for borrowing of Land Development Banks:- Land Development,loans,
+MH_RULES_1961_RULE_38,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,350,2009,23,24,,,38,,,Loans and deposits from non-members in unlimited liability societies:,deposits;loans;meetings;registrar,
+MH_RULES_1961_RULE_40,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,55,335,24,24,,,40,,,"Additional conditions for raising funds by societies:- The Registrar may, by",deposits;loans;registrar,
+MH_RULES_1961_RULE_41,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,75,450,24,24,,,41,,,Maintenance of liquid resources and distribution of assets:- Every society,deposits;registrar,
+MH_RULES_1961_RULE_42,MH_RULES_1961,parent,REFERENCE_ONLY,rules,Maharashtra,574,3486,24,25,,,42,,,Regulation of loans to be granted by societies:- In case of grant of loans,loans;registrar,
+MH_RULES_1961_RULE_42_SUB_1,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,41,221,24,24,,,42,1,,Regulation of loans to be granted by societies:- In case of grant of loans,loans;registrar,
+MH_RULES_1961_RULE_42_SUB_2,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,93,573,24,24,,,42,2,,Regulation of loans to be granted by societies:- In case of grant of loans,loans;registrar,
+MH_RULES_1961_RULE_42_SUB_3,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,99,660,24,25,,,42,3,,Regulation of loans to be granted by societies:- In case of grant of loans,loans;registrar,
+MH_RULES_1961_RULE_42_SUB_4,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,77,426,25,25,,,42,4,,Regulation of loans to be granted by societies:- In case of grant of loans,loans;registrar,
+MH_RULES_1961_RULE_42_SUB_5,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,36,211,25,25,,,42,5,,Regulation of loans to be granted by societies:- In case of grant of loans,loans;registrar,
+MH_RULES_1961_RULE_42_SUB_6,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,114,712,25,25,,,42,6,,Regulation of loans to be granted by societies:- In case of grant of loans,loans;registrar,
+MH_RULES_1961_RULE_42_SUB_7,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,54,303,25,25,,,42,7,,Regulation of loans to be granted by societies:- In case of grant of loans,loans;registrar,
+MH_RULES_1961_RULE_43,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,294,1680,26,26,,,43,,,Conditions to be complied with by members applying for loans: - (1),deposits;loans;registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_45,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,228,1270,26,26,,,45,,,Restrictions on borrowing from more than one credit society:- (1) Every,loans;membership;registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_45A,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,306,1715,26,27,,,45A,,,Limits on loans against fixed deposits: - (1) When a society makes a,deposits;loans;registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_146A,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,66,427,27,27,,,146A,,,Restrictions on borrowings from non-members:- No society shall receive,loans;registrar,
+MH_RULES_1961_RULE_46B,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,62,366,27,27,,,46B,,,Restrictions on credit sales to non-members:,registrar,MALFORMED_NUMBERING_HIERARCHY
+MH_RULES_1961_RULE_47,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,78,481,27,27,,,47,,,Restrictions on transactions with non-members:,registrar,
+MH_RULES_1961_RULE_48,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,305,1666,27,28,,,48,,,Form of declarations be made by members borrowing loans from certain,loans,STRUCTURE_UNCERTAIN
+MH_RULES_1961_CONTEXT_038,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,731,4366,28,29,,,,,,,deposits;loans;registrar,RULE_IDENTIFIER_MISSING;STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_51,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,147,852,29,29,,,51,,,Amounts to be deducted by a Society from its profits before arriving at,byelaws;loans,
+MH_RULES_1961_RULE_52,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,191,1079,29,30,,,52,,,Bonus and Dividend Equalization Fund:,byelaws;registrar,
+MH_RULES_1961_RULE_53,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,951,6514,30,33,,,53,,,Rates of annual contribution to education fund of State Federal,,LONG_CHUNK_NO_SAFE_SPLIT
+MH_RULES_1961_RULE_53A,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,284,1809,33,34,,,53A,,,"Rates of annual contribution to Co-operative, State Cadre",,
+MH_RULES_1961_RULE_153B,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,1630,10485,34,36,,,153B,,,Manner of contributions to be made under the Rule 53A:- (1) The Apex society,loans;pacs;registrar;timeline,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_54,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,288,1713,36,37,,,54,,,"Utilisation and investment of reserve fund:- (1) A society shall, in addition",deposits;loans;registrar,MALFORMED_NUMBERING_HIERARCHY;STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_55,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,383,2239,37,37,,,55,,,Investment of other funds:- (1),registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_56,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,144,932,37,38,,,56,,,Maintenance and administration of provident fund:- A society which has,elections;registrar,
+MH_RULES_1961_RULE_56A,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,1229,7413,38,40,,,56A,,,Manner of election to notified Societies:- (i) The elections of the societies,byelaws;deposits;elections;management;registrar;timeline,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_56C,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,230,1362,40,40,,,56C,,,Particulars to be included in the provisional list of voters:- (1) The,byelaws;elections;registration,
+MH_RULES_1961_RULE_56D,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,210,1222,40,40,,,56D,,,"Claims and objections to the provisional list of voters, and the final list",elections;registrar;timeline,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_56E,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,278,1741,41,41,,,56E,,,"Appointment of Returning Officers, Assistant Returning Officers and",byelaws;elections;registrar,
+MH_RULES_1961_RULE_56_002,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,214,1286,41,41,,,56,,,H. Appointment of Presiding Officers and Polling Officers:- (1) The,byelaws;elections,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_56I,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,107,647,41,41,,,56I,,,General duty of Presiding Officer and Polling Officer:- It shall be the,elections,
+MH_RULES_1961_RULE_56J,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,406,2372,41,42,,,56J,,,Appointment of dates etc. for various stages of an election:- (1) The,appeal;elections;registrar;timeline,
+MH_RULES_1961_RULE_56K,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,292,1677,42,43,,,56K,,,Manner of publication of election programme under Rule 56J:- (1) The,elections;timeline,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_56L,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,273,1593,43,43,,,56L,,,Manner of publication of election programme under Rule 56K:- (J) The,byelaws;elections;eligibility;registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_FORM_M_4,MH_RULES_1961,parent,REFERENCE_ONLY,rules,Maharashtra,153,874,43,56,,,,,,Form M-4 :,elections,CONTEXT_PARENT
+MH_RULES_1961_FORM_M_4_SUB_1,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,597,3482,43,44,,,,,,Form M-4 :,byelaws;deposits;elections;membership,
+MH_RULES_1961_FORM_M_4_SUB_2,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,594,3459,44,45,,,,,,Form M-4 :,byelaws;elections;registrar,
+MH_RULES_1961_FORM_M_4_SUB_3,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,165,1035,45,45,,,,,,Form M-4 :,appeal;elections,
+MH_RULES_1961_FORM_M_4_SUB_4,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,208,1286,45,46,,,,,,Form M-4 :,,
+MH_RULES_1961_FORM_M_4_SUB_5,MH_RULES_1961,child,REFERENCE_ONLY,rules,Maharashtra,983,5833,46,47,,,,,,Form M-4 :,elections;eligibility,LONG_CHUNK_NO_SAFE_SPLIT
+MH_RULES_1961_FORM_M_4_SUB_6,MH_RULES_1961,child,REFERENCE_ONLY,rules,Maharashtra,1446,8022,47,50,,,,,,Form M-4 :,byelaws;deposits;elections,LONG_CHUNK_NO_SAFE_SPLIT
+MH_RULES_1961_FORM_M_4_SUB_7,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,217,1170,50,50,,,,,,Form M-4 :,,
+MH_RULES_1961_FORM_M_4_SUB_8,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,418,2398,50,51,,,,,,Form M-4 :,,
+MH_RULES_1961_FORM_M_4_SUB_9,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,196,1091,51,51,,,,,,Form M-4 :,,
+MH_RULES_1961_FORM_M_4_SUB_10,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,96,558,51,52,,,,,,Form M-4 :,,
+MH_RULES_1961_FORM_M_4_SUB_11,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,428,2469,52,52,,,,,,Form M-4 :,byelaws;elections,
+MH_RULES_1961_FORM_M_4_SUB_12,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,237,1407,52,53,,,,,,Form M-4 :,elections,
+MH_RULES_1961_FORM_M_4_SUB_13,MH_RULES_1961,child,REFERENCE_ONLY,rules,Maharashtra,1059,6105,53,55,,,,,,Form M-4 :,byelaws;documents;elections,LONG_CHUNK_NO_SAFE_SPLIT
+MH_RULES_1961_FORM_M_4_SUB_14,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,437,2502,55,55,,,,,,Form M-4 :,,
+MH_RULES_1961_FORM_M_4_SUB_15,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,158,957,55,56,,,,,,Form M-4 :,elections,
+MH_RULES_1961_FORM_M_4_SUB_16,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,203,1145,56,56,,,,,,Form M-4 :,deposits;elections,
+MH_RULES_1961_FORM_M_4_SUB_17,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,53,304,56,56,,,,,,Form M-4 :,elections,
+MH_RULES_1961_FORM_M_4_SUB_18,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,127,768,56,56,,,,,,Form M-4 :,elections,
+MH_RULES_1961_FORM_M_4_SUB_19,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,129,722,56,56,,,,,,Form M-4 :,byelaws;elections;meetings;registrar,
+MH_RULES_1961_RULE_57,MH_RULES_1961,parent,REFERENCE_ONLY,rules,Maharashtra,13,95,56,59,,,57,,,Prohibition against being interested in contracts etc:- (1),management,CONTEXT_PARENT;SHORT_CONTEXT_PARENT
+MH_RULES_1961_RULE_57_SUB_1,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,1437,8373,57,59,,,57,1,,Prohibition against being interested in contracts etc:- (1),byelaws;elections;loans;management;meetings;registrar;timeline,LONG_CHUNK_NO_SAFE_SPLIT
+MH_RULES_1961_RULE_57_SUB_6,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,34,197,59,59,,,57,6,,Prohibition against being interested in contracts etc:- (1),,
+MH_RULES_1961_RULE_58,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,312,1863,59,59,,,58,,,Disqualification for membership of committee:- (1) No person shall be,byelaws;elections;eligibility;loans;membership;registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_158_A,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,279,1650,60,60,,,158-A,,,Bond to be executed by elected Members of Managing Committee:,elections;management;meetings;registrar;registration;reporting;timeline,
+MH_RULES_1961_RULE_60,MH_RULES_1961,parent,REFERENCE_ONLY,rules,Maharashtra,548,3132,60,61,,,60,,,General meetings:,elections;meetings;registrar;reporting;timeline,MALFORMED_NUMBERING_HIERARCHY
+MH_RULES_1961_RULE_60_SUB_1,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,99,583,60,60,,,60,1,,General meetings:,meetings;registrar;reporting,MALFORMED_NUMBERING_HIERARCHY
+MH_RULES_1961_RULE_60_SUB_2,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,41,225,60,60,,,60,2,,General meetings:,meetings,MALFORMED_NUMBERING_HIERARCHY
+MH_RULES_1961_RULE_60_SUB_3,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,90,523,60,61,,,60,3,,General meetings:,meetings,MALFORMED_NUMBERING_HIERARCHY
+MH_RULES_1961_RULE_60_SUB_4,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,28,155,61,61,,,60,4,,General meetings:,meetings,MALFORMED_NUMBERING_HIERARCHY
+MH_RULES_1961_RULE_60_SUB_5,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,60,356,61,61,,,60,5,,General meetings:,elections;meetings,MALFORMED_NUMBERING_HIERARCHY
+MH_RULES_1961_RULE_60_SUB_6,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,24,130,61,61,,,60,6,,General meetings:,meetings,MALFORMED_NUMBERING_HIERARCHY
+MH_RULES_1961_RULE_60_SUB_7,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,11,61,61,61,,,60,7,,General meetings:,meetings,MALFORMED_NUMBERING_HIERARCHY;SHORT_COMPLETE_PROVISION
+MH_RULES_1961_RULE_60_SUB_8,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,53,277,61,61,,,60,8,,General meetings:,meetings;timeline,MALFORMED_NUMBERING_HIERARCHY
+MH_RULES_1961_RULE_60_SUB_9,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,19,113,61,61,,,60,9,,General meetings:,meetings,MALFORMED_NUMBERING_HIERARCHY;SHORT_COMPLETE_PROVISION
+MH_RULES_1961_RULE_60_SUB_10,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,68,363,61,61,,,60,10,,General meetings:,meetings,MALFORMED_NUMBERING_HIERARCHY
+MH_RULES_1961_RULE_60_SUB_11,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,51,301,61,61,,,60,11,,General meetings:,meetings,MALFORMED_NUMBERING_HIERARCHY
+MH_RULES_1961_RULE_61,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,132,792,61,61,,,61,,,"Annual statements of accounts including balance sheet, etc:- Within",registrar;timeline,
+MH_RULES_1961_RULE_62,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,134,717,61,61,,,62,,,Form for the balance sheet and the profit and loss account:- (1) The,meetings;registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_63,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,120,682,62,62,,,63,,,Power to call annual and special general meeting:- If the annual general,meetings;registrar,
+MH_RULES_1961_RULE_64,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,516,3081,62,63,,,64,,,"Procedure for appointment, suspension, and removal of members of the",documents;meetings;registrar;timeline,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_66,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,65,371,63,63,,,66,,,Copies of monthly returns to be furnished to Registrar: - All Registered,registrar,
+MH_RULES_1961_RULE_67,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,284,1624,63,63,,,67,,,Registrars power to enforce performance of obligations: - (i) In addition,registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_67A,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,658,3893,63,64,,,67A,,,Directions of Registrar to the society to make regulations on certain,registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_68,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,250,1512,64,65,,,68,,,"Procedure to be adopted for taking possession of books, documents,",documents;registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_69,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,842,4837,65,66,,,69,,,Procedure for appointment of auditors and for conducting audit:- (1) The,meetings;registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_70,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,71,410,66,66,,,70,,,Requisition of the federal society for inquiry:- Any federal society duly,registrar,
+MH_RULES_1961_RULE_71,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,558,3251,66,67,,,71,,,Procedure and principles for the conduct of inquiry and inspection:-(1),documents;registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_72,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,639,3669,67,68,,,72,,,"Procedure for assessing damages against delinquent promoters, etc",documents;management;registrar;timeline,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_74,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,110,672,68,68,,,74,,,Levy of audit charges and supervision charges:- (1) The Registrar may levy,registrar,
+MH_RULES_1961_CONTEXT_074,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,78,464,68,68,,,,,,,registrar,RULE_IDENTIFIER_MISSING;STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_76,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,106,603,68,68,,,76,,,Registrars satisfaction regarding existence of a dispute:- Where any,registrar,
+MH_RULES_1961_RULE_77,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,71,461,69,69,,,77,,,Disposal of a dispute or reference to Co-operative Court:- (1) Where the,registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_77_A,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,459,2736,69,69,,,77-A,,,"Qualifications of Judges of Co-operative Courts, and their",eligibility;registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_77_E,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,422,2331,69,70,,,77-E,,,Procedure for hearing and decision of disputes:,documents;registrar,
+MH_RULES_1961_RULE_77_F,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,215,1300,70,71,,,77-F,,,Summary procedure for deciding disputes:,loans,
+MH_RULES_1961_FORM_P,MH_RULES_1961,parent,REFERENCE_ONLY,rules,Maharashtra,504,2791,71,77,,,,,,"Form P, make the following averments, namely ;—",documents;registrar;timeline,CONTEXT_PARENT
+MH_RULES_1961_FORM_P_SUB_1,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,381,2133,71,72,,,,,,"Form P, make the following averments, namely ;—",documents;registrar,
+MH_RULES_1961_FORM_P_SUB_2,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,85,530,72,72,,,,,,"Form P, make the following averments, namely ;—",registrar,
+MH_RULES_1961_FORM_P_SUB_3,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,679,3983,72,73,,,,,,"Form P, make the following averments, namely ;—",appeal;registrar,
+MH_RULES_1961_FORM_P_SUB_4,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,90,509,73,73,,,,,,"Form P, make the following averments, namely ;—",,
+MH_RULES_1961_FORM_P_SUB_5,MH_RULES_1961,child,REFERENCE_ONLY,rules,Maharashtra,1272,7170,73,75,,,,,,"Form P, make the following averments, namely ;—",deposits;management;registrar,LONG_CHUNK_NO_SAFE_SPLIT
+MH_RULES_1961_FORM_P_SUB_6,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,637,3706,75,77,,,,,,"Form P, make the following averments, namely ;—",appeal;deposits;documents;loans;registrar,
+MH_RULES_1961_RULE_87,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,127,725,77,78,,,87,,,Mode of communication of an interim order under Section 102:- An,appeal;registrar,
+MH_RULES_1961_RULE_89,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,858,4955,78,79,,,89,,,Appointment of Liquidator and the procedure to be followed and powers,appeal;documents;meetings;registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_91,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,162,902,79,79,,,91,,,Interest on amounts due from a society under liquidation: - The creditor,registrar,
+MH_RULES_1961_RULE_92,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,233,1355,79,80,,,92,,,Disposal of records of society whose registration is cancelled:- (1) When,registrar;registration;timeline,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_93,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,1449,8564,80,82,,,93,,,Procedure for Submission and consideration of applications for loans,deposits;documents;loans;registrar;timeline,LONG_CHUNK_NO_SAFE_SPLIT;MULTIPLE_FORMS_REVIEW;STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_94,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,61,370,82,82,,,94,,,Registration of copies of instruments under Section 122:- Copies of,management;registration,
+MH_RULES_1961_RULE_95,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,52,320,82,82,,,95,,,Authority to Land Development Bank to exercise power under Section,registrar,
+MH_RULES_1961_RULE_96,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,214,1232,82,83,,,96,,,Appointment of Receiver and his powers under Section 133:- (1) The,management,STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_97,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,84,496,83,83,,,97,,,"Appointment, qualifications and powers and functions of a Sale Officer",registrar,
+MH_RULES_1961_RULE_98,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,226,1237,83,83,,,98,,,Procedure for distraint and sale of the produce of the mortgaged land,,
+MH_RULES_1961_RULE_99,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,144,868,83,83,,,99,,,Circumstances under which the State Land Development Bank or the,timeline,
+MH_RULES_1961_RULE_100,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,366,2170,83,84,,,100,,,Submission of report for confirmation of sale under Section 134,registrar,
+MH_RULES_1961_RULE_102,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,193,1124,84,85,,,102,,,Sale of immovable property purchase by a Land Development Bank:,registrar,
+MH_RULES_1961_RULE_103,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,91,502,85,85,,,103,,,Certain provisions of Rule 107 to apply to sale of immovable property,registrar,STRUCTURE_UNCERTAIN
+MH_RULES_1961_CONTEXT_095,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,554,3195,85,86,,,,,,,appeal;registrar,RULE_IDENTIFIER_MISSING;STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_105,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,49,315,86,86,,,105,,,Constitution of authority by the State Government to hear appeals,appeal,
+MH_RULES_1961_RULE_106,MH_RULES_1961,parent,REFERENCE_ONLY,rules,Maharashtra,597,3367,86,87,,,106,,,Procedure for presentation to and disposal of appeals by State,appeal;registrar;timeline,
+MH_RULES_1961_RULE_106_SUB_1,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,39,219,86,86,,,106,1,,Procedure for presentation to and disposal of appeals by State,appeal;registrar,
+MH_RULES_1961_RULE_106_SUB_2,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,25,137,86,86,,,106,2,,Procedure for presentation to and disposal of appeals by State,appeal,
+MH_RULES_1961_RULE_106_SUB_3,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,19,109,86,86,,,106,3,,Procedure for presentation to and disposal of appeals by State,appeal,SHORT_COMPLETE_PROVISION
+MH_RULES_1961_RULE_106_SUB_4,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,83,463,86,86,,,106,4,,Procedure for presentation to and disposal of appeals by State,appeal,
+MH_RULES_1961_RULE_106_SUB_5,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,70,385,86,86,,,106,5,,Procedure for presentation to and disposal of appeals by State,appeal;timeline,
+MH_RULES_1961_RULE_106_SUB_6,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,101,538,86,87,,,106,6,,Procedure for presentation to and disposal of appeals by State,appeal;timeline,
+MH_RULES_1961_RULE_106_SUB_7,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,29,173,87,87,,,106,7,,Procedure for presentation to and disposal of appeals by State,appeal,
+MH_RULES_1961_RULE_106_SUB_8,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,79,446,87,87,,,106,8,,Procedure for presentation to and disposal of appeals by State,appeal;timeline,
+MH_RULES_1961_RULE_106_SUB_9,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,30,171,87,87,,,106,9,,Procedure for presentation to and disposal of appeals by State,appeal,
+MH_RULES_1961_RULE_106_SUB_10,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,20,115,87,87,,,106,10,,Procedure for presentation to and disposal of appeals by State,appeal,
+MH_RULES_1961_RULE_106_SUB_11,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,38,219,87,87,,,106,11,,Procedure for presentation to and disposal of appeals by State,appeal,
+MH_RULES_1961_RULE_106_SUB_12,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,47,256,87,87,,,106,12,,Procedure for presentation to and disposal of appeals by State,appeal,
+MH_RULES_1961_RULE_107,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,5770,32792,87,95,,,107,,,1 [Procedure for attachment and sale of property under Section 156.]:,deposits;registrar;registration;reporting;timeline,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN
+MH_RULES_1961_RULE_107A,MH_RULES_1961,child,REFERENCE_ONLY,rules,Maharashtra,1548,8803,95,99,,,107A,,,Maximum rates of travelling allowance and daily allowance and,byelaws;meetings;registrar;timeline,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN;TABLE_REVIEW
+MH_RULES_1961_RULE_107C,MH_RULES_1961,child,REVIEW,rules,Maharashtra,315,1766,99,101,,,107C,,,Maximum amount of cash which may be handled at a time and who,timeline,TOC_REVIEW
+MH_RULES_1961_RULE_108,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,42,258,101,101,,,108,,,"Contributions, fees and charges to be credited to Government:- All",,
+MH_RULES_1961_RULE_109,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,67,397,101,101,,,109,,,"Communication of decision, award, etc:- Any order, decision or award",reporting,
+MH_RULES_1961_RULE_110,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,30,198,101,101,,,110,,,Repeal of Bombay Co-operative Societies Rules:- The Bombay Co,,
+MH_RULES_1961_FORM_A,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,712,4995,101,104,,,,,,Form ‘A’,documents;registrar;registration,
+MH_RULES_1961_FORM_B,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,121,733,104,105,,,,,,Form ‘B’,registrar;registration,
+MH_RULES_1961_FORM_C,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,259,1863,106,106,,,,,,Form ‘C’,registrar;registration;state_law,
+MH_RULES_1961_FORM_D,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,119,700,106,107,,,,,,Form 'D’,registrar;registration,
+MH_RULES_1961_FORM_E,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,178,1194,108,108,,,,,,Form 'E’,registrar;state_law;timeline,
+MH_RULES_1961_FORM_F,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,181,1147,108,109,,,,,,Form ‘F’,registrar;state_law;timeline,
+MH_RULES_1961_FORM_G,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,457,3272,109,110,,,,,,Form ‘G’,management;meetings;membership;registrar;reporting;state_law,
+MH_RULES_1961_FORM_H,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,399,2798,110,112,,,,,,Form ‘H',byelaws;eligibility;meetings;membership;registrar;state_law,
+MH_RULES_1961_FORM_I,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,156,1054,113,113,,,,,,Form ‘I’,membership;state_law,
+MH_RULES_1961_FORM_J,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,23,146,114,114,,,,,,Form ‘J’,,
+MH_RULES_1961_FORM_K,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,72,518,114,114,,,,,,Form ‘K’,loans;state_law,
+MH_RULES_1961_FORM_L,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,143,1132,114,115,,,,,,Form ‘L’,loans;membership;state_law,
+MH_RULES_1961_SCHEDULE_116,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,157,1177,115,116,,,,,,Schedule,loans,
+MH_RULES_1961_FORM_M,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,239,1430,116,117,,,,,,Form ‘M’,elections;loans;meetings;registrar,
+MH_RULES_1961_FORM_M_2,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,279,1573,117,118,,,,,,Form M-2,byelaws;elections;management;meetings;registrar;registration;timeline,
+MH_RULES_1961_FORM_M_3,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,591,3709,118,119,,,,,,Form M-3,deposits;elections;management;state_law,
+MH_RULES_1961_FORM_M_4_002,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,461,3730,119,121,,,,,,Form M-4,elections;state_law,
+MH_RULES_1961_FORM_M_5,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,128,917,121,122,,,,,,Form M-5,elections;management,
+MH_RULES_1961_FORM_M_6,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,144,1175,122,123,,,,,,Form M-6,elections;management,
+MH_RULES_1961_FORM_M_7,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,188,1714,123,123,,,,,,Form M-7,elections;management,
+MH_RULES_1961_FORM_M_8,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,179,1428,125,125,,,,,,Form M-8,elections;management,
+MH_RULES_1961_FORM_M_9,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,152,1259,125,126,,,,,,Form M-9,elections;management;state_law,
+MH_RULES_1961_FORM_M_10,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,42,448,126,126,,,,,,Form M-10,elections,
+MH_RULES_1961_FORM_M_002,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,119,779,126,127,,,,,,Form M - 1 1,deposits;elections,
+MH_RULES_1961_FORM_M_12,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,131,984,127,128,,,,,,Form M-12,elections,
+MH_RULES_1961_FORM_M_13,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,67,526,128,128,,,,,,Form M-13,elections,TABLE_REVIEW
+MH_RULES_1961_FORM_M_14,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,103,682,128,129,,,,,,Form M-14,elections,TABLE_REVIEW
+MH_RULES_1961_FORM_M_15,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,132,939,129,130,,,,,,Form M-15,elections,
+MH_RULES_1961_FORM_M_16,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,78,654,130,130,,,,,,Form M-16,elections,
+MH_RULES_1961_FORM_M_17,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,231,1910,130,131,,,,,,Form M-17,elections;management;meetings;registrar;state_law,
+MH_RULES_1961_FORM_M_19,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,204,2003,131,132,,,,,,Form M-19,management;meetings;registrar,
+MH_RULES_1961_FORM_N,MH_RULES_1961,child,REFERENCE_ONLY,rules,Maharashtra,1108,7044,133,138,,,,,,FORM N,deposits;loans;management;premium,LONG_CHUNK_NO_SAFE_SPLIT
+MH_RULES_1961_FORM_N_002,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,263,1712,139,139,,,,,,FORM ‘N',loans;management,TABLE_REVIEW
+MH_RULES_1961_FORM_O,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,116,700,140,140,,,,,,Form ‘O’,,
+MH_RULES_1961_FORM_P_002,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,209,1656,141,141,,,,,,Form ‘P’,documents;governance;registrar,
+MH_RULES_1961_FORM_Q,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,337,2006,142,142,,,,,,Form ‘Q’,registrar;state_law,
+MH_RULES_1961_FORM_R,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,151,841,143,143,,,,,,Form ‘R’,registrar;state_law,
+MH_RULES_1961_SCHEDULE_141,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,29,191,143,143,,,,,,Schedule hereto annexed.,,
+MH_RULES_1961_SCHEDULE_142,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,63,451,143,143,,,,,,The Schedule,registrar,
+MH_RULES_1961_FORM_S,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,505,3144,144,145,,,,,,Form ‘S’,documents;loans;state_law,
+MH_RULES_1961_FORM_T,MH_RULES_1961,child,ACTIVE,rules,Maharashtra,154,942,145,145,,,,,,Form ‘T’,management;state_law,

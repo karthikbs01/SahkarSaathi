@@ -1,0 +1,167 @@
+[
+  {
+    "id": "Q001",
+    "category": "karnataka",
+    "question": "Which law governs cooperative societies in Karnataka?",
+    "jurisdiction": "Karnataka",
+    "expected_source_ids": ["KA_ACT_1959"],
+    "should_answer": true
+  },
+  {
+    "id": "Q002",
+    "category": "karnataka",
+    "question": "Who is eligible to become a member of a cooperative society in Karnataka?",
+    "jurisdiction": "Karnataka",
+    "expected_source_ids": ["KA_ACT_1959"],
+    "should_answer": true
+  },
+  {
+    "id": "Q003",
+    "category": "karnataka",
+    "question": "What provisions does Karnataka cooperative law contain regarding registration of a cooperative society?",
+    "jurisdiction": "Karnataka",
+    "expected_source_ids": ["KA_ACT_1959"],
+    "should_answer": true
+  },
+  {
+    "id": "Q004",
+    "category": "karnataka",
+    "question": "What does Karnataka cooperative law say about the management or governing body of a cooperative society?",
+    "jurisdiction": "Karnataka",
+    "expected_source_ids": ["KA_ACT_1959"],
+    "should_answer": true
+  },
+  {
+    "id": "Q005",
+    "category": "maharashtra",
+    "question": "Which law governs cooperative societies in Maharashtra?",
+    "jurisdiction": "Maharashtra",
+    "expected_source_ids": ["MH_ACT_1960"],
+    "should_answer": true
+  },
+  {
+    "id": "Q006",
+    "category": "maharashtra",
+    "question": "Who may become a member of a cooperative society in Maharashtra?",
+    "jurisdiction": "Maharashtra",
+    "expected_source_ids": ["MH_ACT_1960"],
+    "should_answer": true
+  },
+  {
+    "id": "Q007",
+    "category": "maharashtra",
+    "question": "What does Maharashtra cooperative law say about the registration of cooperative societies?",
+    "jurisdiction": "Maharashtra",
+    "expected_source_ids": ["MH_ACT_1960", "MH_RULES_1961"],
+    "should_answer": true
+  },
+  {
+    "id": "Q008",
+    "category": "maharashtra",
+    "question": "What procedural rules apply to cooperative societies under the Maharashtra Cooperative Societies Rules 1961?",
+    "jurisdiction": "Maharashtra",
+    "expected_source_ids": ["MH_RULES_1961"],
+    "should_answer": true
+  },
+  {
+    "id": "Q009",
+    "category": "multistate",
+    "question": "Which law governs a cooperative society operating in more than one state?",
+    "jurisdiction": "Central",
+    "expected_source_ids": ["MSCS_ACT_2002", "MSCS_AMD_2023"],
+    "should_answer": true
+  },
+  {
+    "id": "Q010",
+    "category": "multistate",
+    "question": "What changes were introduced by the Multi-State Cooperative Societies Amendment Act 2023?",
+    "jurisdiction": "Central",
+    "expected_source_ids": ["MSCS_AMD_2023"],
+    "should_answer": true
+  },
+  {
+    "id": "Q011",
+    "category": "grievance",
+    "question": "Where can a member of a multi-state cooperative society complain about a deposit-related issue?",
+    "jurisdiction": "Central",
+    "expected_source_ids": ["CRCS_OMBUDSMAN", "MSCS_AMD_2023"],
+    "should_answer": true
+  },
+  {
+    "id": "Q012",
+    "category": "grievance",
+    "question": "Which form should a member use to file a complaint with the Cooperative Ombudsman?",
+    "jurisdiction": "Central",
+    "expected_source_ids": ["CRCS_OMBUDSMAN", "MSCS_RULES_AMD_2023"],
+    "should_answer": true
+  },
+  {
+    "id": "Q013",
+    "category": "pacs",
+    "question": "What are the Model Bye-Laws for PACS intended to cover?",
+    "jurisdiction": "Central",
+    "expected_source_ids": ["PACS_MODEL_BYLAWS"],
+    "should_answer": true
+  },
+  {
+    "id": "Q014",
+    "category": "pacs",
+    "question": "What types of activities or services can PACS undertake under the Model Bye-Laws?",
+    "jurisdiction": "Central",
+    "expected_source_ids": ["PACS_MODEL_BYLAWS"],
+    "should_answer": true
+  },
+  {
+    "id": "Q015",
+    "category": "pacs",
+    "question": "What is the objective of the PACS computerization programme?",
+    "jurisdiction": "Central",
+    "expected_source_ids": ["PACS_COMPUTERIZATION"],
+    "should_answer": true
+  },
+  {
+    "id": "Q016",
+    "category": "pmfby",
+    "question": "What guidance is available under PMFBY for a farmer whose crop has been damaged?",
+    "jurisdiction": "India",
+    "expected_source_ids": ["PMFBY_2023"],
+    "should_answer": true
+  },
+  {
+    "id": "Q017",
+    "category": "abstention",
+    "question": "What does Rule 12 of my village cooperative society's own registered bye-laws say?",
+    "jurisdiction": "Unknown",
+    "expected_source_ids": [],
+    "should_answer": false,
+    "expected_behavior": "The system should explain that the society-specific registered bye-laws are not available in the current corpus and should not guess."
+  },
+  {
+    "id": "Q018",
+    "category": "abstention",
+    "question": "Who is the current president of my local cooperative society?",
+    "jurisdiction": "Unknown",
+    "expected_source_ids": [],
+    "should_answer": false,
+    "expected_behavior": "The system should state that this current society-specific information is not available in the corpus."
+  },
+  {
+    "id": "Q019",
+    "category": "wrong_jurisdiction",
+    "question": "I am a member of a cooperative society registered only in Karnataka. Which Maharashtra cooperative rule applies to my membership?",
+    "jurisdiction": "Karnataka",
+    "expected_source_ids": ["KA_ACT_1959"],
+    "forbidden_source_ids": ["MH_ACT_1960", "MH_RULES_1961"],
+    "should_answer": true,
+    "expected_behavior": "The system should route the question to Karnataka law and should not rely on Maharashtra law unless the user explicitly asks for a comparison."
+  },
+  {
+    "id": "Q020",
+    "category": "abstention",
+    "question": "Can you guarantee that my cooperative dispute will be decided in my favour?",
+    "jurisdiction": "Unknown",
+    "expected_source_ids": [],
+    "should_answer": false,
+    "expected_behavior": "The system should not predict or guarantee a legal outcome and should provide only source-backed procedural guidance if relevant."
+  }
+]

@@ -1,0 +1,235 @@
+chunk_id,source_id,record_type,word_count,page_start,page_end,section,rule,clause,heading,warning,audit_flags,severity,groups,text_excerpt
+MSCS_ACT_2002_DOC,MSCS_ACT_2002,parent,6,6,77,,,,,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW,REVIEW,B_SHORT,"The Multi-State Cooperative Societies Act, 2002"
+MSCS_AMD_2023_DOC,MSCS_AMD_2023,parent,4,1,23,,,,,CONTEXT_PARENT;DUPLICATE_TEXT;SHORT_CHUNK,DUPLICATE_TEXT;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,रजिस्ट्री सं. डी.एल.- 33004/99
+MSCS_RULES_2002_DOC,MSCS_RULES_2002,parent,12,4,54,,,,,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,society against which or any person against whom a decree has been
+MSCS_RULES_2002_FORM_IV,MSCS_RULES_2002,child,18,52,53,,,,FORM IV,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"FORM IV [See sub-paragraph (3) of paragraph 7 of the Schedule]
+
+Nomination form for election of office bearers"
+MSCS_RULES_AMD_2023_DOC,MSCS_RULES_AMD_2023,parent,4,1,49,,,,,CONTEXT_PARENT;DUPLICATE_TEXT;SHORT_CHUNK,DUPLICATE_TEXT;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,रजिस्ट्री सं. डी.एल.- 33004/99
+MSCS_RULES_AMD_2023_ITEM_11,MSCS_RULES_AMD_2023,child,9,42,42,,,,"In the principal rules, Schedule shall be omitted",SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"11. In the principal rules, Schedule shall be omitted."
+MSCS_RULES_AMD_2023_FORM_VII,MSCS_RULES_AMD_2023,child,6,46,46,,,,FORM VII,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,FORM VII [See rule 30H (3)]
+MSCS_RULES_AMD_2023_FORM_VIII,MSCS_RULES_AMD_2023,child,6,47,47,,,,FORM VIII,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,FORM VIII [See rule 30J (1)]
+KA_ACT_1959_DOC,KA_ACT_1959,parent,2,6,189,,,,,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;D_TOP20_SHORT,CHAPTER XI
+KA_ACT_1959_SEC_29C,KA_ACT_1959,parent,7,71,75,29C,,,Disqualification for membership of the *board*,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,29C. Disqualification for membership of the *board*.-
+KA_ACT_1959_SEC_29G,KA_ACT_1959,parent,5,76,81,29G,,,Appointment of Chief Executive,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,[29G. Appointment of Chief Executive.-
+KA_ACT_1959_SEC_30B,KA_ACT_1959,child,12,81,81,30B,,,XXX],SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"[30B. XXX]
+
+1. Omitted by Act 25 of 1998 w.e.f. 15.08.1998.
+
+1"
+KA_ACT_1959_SEC_39,KA_ACT_1959,parent,10,88,91,39,,,Registration of documents executed on behalf of co-operative societies,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,39. Registration of documents executed on behalf of co-operative societies.-
+KA_ACT_1959_SEC_54,KA_ACT_1959,child,10,99,99,54,,,XXX]1,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"1[54.XXX]1
+
+1. Omitted by Act 6 of 2010 w.e.f. 03.11.2009."
+KA_ACT_1959_SEC_98A,KA_ACT_1959,child,17,142,142,98A,,,Application of this Chapter,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"98A. Application of this Chapter.- This chapter shall apply only to co-operative
+
+societies in co-operative credit structure."
+KA_ACT_1959_SEC_98P,KA_ACT_1959,child,11,146,146,98P,,,[XXX],SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"98P. [XXX]
+
+1. Omitted by Act, 3 of 2013 w.e.f. 11.02.2013."
+KA_ACT_1959_SEC_100,KA_ACT_1959,child,12,149,149,100,,,Recovery of moneys due to Societies,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"100. Recovery of moneys due to Societies.-
+
+(1) Notwithstanding anything contained in"
+KA_ACT_1959_SEC_109,KA_ACT_1959,parent,7,160,165,109,,,Offences,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"CHAPTER XIV
+
+OFFENCES AND PENALTIES.
+
+109. Offences.-"
+KA_ACT_1959_SEC_128A,KA_ACT_1959,child,14,172,172,128A,,,XXX]1,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"1[128A. XXX]1
+
+1. Inserted and Omitted by Act 6 of 2010 w.e.f. 01.07.2010.
+
+1"
+KA_ACT_1959_SEC_129,KA_ACT_1959,parent,5,172,175,129,,,Powers to make rules,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,129. Powers to make rules.-
+MH_ACT_1960_DOC,MH_ACT_1960,parent,2,1,125,,,,,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;D_TOP20_SHORT,¨É½þÉ®úÉ¹]Åõ ¶ÉÉºÉxÉ
+MH_ACT_1960_SEC_5,MH_ACT_1960,child,14,18,18,5,,,ºÉÆºlÉäSÉÒ ¨ÉªÉÉÇÊnùiÉ ËEò´ÉÉ +¨ÉªÉÉÇÊnùiÉ nùÉÊªÉi´ÉÉºÉ½þ xÉÉånùhÉÒ Eò®úiÉÉ ªÉä<Ç±É,LEGACY_FONT_ENCODING_REVIEW;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"5. ºÉÆºlÉäSÉÒ ¨ÉªÉÉÇÊnùiÉ ËEò´ÉÉ +¨ÉªÉÉÇÊnùiÉ nùÉÊªÉi´ÉÉºÉ½þ xÉÉånùhÉÒ Eò®úiÉÉ ªÉä<Ç±É.
+
+¨ÉªÉÉÇÊnùiÉ ËEò´ÉÉ +¨ÉªÉÉÇÊnùiÉ nùÉÊªÉi´ÉÉºÉ½þ xÉÉånùhÉÒ."
+MH_ACT_1960_SEC_93,MH_ACT_1960,parent,1,78,80,93,,,,CONTEXT_PARENT;LEGACY_FONT_ENCODING_REVIEW;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;D_TOP20_SHORT,6[93.
+MH_ACT_1960_SEC_103,MH_ACT_1960,parent,1,84,86,103,,,,CONTEXT_PARENT;LEGACY_FONT_ENCODING_REVIEW;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;D_TOP20_SHORT,103.
+MH_ACT_1960_SEC_118,MH_ACT_1960,child,1,95,95,118,,,119. VÉÊ¨ÉxÉÒSªÉÉ ¡òÉªÉtÉºÉÉ`öÒ ¨½þhÉÚxÉ ªÉÉ¨ÉvªÉä Ê´ÉÊxÉÌnù¹]õ Eò®úhªÉÉiÉ +É±Éä±ÉÒ EòÉ¨Éä {ÉÉ®ú {ÉÉb÷hªÉÉSªÉÉ |ÉªÉÉäVÉxÉÉlÉÇ ËEò´ÉÉ,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;D_TOP20_SHORT,118.
+MH_ACT_1960_SEC_124,MH_ACT_1960,child,1,97,97,124,,,125,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;D_TOP20_SHORT,124.
+MH_RULES_1961_DOC,MH_RULES_1961,parent,2,1,145,,,,,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW,REVIEW,B_SHORT;D_TOP20_SHORT,Chapter I
+MH_RULES_1961_RULE_18A,MH_RULES_1961,parent,18,14,16,,18A,,Conditions for realising the assets and liquidating the liabilities of the,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW,REVIEW,B_SHORT,1[18A. Conditions for realising the assets and liquidating the liabilities of the de-registered society by the Official Assignee:-
+MH_RULES_1961_RULE_57,MH_RULES_1961,parent,13,56,59,,57,,Prohibition against being interested in contracts etc:- (1),CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW,REVIEW,B_SHORT,"Chapter VI
+
+Management of Societies 57. Prohibition against being interested in contracts etc:-"
+MH_RULES_1961_FORM_M_003,MH_RULES_1961,child,6,117,117,,,,Form M-2,SHORT_CHUNK,METADATA_REVIEW,REVIEW,B_SHORT,Form M-2 [See Rule 56A (3)]
+MH_RULES_1961_FORM_M_005,MH_RULES_1961,child,6,119,119,,,,Form M-4,SHORT_CHUNK,METADATA_REVIEW,REVIEW,B_SHORT,Form M-4 [See Rule 56M (2))
+MH_RULES_1961_FORM_M_010,MH_RULES_1961,child,5,125,125,,,,Form M-9,SHORT_CHUNK,METADATA_REVIEW,REVIEW,B_SHORT,Form M-9 [See Rule 56X]
+MH_RULES_1961_FORM_M_011,MH_RULES_1961,child,6,126,126,,,,Form M-10,SHORT_CHUNK,METADATA_REVIEW,REVIEW,B_SHORT,Form M-10 [See Rule 56 A-1]
+MH_RULES_1961_FORM_M_013,MH_RULES_1961,child,5,127,127,,,,Form M-12,SHORT_CHUNK,METADATA_REVIEW,REVIEW,B_SHORT,Form M-12 [See Rule 56A-11(1)]
+MH_RULES_1961_FORM_M_017,MH_RULES_1961,child,5,130,130,,,,Form M-16,SHORT_CHUNK,METADATA_REVIEW,REVIEW,B_SHORT,Form M-16 [See Rule 56A-24(2)]
+MH_RULES_1961_FORM_M_018,MH_RULES_1961,child,5,130,130,,,,Form M-17,SHORT_CHUNK,METADATA_REVIEW,REVIEW,B_SHORT,Form M-17 [See Rule 56A-29]
+PACS_MODEL_BYLAWS_DOC,PACS_MODEL_BYLAWS,parent,2,3,37,,,,,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;D_TOP20_SHORT,CHAPTER I
+PACS_MODEL_BYLAWS_CLAUSE_1,PACS_MODEL_BYLAWS,child,18,3,3,,,1,NAME,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"CHAPTER I
+
+IDENTIFICATION OF COOPERATIVE SOCIETY
+
+1. NAME : Bahu-Uddeshiye Prathmik Gramin Cooperative
+
+Samiti (B-PACS) or Bahu-Uddeshiye LAMPS"
+PACS_MODEL_BYLAWS_CLAUSE_2,PACS_MODEL_BYLAWS,child,17,3,3,,,2,ADDRESS,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"2. ADDRESS : Registered and Postal Address of the Society
+
+(Location of the Society) & E-mail address"
+PACS_MODEL_BYLAWS_CLAUSE_7,PACS_MODEL_BYLAWS,parent,5,10,15,,,7,MEMBERSHIP:,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"CHAPTER III
+
+MEMBERSHIP
+
+7. MEMBERSHIP:"
+PACS_COMPUTERIZATION_DOC,PACS_COMPUTERIZATION,parent,3,1,26,,,,,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;D_TOP20_SHORT,Government of India
+PACS_COMPUTERIZATION_SEC_3_1,PACS_COMPUTERIZATION,child,18,4,4,3.1,,,Title of the Project,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,"3 Project Details
+
+3.1 Title of the Project
+
+Centrally Sponsored Project for ‘Computerisation of Primary Agricultural
+
+Credit Societies’."
+PACS_COMPUTERIZATION_SEC_3_2,PACS_COMPUTERIZATION,child,9,4,4,3.2,,,Sponsoring Agency,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,"3.2 Sponsoring Agency
+
+Ministry of Cooperation, Government of India."
+PACS_COMPUTERIZATION_SEC_3_3,PACS_COMPUTERIZATION,child,15,4,4,3.3,,,Duration of the Project,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,"3.3 Duration of the Project
+
+For a period of five years from 2022-23 to 2026-27."
+PACS_COMPUTERIZATION_SEC_3_4,PACS_COMPUTERIZATION,child,16,5,5,3.4,,,Sunset Date of the Project,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,"3.4 Sunset Date of the Project
+
+Sunset date of the project will be 31 March 2027."
+PACS_COMPUTERIZATION_SEC_3_7,PACS_COMPUTERIZATION,parent,3,5,5,3.7,,,Implementation Mechanism,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE;D_TOP20_SHORT,3.7 Implementation Mechanism
+PACS_COMPUTERIZATION_SEC_3_8,PACS_COMPUTERIZATION,parent,9,7,7,3.8,,,"Project Cost, Sources of Funds & Funding Pattern",SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,"3.8 Project Cost, Sources of Funds & Funding Pattern"
+PACS_COMPUTERIZATION_SEC_3_8_3,PACS_COMPUTERIZATION,child,17,8,8,3.8.3,,,"Project Cost, Sources of Funds & Funding Pattern",SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"3.8.3 Item wise cost estimate per PACS
+
+The item-wise cost estimate per PACS is given as under:-"
+PACS_COMPUTERIZATION_SEC_3_9,PACS_COMPUTERIZATION,child,5,12,12,3.9,,,Phasing of the project,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,3.9 Phasing of the project
+PACS_COMPUTERIZATION_SEC_3_9_002,PACS_COMPUTERIZATION,child,6,13,13,3.9,,,Basic Architecture of the Project,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,3.9 Basic Architecture of the Project
+PACS_COMPUTERIZATION_SEC_4_1,PACS_COMPUTERIZATION,child,9,16,16,4.1,,,Central PMU:,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,"4 Project Monitoring Units (PMUs)/Support Teams
+
+4.1 Central PMU:"
+PACS_COMPUTERIZATION_SEC_4_2,PACS_COMPUTERIZATION,child,3,17,17,4.2,,,State PMUs:,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE;D_TOP20_SHORT,4.2 State PMUs:
+PACS_COMPUTERIZATION_SEC_5_1,PACS_COMPUTERIZATION,parent,12,18,18,5.1,,,,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,"5 Stakeholders
+
+5.1 Roles and responsibilities of various stakeholders of the project"
+PACS_COMPUTERIZATION_SEC_062,PACS_COMPUTERIZATION,child,17,26,26,,,,Ministry of Cooperation,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"Ministry of Cooperation
+
+Atal Akshya Urja Bhawan, CGO Complex, New Delhi - 110003
+
+Website: http://cooperation.gov.in/
+
+Ph:20849021, 20849022"
+PMFBY_2023_DOC,PMFBY_2023,parent,5,1,213,,,,,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,Pradhan Mantri Fasal Bima Yojana
+PMFBY_2023_SCHEDULE_D,PMFBY_2023,child,3,8,8,,,,Scheduled Caste,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;D_TOP20_SHORT,Scheduled Caste SCBs
+PMFBY_2023_SEC_3,PMFBY_2023,parent,4,14,14,3,,,Coverage of Farmers,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,3. Coverage of Farmers
+PMFBY_2023_SEC_5,PMFBY_2023,parent,6,17,17,5,,,Coverage of Risks and Exclusions,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,5. Coverage of Risks and Exclusions
+PMFBY_2023_SEC_5_2_1,PMFBY_2023,child,18,17,17,5.2.1,,,,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,5.2.1 Prevented Sowing/Planting/Germination Risk: Insured area is prevented from sowing/planting/germination due to deﬁcit rainfall or adverse seasonal/climatic conditions.
+PMFBY_2023_SEC_5_7_4,PMFBY_2023,parent,11,18,18,5.7.4,,,Coverage of Risks and Exclusions,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,5.7.4 Following shall be the modalities specific to Risk Participation Approach:
+PMFBY_2023_SEC_7,PMFBY_2023,parent,13,29,29,7,,,Procedure for Issuance of Tender by the States/UTs,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"Tendering and Notiﬁcation 7.
+
+Procedure for Issuance of Tender by the States/UTs 7.1"
+PMFBY_2023_SEC_7_1_2,PMFBY_2023,child,19,29,29,7.1.2,,,Procedure for Issuance of Tender by the States/UTs,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"7.1.2 Updated Model Tender Document as per Operational Guidelines 2023 shall be
+
+provided to the States/UTs by GoI separately."
+PMFBY_2023_SEC_8,PMFBY_2023,parent,9,42,42,8,,,Engagement of Common Service Centers (CSCs) and Other,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,8. Engagement of Common Service Centers (CSCs) and Other
+PMFBY_2023_SEC_9,PMFBY_2023,parent,5,44,44,9,,,Electronic Remittance of Funds,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,9. Electronic Remittance of Funds
+PMFBY_2023_SEC_10,PMFBY_2023,parent,6,46,46,10,,,Census Code Mapping of Entities,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,10. Census Code Mapping of Entities
+PMFBY_2023_SEC_11,PMFBY_2023,parent,5,47,47,11,,,11.1 Under the Central Sector Scheme of Digital India Land Record Modernization,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,Digitization of Land Records 11.
+PMFBY_2023_SEC_12,PMFBY_2023,parent,4,47,47,12,,,Sum Insured/Coverage Limit,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,12. Sum Insured/Coverage Limit
+PMFBY_2023_SEC_13,PMFBY_2023,parent,6,47,47,13,,,Premium Rates and Premium Subsidy,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,13. Premium Rates and Premium Subsidy
+PMFBY_2023_SEC_13_1_4,PMFBY_2023,child,17,48,48,13.1.4,,,,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,13.1.4 The State/ UTs are free to extend additional subsidy to reduce the financial burden on farmers.
+PMFBY_2023_SEC_14,PMFBY_2023,parent,5,50,50,14,,,Budget for Administrative Expenses,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,14. Budget for Administrative Expenses
+PMFBY_2023_SEC_15,PMFBY_2023,parent,9,50,50,15,,,Central Program Management Unit (CPMU) & State Program,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,15. Central Program Management Unit (CPMU) & State Program
+PMFBY_2023_SEC_16,PMFBY_2023,parent,3,51,51,16,,,Seasonality Discipline,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;D_TOP20_SHORT,16. Seasonality Discipline
+PMFBY_2023_SEC_17_6,PMFBY_2023,parent,3,60,60,17.6,,,Loanee Farmers:,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE;D_TOP20_SHORT,17.6 Loanee Farmers:
+PMFBY_2023_SEC_17_7,PMFBY_2023,parent,9,64,64,17.7,,,Non-Loanee Farmers through Banks and other Channel Partners,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,17.7 Non-Loanee Farmers through Banks and other Channel Partners
+PMFBY_2023_SEC_17_8,PMFBY_2023,parent,12,66,66,17.8,,,,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,17.8 Non-Loanee Farmers - Directly to Insurance Companies or through Web Portal
+PMFBY_2023_SEC_17_9,PMFBY_2023,parent,10,66,66,17.9,,,,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,17.9 Option for change of crop name by the Farmer
+PMFBY_2023_SEC_17_16_1,PMFBY_2023,child,13,69,69,17.16.1,,,,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,17.16.1 The KCC Loan was covered or premium was paid outside seasonality discipline.
+PMFBY_2023_SEC_17_16_2,PMFBY_2023,child,19,69,69,17.16.2,,,,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,17.16.2 Sown area was less than the insured area under a crop in a notiﬁed area (refer Para 25).
+PMFBY_2023_SEC_17_16_3,PMFBY_2023,child,17,69,69,17.16.3,,,,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,17.16.3 Different crop other than the declared or notified was sown in the land survey no. insured.
+PMFBY_2023_SEC_17_16_4,PMFBY_2023,child,11,69,69,17.16.4,,,,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,17.16.4 Survey number insured was not actual crop growing survey no.
+PMFBY_2023_SEC_17_16_5,PMFBY_2023,child,13,69,69,17.16.5,,,,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,17.16.5 Area insured is more than the total land holding of the farmer.
+PMFBY_2023_SEC_17_16_6,PMFBY_2023,child,19,69,69,17.16.6,,,,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,17.16.6 Multiple insurance for same crops grown on same land with multiple insurers or through multiple banks or intermediaries.
+PMFBY_2023_SEC_17_16_8,PMFBY_2023,child,19,69,69,17.16.8,,,,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,17.16.8 Total Sum insured is more than the notiﬁed sum insured for insured acreage of a given insured crop.
+PMFBY_2023_SEC_18_5,PMFBY_2023,parent,8,71,71,18.5,,,Modalities for Conducting Crop Cutting Experiments (CCEs),SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,18.5 Modalities for Conducting Crop Cutting Experiments (CCEs)
+PMFBY_2023_SEC_16_14_002,PMFBY_2023,child,3,76,76,16.14,,,,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE;D_TOP20_SHORT,16.14 & 16.15.
+PMFBY_2023_SEC_19_7,PMFBY_2023,parent,13,77,77,19.7,,,,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,19.7 The SOP to deal with Yield Assessment dispute cases is as under
+PMFBY_2023_SEC_20_1,PMFBY_2023,parent,17,82,82,20.1,,,Rationalization of CCEs - Smart Sampling Technique (SST),SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,"20 Use of Innovative Technologies in Yield Estimation
+
+20.1 Rationalization of CCEs - Smart Sampling Technique (SST)"
+PMFBY_2023_SEC_20_2,PMFBY_2023,parent,6,84,84,20.2,,,Direct Yield Estimation through Technology,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,20.2 Direct Yield Estimation through Technology
+PMFBY_2023_SEC_20_2_1,PMFBY_2023,parent,8,84,84,20.2.1,,,Direct Yield Estimation through Technology,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,20.2.1 Yield Estimation System Based on Technology (YES-TECH)
+PMFBY_2023_SEC_20_2_1_2,PMFBY_2023,child,13,84,84,20.2.1.2,,,Yield Estimation System Based on Technology (YES-TECH),SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"20.2.1.2 The GoI, with the support of national/international centers as mentioned in Para"
+PMFBY_2023_SEC_20_2_2,PMFBY_2023,parent,10,85,85,20.2.2,,,Direct Yield Estimation through Technology,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,20.2.2 Collection of Real-time Photos and Observations of Crops (CROPIC)
+PMFBY_2023_SEC_20_2_2_3,PMFBY_2023,child,17,86,86,20.2.2.3,,,,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"20.2.2.3 Further, this data can subsequently be analyzed using AI/ML tools to further augment the YES-TECH models."
+PMFBY_2023_SEC_20_2_2_6,PMFBY_2023,child,17,86,86,20.2.2.6,,,,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,20.2.2.6 A detailed SOP/Manual and modalities of the CROPIC platform shall be notified by the GoI separately.
+PMFBY_2023_SEC_20_3,PMFBY_2023,parent,11,86,86,20.3,,,,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,20.3 Concerns in Yield Data Quality and Timelines for Data Reporting
+PMFBY_2023_SEC_20_4,PMFBY_2023,parent,7,86,86,20.4,,,Fund for Innovation and Technology (FIAT),SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,20.4 Fund for Innovation and Technology (FIAT)
+PMFBY_2023_SEC_21_2,PMFBY_2023,parent,10,88,88,21.2,,,,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,21.2 Yield Loss due to Wide-spread Calamities under Basic Cover
+PMFBY_2023_SEC_21_3,PMFBY_2023,parent,7,89,89,21.3,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,21.3 Prevented/Failed Sowing and Prevented Planting/Germination Claims
+PMFBY_2023_SEC_21_3_2_1,PMFBY_2023,child,16,89,89,21.3.2.1,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,21.3.2.1 This add-on cover will only be available if this cover is notiﬁed by the State/UT.
+PMFBY_2023_SEC_21_4,PMFBY_2023,parent,9,95,95,21.4,,,On-Account Payment of Claims due to Mid-Season Adversity,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,21.4 On-Account Payment of Claims due to Mid-Season Adversity
+PMFBY_2023_SEC_21_4_2_1,PMFBY_2023,child,17,95,95,21.4.2.1,,,On-Account Payment of Claims due to Mid-Season Adversity,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,21.4.2.1 This add-on cover will only be available if this cover is notiﬁed by the State/UT Government.
+PMFBY_2023_SEC_21_4_6_4,PMFBY_2023,child,15,99,99,21.4.6.4,,,On-Account Payment of Claims due to Mid-Season Adversity,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,21.4.6.4 These claims would be adjusted against the end season area approach yield based claims.
+PMFBY_2023_SEC_21_5,PMFBY_2023,parent,3,102,102,21.5,,,Localized Calamity,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE;D_TOP20_SHORT,21.5 Localized Calamity
+PMFBY_2023_SEC_21_5_4_1,PMFBY_2023,child,17,102,102,21.5.4.1,,,Localized Calamity,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,21.5.4.1 This add-on cover will only be available if this cover is notiﬁed by the State/UT Government.
+PMFBY_2023_SEC_21_5_5_1,PMFBY_2023,child,8,103,103,21.5.5.1,,,Localized Calamity,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,21.5.5.1 Time and Method of Reporting the Loss/Claims
+PMFBY_2023_SEC_21_5_5_4,PMFBY_2023,child,16,103,103,21.5.5.4,,,Localized Calamity,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,B. Immediate intimation (within 72 hours) by the insured farmer as detailed in Para 21.5.5.4 below.
+PMFBY_2023_SEC_21_5_9_7,PMFBY_2023,child,17,106,107,21.5.9.7,,,Localized Calamity,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"21.5.9.7 The Insurance Company would disburse the claim, if payable within 15 days of survey of loss."
+PMFBY_2023_SEC_21_6,PMFBY_2023,parent,3,111,111,21.6,,,Post-Harvest Losses,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE;D_TOP20_SHORT,21.6 Post-Harvest Losses
+PMFBY_2023_SEC_21_6_4_1,PMFBY_2023,child,17,111,111,21.6.4.1,,,Post-Harvest Losses,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,21.6.4.1 This Add-on cover will only be available if this cover is notiﬁed by the State/UT Government.
+PMFBY_2023_SEC_21_6_6,PMFBY_2023,parent,4,112,112,21.6.6,,,Post-Harvest Losses,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,21.6.6 Loss Assessment Procedure
+PMFBY_2023_SEC_21_7,PMFBY_2023,parent,11,119,119,21.7,,,,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,21.7 Claim Settlement under Multiple Events of Similar or Different Perils
+PMFBY_2023_SEC_21_7_8,PMFBY_2023,child,6,121,121,21.7.8,,,,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,21.7.8 Multi-Event Multi-Peril Claim Calculation Flowchart:
+PMFBY_2023_SEC_22_1,PMFBY_2023,parent,3,121,121,22.1,,,Empanelment Criteria,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE;D_TOP20_SHORT,22.1 Empanelment Criteria
+PMFBY_2023_SEC_27_7,PMFBY_2023,parent,6,132,132,27.7,,,Bank HQs and Bank Branches,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,27.7 Bank HQs and Bank Branches
+PMFBY_2023_SEC_27_8,PMFBY_2023,parent,6,132,132,27.8,,,"CSC, BCs & Other Intermediaries",SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,"27.8 CSC, BCs & Other Intermediaries"
+PMFBY_2023_SEC_30_6,PMFBY_2023,parent,7,136,136,30.6,,,Krishi Rakshak Portal & Helpline (KRPH),SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,30.6 Krishi Rakshak Portal & Helpline (KRPH)
+PMFBY_2023_SEC_30_7,PMFBY_2023,parent,7,137,137,30.7,,,Grievance Redressal Mechanism by Insurance Company,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,30.7 Grievance Redressal Mechanism by Insurance Company
+PMFBY_2023_SEC_30_8,PMFBY_2023,parent,18,138,138,30.8,,,,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,"30.8 Committee to Examine the Additional Claims Arising due to Errors, Omissions and Commissions of the ﬁnancial Institutions"
+PMFBY_2023_SEC_30_8_2,PMFBY_2023,child,19,138,138,30.8.2,,,,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,30.8.2 The Committee may also invite the senior executive/ofﬁcers of concerned stakeholders to present their cases before the committee.
+PMFBY_2023_SEC_31_1,PMFBY_2023,parent,11,138,138,31.1,,,Empanelment Criteria,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,"31 Empanelment and Selection of Insurance Companies (ICs)
+
+31.1 Empanelment Criteria"
+PMFBY_2023_SEC_31_2,PMFBY_2023,parent,11,139,139,31.2,,,Selection Criteria of Empaneled Insurance Companies as Implementing,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,31.2 Selection Criteria of Empaneled Insurance Companies as Implementing Agency (IA)
+PMFBY_2023_SEC_38_1_6,PMFBY_2023,child,19,144,144,38.1.6,,,,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,38.1.6 Facilitate States in strengthening of AWS/ARG network under WINDS by providing financial support as outlined in Para 7.6.10
+PMFBY_2023_SEC_38_2,PMFBY_2023,parent,4,145,145,38.2,,,State Government/UT Administration,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,38.2 State Government/UT Administration
+PMFBY_2023_SEC_38_2_7,PMFBY_2023,child,18,145,145,38.2.7,,,State Government/UT Administration,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"38.2.7 To issue necessary directives to all agencies, institutions, Government departments and Committees involved in implementation of Scheme."
+PMFBY_2023_SEC_38_2_23,PMFBY_2023,child,13,147,147,38.2.23,,,State Government/UT Administration,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,38.2.23 Setting up of the State PMU with adequate infrastructure and domain expertise.
+PMFBY_2023_SEC_38_2_25,PMFBY_2023,child,17,147,147,38.2.25,,,State Government/UT Administration,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,38.2.25 To undertake performance evaluation of implementing Insurance Companies and calculate financial penalty as per Operational Guidelines.
+PMFBY_2023_SEC_38_2_26,PMFBY_2023,child,17,147,147,38.2.26,,,State Government/UT Administration,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"38.2.26 Timely and correct preparation, updation and digitization of Village level master (Location master) on the NCIP."
+PMFBY_2023_SEC_38_3,PMFBY_2023,parent,6,147,147,38.3,,,Central PMUs and State PMUs,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,38.3 Central PMUs and State PMUs
+PMFBY_2023_SEC_38_3_1,PMFBY_2023,child,14,147,147,38.3.1,,,Central PMUs and State PMUs,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,38.3.1 Monitoring of the implementation of Crop Insurance Schemes at national and State/UT level.
+PMFBY_2023_SEC_38_3_4,PMFBY_2023,child,16,147,147,38.3.4,,,Central PMUs and State PMUs,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,38.3.4 Appraisal/ benchmarking and standardization of crop insurance products (weather based) for various participating Insurance Companies.
+PMFBY_2023_SEC_38_3_5,PMFBY_2023,child,18,147,147,38.3.5,,,Central PMUs and State PMUs,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"38.3.5 Undertake the evaluation, impact & correlation studies for various activities being performed and executed under the scheme."
+PMFBY_2023_SEC_38_3_6,PMFBY_2023,child,16,147,147,38.3.6,,,Central PMUs and State PMUs,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"38.3.6 To undertake awareness, capacity building and training of all the stakeholders engaged in crop insurance."
+PMFBY_2023_SEC_38_3_7,PMFBY_2023,child,14,147,147,38.3.7,,,Central PMUs and State PMUs,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,38.3.7 To provide technical input to Government & Insurance Companies regarding crop insurance products.
+PMFBY_2023_SEC_38_3_10,PMFBY_2023,child,16,148,148,38.3.10,,,Central PMUs and State PMUs,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,38.3.10 Development of effective and objective Monitoring & Evaluation (M&E) Framework & Management Information System (MIS).
+PMFBY_2023_SEC_38_4,PMFBY_2023,parent,4,148,148,38.4,,,Insurance Companies (ICs),SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,38.4 Insurance Companies (ICs)
+PMFBY_2023_SEC_38_4_9,PMFBY_2023,child,16,148,148,38.4.9,,,Insurance Companies (ICs),SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"38.4.9 Provide requisite reports, statistics and information demanded by the GoI and the State Governments/UT Administrations."
+PMFBY_2023_SEC_38_4_15,PMFBY_2023,child,17,149,149,38.4.15,,,Insurance Companies (ICs),SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,38.4.15 To deploy sufﬁcient manpower to co-observe CCEs and allied activities. Ensure compulsory co-observance through CCE-Agri App.
+PMFBY_2023_SEC_38_4_18,PMFBY_2023,child,18,149,149,38.4.18,,,Insurance Companies (ICs),SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,38.4.18 To provide necessary inputs to the State Governments/UT Administration/SLCCCI as required as per the notiﬁcation or otherwise.
+PMFBY_2023_SEC_38_5,PMFBY_2023,parent,3,149,149,38.5,,,Financial Institutions/Banks,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE;D_TOP20_SHORT,38.5 Financial Institutions/Banks
+PMFBY_2023_SEC_38_5_5,PMFBY_2023,child,19,150,150,38.5.5,,,Financial Institutions/Banks,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,38.5.5 To assist all farmers who want to opt-out from the scheme and maintain records of all opt-out applications.
+PMFBY_2023_SEC_38_5_15,PMFBY_2023,child,18,151,151,38.5.15,,,Financial Institutions/Banks,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"38.5.15 To educate the farmers on the Scheme features, benefits and importance to get enrolled under the scheme."
+PMFBY_2023_SEC_38_6,PMFBY_2023,parent,8,151,151,38.6,,,Common Service Centre- Special Purpose Vehicle (CSC-SPV),SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,38.6 Common Service Centre- Special Purpose Vehicle (CSC-SPV)
+PMFBY_2023_SEC_38_6_6,PMFBY_2023,child,14,152,152,38.6.6,,,Common Service Centre- Special Purpose Vehicle (CSC-SPV),SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,38.6.6 To ensure post sales services and facilitate grievance redressal of the insured farmers.
+PMFBY_2023_SEC_38_7,PMFBY_2023,parent,9,152,152,38.7,,,Common Service Centers - Village Level Entrepreneurs (CSC-VLE),SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,38.7 Common Service Centers - Village Level Entrepreneurs (CSC-VLE)
+PMFBY_2023_SEC_38_7_4,PMFBY_2023,child,19,153,153,38.7.4,,,Common Service Centers - Village Level Entrepreneurs (CSC-VLE),SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,38.7.4 To ﬁll up the online application on the NCIP and collect the required documents from non- loanee farmers.
+PMFBY_2023_SEC_38_7_8,PMFBY_2023,child,17,153,153,38.7.8,,,Common Service Centers - Village Level Entrepreneurs (CSC-VLE),SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,38.7.8 To issue acknowledgement receipt to the concerned farmer upon successful submission of application under the scheme.
+PMFBY_2023_SEC_38_8,PMFBY_2023,parent,5,153,153,38.8,,,Designated Insurance Agents/Insurance Intermediaries,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,38.8 Designated Insurance Agents/Insurance Intermediaries
+PMFBY_2023_SEC_38_8_8,PMFBY_2023,child,17,154,154,38.8.8,,,Designated Insurance Agents/Insurance Intermediaries,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,38.8.8 To issue acknowledgement receipt to the concerned farmer upon successful submission of application under the scheme
+PMFBY_2023_SEC_38_8_9,PMFBY_2023,child,15,154,154,38.8.9,,,Designated Insurance Agents/Insurance Intermediaries,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,"38.8.9 To facilitate post sales services, claim intimation and grievance redressal of the insured farmers."
+PMFBY_2023_SEC_38_10,PMFBY_2023,parent,3,155,155,38.10,,,Loanee Farmers,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,38.10 Loanee Farmers
+PMFBY_2023_SEC_38_11,PMFBY_2023,parent,3,156,156,38.11,,,Non-Loanee Farmers,SHORT_CHUNK;STRUCTURE_UNCERTAIN,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;E_STRUCTURE,38.11 Non-Loanee Farmers
+PMFBY_2023_SEC_864,PMFBY_2023,parent,4,160,167,,,,b) Limited area-based notiﬁcation,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,b) Limited area-based notiﬁcation
+PMFBY_2023_SEC_2,PMFBY_2023,parent,3,168,168,2,,,Risks Covered:,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,2. Risks Covered:
+PMFBY_2023_SEC_3_002,PMFBY_2023,parent,3,168,168,3,,,Risk Acceptance:,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,3. Risk Acceptance:
+PMFBY_2023_SEC_3_10,PMFBY_2023,parent,3,170,170,3.10,,,Risk Acceptance:,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,3.10 Eligibility Criteria:
+PMFBY_2023_SEC_3_10_1,PMFBY_2023,child,18,170,170,3.10.1,,,Eligibility Criteria:,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,3.10.1 This add-on cover will only be available if this cover is notiﬁed by the State Governments/UT Administrations.
+PMFBY_2023_SEC_3_10_8,PMFBY_2023,child,12,171,171,3.10.8,,,Eligibility Criteria:,SHORT_CHUNK,HIERARCHY_REVIEW;METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,3.10.8 This add-on cover will be available initially for major crops only.
+PMFBY_2023_SEC_4_002,PMFBY_2023,parent,2,171,171,4,,,Proxy-Indicators:,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT;D_TOP20_SHORT,4. Proxy-Indicators:
+PMFBY_2023_SEC_5_002,PMFBY_2023,parent,4,171,171,5,,,Loss Assessment Procedure:,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,5. Loss Assessment Procedure:
+PMFBY_2023_SEC_5_1_002,PMFBY_2023,child,8,171,171,5.1,,,Loss Assessment Procedure:,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,5.1 Time and method of reporting the loss/claims:
+PMFBY_2023_SEC_5_2_002,PMFBY_2023,child,18,171,171,5.2,,,Loss Assessment Procedure:,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,B. Immediate intimation (within 72 hours) by the insured farmer as detailed in Para 5.2 (Annexure I) below.
+PMFBY_2023_SEC_6_002,PMFBY_2023,parent,9,172,172,6,,,Channel of Reporting i.e. Whom to be Reported:,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,6. Channel of Reporting i.e. Whom to be Reported:
+PMFBY_2023_SEC_7_002,PMFBY_2023,parent,7,172,172,7,,,Documentary Evidence Required for Claim Assessment:,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,7. Documentary Evidence Required for Claim Assessment:
+PMFBY_2023_SEC_8_002,PMFBY_2023,parent,9,173,173,8,,,Appointment of Loss Assessors by the Insurance Company:,SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,8. Appointment of Loss Assessors by the Insurance Company:
+CRCS_OMBUDSMAN_DOC,CRCS_OMBUDSMAN,parent,12,1,2,,,,,CONTEXT_PARENT;SHORT_CHUNK,METADATA_REVIEW;TOPIC_TAG_REVIEW,REVIEW,B_SHORT,GotoMainContent | Stemap | Contactus | As A A A English v

@@ -1,0 +1,275 @@
+question_id,question,test_jurisdiction,should_answer,rank,chunk_id,source_id,title,result_jurisdiction,similarity_score,expected_source_match,forbidden_source_match,jurisdiction_violation,section,subsection,rule,clause,heading,topics,page_start,page_end,text_preview,rerank_score,topic_overlap,heading_relevance,source_diversity
+H001,My cooperative is registered only in Karnataka. Which law should I look at to understand who can become a member?,Karnataka,True,1,KA_ACT_1959_SEC_17,KA_ACT_1959,Karnataka Co-operative Societies Act 1959,Karnataka,0.89419913,True,False,False,17,,,,Disqualification for membership,eligibility;membership;registrar;state_law,51,52,"17. Disqualification for membership.-
+
+(1) No person shall be eligible for admission as a
+
+member of a co-operative society, if he,—
+
+(a) has applied to be adjudicated an insolvent or is an undischarged insolvent; or
+
+(b) has been sentenced for any o",0.9386355,1.0,1.0,1.0
+H001,My cooperative is registered only in Karnataka. Which law should I look at to understand who can become a member?,Karnataka,True,2,MSCS_RULES_2002_RULE_11,MSCS_RULES_2002,Multi-State Cooperative Societies Rules 2002,Central,0.85921037,False,False,False,,,11,,Conditions to be complied with for membership,byelaws;eligibility;meetings;membership;multistate;registrar;timeline,8,9,"11. Conditions to be complied with for membership
+
+(1) No persons shall be admitted as a member of a multi-state cooperative society unless
+
+(a) he has applied in writing in the form, if any, laid do0wn by the multi-state cooperative society or in th",0.91834202,1.0,1.0,1.0
+H001,My cooperative is registered only in Karnataka. Which law should I look at to understand who can become a member?,Karnataka,True,3,PACS_MODEL_BYLAWS_CLAUSE_7_SUB_5,PACS_MODEL_BYLAWS,Model Bye-Laws for PACS,Central,0.85574424,False,False,False,,,,7,MEMBERSHIP:,appeal;byelaws;deposits;documents;eligibility;governance;meetings;membership;pacs;registrar;registration,12,12,"(5) PROCEDURE FOR MEMBERSHIP:
+
+a) Any person who is desirous of becoming a member of the Society and is eligible
+
+as per the Byelaws, may obtain an application form at a prescribed fee and may
+
+submit the duly filled application form to the Chief Exe",0.91633166,1.0,1.0,1.0
+H001,My cooperative is registered only in Karnataka. Which law should I look at to understand who can become a member?,Karnataka,True,4,KA_ACT_1959_SEC_29C_SUB_9,KA_ACT_1959,Karnataka Co-operative Societies Act 1959,Karnataka,0.88608277,True,False,False,29C,9,,,Disqualification for membership of the *board*,eligibility;membership;state_law,75,75,"(9) A copy of the order made under sub-section (8) shall be communicated to the member
+
+1
+
+and the co-operative society concerned.]
+
+2 [(10) No director of a cooperative society shall be eligible for being elected or appointed or
+
+continued as a dele",0.88392801,1.0,1.0,0.0
+H001,My cooperative is registered only in Karnataka. Which law should I look at to understand who can become a member?,Karnataka,True,5,KA_ACT_1959_SEC_29C_SUB_5,KA_ACT_1959,Karnataka Co-operative Societies Act 1959,Karnataka,0.8850354,True,False,False,29C,5,,,Disqualification for membership of the *board*,eligibility;membership;state_law,74,74,"(5) In the case of co-operative marketing societies, consumers co-operative societies and
+
+such class or classes of co-operative societies as may be specified by the State
+
+Government, by notification in the official Gazette, no member shall be eligi",0.88332053,1.0,1.0,0.0
+H002,"If I want to understand how a cooperative society is registered in Karnataka, which official source should explain the process?",Karnataka,True,1,KA_ACT_1959_SEC_31A,KA_ACT_1959,Karnataka Co-operative Societies Act 1959,Karnataka,0.89028561,True,False,False,31A,,,,Delivery of possession of records and properties of the co-operative,documents;registrar;state_law,83,83,"31A. Delivery of possession of records and properties of the co-operative
+
+societies.-
+
+(1) Where a new *board* is elected or an Administrator or Special Officer is
+
+appointed by the Registrar or where the co-operative society is ordered to be wound ",0.56636565,0.0,0.0,1.0
+H002,"If I want to understand how a cooperative society is registered in Karnataka, which official source should explain the process?",Karnataka,True,2,MSCS_RULES_2002_FORM_I,MSCS_RULES_2002,Multi-State Cooperative Societies Rules 2002,Central,0.85545188,False,False,False,,,,,FORM – I,byelaws;documents;multistate;registrar;registration,46,49,"FORM – I
+
+Headquarters and address to be registered;
+
+The Central Registrar of Cooperative Societies,
+
+Area of operations; Main objectives; Act,2002;
+
+:
+
+indicated below :
+
+(g) (h)
+
+(d)
+
+(b)
+
+(e) (f)
+
+(c)
+
+(a)
+
+(i)
+
+New Delhi. Sir,
+
+To,
+
+2. A certifi",0.54616209,0.0,0.0,1.0
+H002,"If I want to understand how a cooperative society is registered in Karnataka, which official source should explain the process?",Karnataka,True,3,MSCS_ACT_2002_SEC_4,MSCS_ACT_2002,Multi-State Cooperative Societies Act 2002,Central,0.84837973,False,False,False,4,,,,Central Registrar,multistate;registrar;registration,8,9,"Chapter II
+
+Central Registrar and Registration of Multi-State Cooperative Societies 4. Central Registrar
+
+(1) The Central Government may appoint a person to be the Central
+
+Registrar of Cooperative Societies and may appoint such other persons as it m",0.54206024,0.0,0.0,1.0
+H002,"If I want to understand how a cooperative society is registered in Karnataka, which official source should explain the process?",Karnataka,True,4,MSCS_RULES_AMD_2023_FORM_VIII,MSCS_RULES_AMD_2023,Multi-State Cooperative Societies Amendment Rules 2023,Central,0.8478049,False,False,False,,,,,FORM VIII,appeal;byelaws;complaint;documents;management;membership;multistate;ombudsman;registrar,47,49,"FORM VIII [See rule 30J (1)] FORM OF APPEAL BEFORE THE CENTRAL REGISTRAR
+
+[All fields are mandatory except wherever indicated otherwise] To The Central Registrar Madam/Sir, Sub: Appeal against decision of the Co-operative Ombudsman dated ……………………by……",0.54172684,0.0,0.0,1.0
+H002,"If I want to understand how a cooperative society is registered in Karnataka, which official source should explain the process?",Karnataka,True,5,MSCS_AMD_2023_ITEM_30,MSCS_AMD_2023,Multi-State Cooperative Societies Amendment Act 2023,Central,0.84300041,False,False,False,,,,,"In section 78 of the principal Act, after sub-section (1), the following sub-sections Amendment",appeal;complaint;deposits;documents;multistate;ombudsman;registrar,14,15,"30. In section 78 of the principal Act, after sub-section (1), the following sub-sections Amendment shall be inserted, namely:––
+
+of section 78.
+
+“(1A) If the Central Registrar is satisfied on the basis of information available with him or furnished ",0.53894024,0.0,0.0,1.0
+H003,Our society is in Maharashtra and I want to know the legal rules about becoming a member. Which source should the assistant use?,Maharashtra,True,1,MH_RULES_1961_RULE_19,MH_RULES_1961,Maharashtra Cooperative Societies Rules 1961,Maharashtra,0.87478942,False,False,False,,,19,,"Conditions to be complied with for admission for membership, etc:- No",membership;registrar;registration,17,18,"Chapter III
+
+Members and their rights and liabilities
+
+19. Conditions to be complied with for admission for membership, etc:- No person shall be admitted as a member of a society unless,—
+
+(i) he has applied in writing in the form laid down by the so",0.92737786,1.0,1.0,1.0
+H003,Our society is in Maharashtra and I want to know the legal rules about becoming a member. Which source should the assistant use?,Maharashtra,True,2,PACS_MODEL_BYLAWS_CLAUSE_7_SUB_3,PACS_MODEL_BYLAWS,Model Bye-Laws for PACS,Central,0.85786945,False,False,False,,,,7,MEMBERSHIP:,byelaws;elections;eligibility;meetings;membership;pacs,10,11,"(3) ELIGIBILITY AND OTHER CONDITIONS FOR ‘B’-CLASS MEMBERSHIP:
+
+a) A person who desires to have a business relationship with Society shall be
+
+admitted as nominal member by payment of admission fee of Rs.10/- which is non-
+
+refundable and shall be cr",0.91756428,1.0,1.0,1.0
+H003,Our society is in Maharashtra and I want to know the legal rules about becoming a member. Which source should the assistant use?,Maharashtra,True,3,MH_RULES_1961_RULE_119A,MH_RULES_1961,Maharashtra Cooperative Societies Rules 1961,Maharashtra,0.87300634,False,False,False,,,119A,,Procedure for tendering application to the Registrar for membership,eligibility;membership;registrar;timeline,18,18,"119A. Procedure for tendering application to the Registrar for membership under section 23(1 A):-
+
+(1) Where a society has refused to accept the application for membership from eligible person, such person shall tender an application to the Registrar",0.87634368,1.0,1.0,0.0
+H003,Our society is in Maharashtra and I want to know the legal rules about becoming a member. Which source should the assistant use?,Maharashtra,True,4,MSCS_RULES_AMD_2023_FORM_VIII,MSCS_RULES_AMD_2023,Multi-State Cooperative Societies Amendment Rules 2023,Central,0.85549688,False,False,False,,,,,FORM VIII,appeal;byelaws;complaint;documents;management;membership;multistate;ombudsman;registrar,47,49,"FORM VIII [See rule 30J (1)] FORM OF APPEAL BEFORE THE CENTRAL REGISTRAR
+
+[All fields are mandatory except wherever indicated otherwise] To The Central Registrar Madam/Sir, Sub: Appeal against decision of the Co-operative Ombudsman dated ……………………by……",0.76618819,1.0,0.0,1.0
+H003,Our society is in Maharashtra and I want to know the legal rules about becoming a member. Which source should the assistant use?,Maharashtra,True,5,MH_RULES_1961_RULE_23,MH_RULES_1961,Maharashtra Cooperative Societies Rules 1961,Maharashtra,0.8795253,False,False,False,,,23,,Valuation of shares:,documents;membership;registration,19,20,"23. Valuation of shares: -
+
+(1) Where a member of society ceases to be a member thereof, the sum representing the value of his share or interest in the share capital of the society to be paid to him or his nominee, heir or legal representative, as th",0.73012468,1.0,0.0,0.0
+H004,Where should I look for the procedure and rules that apply to cooperative societies in Maharashtra?,Maharashtra,True,1,MH_ACT_1960_SEC_165_SUB_1,MH_ACT_1960,Maharashtra Cooperative Societies Act 1960,Maharashtra,0.89601308,True,False,False,165,1,,,Rules,state_law,103,103,"(1) The State Government may, for the whole or any part of the State and for any society or class of societies, make rules for the conduct and regulation of the business of such society or class of societies, and for carrying out the purposes of this",0.56968759,0.0,0.0,1.0
+H004,Where should I look for the procedure and rules that apply to cooperative societies in Maharashtra?,Maharashtra,True,2,MH_RULES_1961_RULE_4,MH_RULES_1961,Maharashtra Cooperative Societies Rules 1961,Maharashtra,0.89297414,True,False,False,,,4,,Application for registration and registration fees:- (I) Every application for,byelaws;documents;registrar;registration,1,5,"Chapter II
+
+Registration
+
+1[3. [****]
+
+2[4. Application for registration and registration fees:- (I) Every application for registration of a society under Section 8 shall be made in Form 'A' in Marathi, Hindi or English, and shall, subject to the pro",0.567925,0.0,0.0,1.0
+H004,Where should I look for the procedure and rules that apply to cooperative societies in Maharashtra?,Maharashtra,True,3,MSCS_ACT_2002_SEC_106,MSCS_ACT_2002,Multi-State Cooperative Societies Act 2002,Central,0.85913765,False,False,False,106,,,,"Copies of bye-laws, etc, to be open to inspection",byelaws;multistate,65,65,"Chapter XV
+
+Miscellaneous
+
+106. Copies of bye-laws, etc, to be open to inspection Every multi-state cooperative society shall keep a copy of the rules and its bye-laws and also a list of its members open to inspection free of charge at all reasonable",0.54829984,0.0,0.0,1.0
+H004,Where should I look for the procedure and rules that apply to cooperative societies in Maharashtra?,Maharashtra,True,4,MSCS_RULES_AMD_2023_ITEM_10_002_SUB_37A,MSCS_RULES_AMD_2023,Multi-State Cooperative Societies Amendment Rules 2023,Central,0.85403091,False,False,False,,,37A,,,byelaws;multistate,40,40,"“37A. Recruitment of employees in Co-operative Societies.— The recruitment of employees at various levels would be carried out through a transparent, objective and adequately publicised competitive process as per the educational and experience criter",0.54533793,0.0,0.0,1.0
+H004,Where should I look for the procedure and rules that apply to cooperative societies in Maharashtra?,Maharashtra,True,5,MSCS_RULES_2002_RULE_19,MSCS_RULES_2002,Multi-State Cooperative Societies Rules 2002,Central,0.85318959,False,False,False,,,19,,Procedure for conduct of elections,elections;governance;meetings;multistate;registrar,11,12,"19. Procedure for conduct of elections
+
+(1) The election of members of the board shall be conducted by a returning officer appointed by the board in its meeting. The returning officer so appointed shall not be a member or an employee of the society:
+",0.54484996,0.0,0.0,1.0
+H005,My cooperative has members in more than one state. Which law governs this type of society?,Central,True,1,MSCS_ACT_2002_SEC_11_SUB_2,MSCS_ACT_2002,Multi-State Cooperative Societies Act 2002,Central,0.88394868,True,False,False,11,2,,,Amendment of bye-laws of a multi-state cooperative society,byelaws;meetings;multistate,12,12,"(2) The amendment to the bye-laws of a multi-state cooperative society
+
+shall be made by a resolution passed by a two-third majority of the members present and voting at general meeting of the society.",0.93269024,1.0,1.0,1.0
+H005,My cooperative has members in more than one state. Which law governs this type of society?,Central,True,2,MSCS_ACT_2002_SEC_10_SUB_1,MSCS_ACT_2002,Multi-State Cooperative Societies Act 2002,Central,0.88149369,True,False,False,10,1,,,Bye-laws of multi-state cooperative societies,byelaws;multistate,11,11,"(1) Every multi-state cooperative society may make its bye-laws
+
+consistent with the provisions of this act and the rules made thereunder.",0.88126634,1.0,1.0,0.0
+H005,My cooperative has members in more than one state. Which law governs this type of society?,Central,True,3,MSCS_AMD_2023_ITEM_22,MSCS_AMD_2023,Multi-State Cooperative Societies Amendment Act 2023,Central,0.87024057,True,False,False,,,,,"In section 53 of the principal Act, for sub-section (1), the following sub-section",byelaws;multistate,11,12,"22. In section 53 of the principal Act, for sub-section (1), the following sub-section
+
+Amendment of section 53.
+
+shall be substituted, namely:––
+
+“(1) The board may constitute an Executive Committee, and such other committees or sub-committees as ma",0.77473953,1.0,0.0,1.0
+H005,My cooperative has members in more than one state. Which law governs this type of society?,Central,True,4,MSCS_RULES_2002_RULE_24,MSCS_RULES_2002,Multi-State Cooperative Societies Rules 2002,Central,0.86811149,False,False,False,,,24,,Distribution of profit to members,byelaws;multistate,13,13,"24. Distribution of profit to members
+
+(1) No part of the funds, other than net profits, of a multi-state cooperative society shall be distributed by way of bonus or dividend or otherwise among the members.
+
+(2) Payment of dividend to the members on ",0.77350466,1.0,0.0,1.0
+H005,My cooperative has members in more than one state. Which law governs this type of society?,Central,True,5,MSCS_RULES_AMD_2023_ITEM_7_002_SUB_30F,MSCS_RULES_AMD_2023,Multi-State Cooperative Societies Amendment Rules 2023,Central,0.8615796,False,False,False,,,30F,,,appeal;complaint;multistate;ombudsman,38,38,"30F. Nature of complainant or appellant before the Ombudsman.— An aggrieved member of a multi-State co-operative society may file a complaint or prefer an appeal, as the case may be, before the Ombudsman either personally or through an authorised rep",0.76971617,1.0,0.0,1.0
+H006,My multi-state cooperative is not resolving an issue related to my deposit. Where can I file a complaint?,Central,True,1,CRCS_OMBUDSMAN_SEC_002,CRCS_OMBUDSMAN,Cooperative Ombudsman Complaint and Appeal Guidance,Central,0.88243026,True,False,False,,,,,How to file a Complaint,complaint;documents;form_vi;grievance;ombudsman,1,1,"How to file a Complaint Member shall file the complaint to Cooperative Ombudsman in Form VI prescribed under rule 30H(2) of MSCS Rules, 2002 after fulfilling all the necessary conditions stated therein. Complete information along with relevant docume",0.78380955,0.6,0.6,1.0
+H006,My multi-state cooperative is not resolving an issue related to my deposit. Where can I file a complaint?,Central,True,2,CRCS_OMBUDSMAN_SEC_004,CRCS_OMBUDSMAN,Cooperative Ombudsman Complaint and Appeal Guidance,Central,0.88068664,True,False,False,,,,,Complaint or Appeal to the Cooperative Ombudsman shall be filed on the following address,appeal;complaint;grievance;ombudsman,1,1,"Complaint or Appeal to the Cooperative Ombudsman shall be filed on the following address:
+
+Alok Agarwal Cooperative Ombudsman, World Trade Centre, Tower-E, 9*"" Floor, Nauroji Nagar, New Delhi - 110029",0.73279825,0.6,0.6,0.0
+H006,My multi-state cooperative is not resolving an issue related to my deposit. Where can I file a complaint?,Central,True,3,MSCS_RULES_AMD_2023_ITEM_7_002_SUB_30E,MSCS_RULES_AMD_2023,Multi-State Cooperative Societies Amendment Rules 2023,Central,0.87202388,True,False,False,,,30E,,,appeal;complaint;deposits;multistate;ombudsman,38,38,"30E. Complaints or appeals that may be considered by the Ombudsman.— The Ombudsman shall consider the following categories of complaints or appeals, from members, as the case may be—
+
+(a) complaints by members regarding their deposits, equitable bene",0.73177385,0.8,0.0,1.0
+H006,My multi-state cooperative is not resolving an issue related to my deposit. Where can I file a complaint?,Central,True,4,CRCS_OMBUDSMAN_SEC_005,CRCS_OMBUDSMAN,Cooperative Ombudsman Complaint and Appeal Guidance,Central,0.87529254,True,False,False,,,,,Complaint or Appeal to the Cooperative Ombudsman can also be filed online on the following e-mail address,appeal;complaint;grievance;management;ombudsman,1,2,"Complaint or Appeal to the Cooperative Ombudsman can also be filed online on the following e-mail address: mscs-ombudsman@gov.in
+
+Last updated: 12 Sep 2026
+
+o The natonal pota o india m!' dTEGHAR 7)) o oV data.gov([ ucredibl
+
+icha
+
+[Owen: Government ",0.72966967,0.6,0.6,0.0
+H006,My multi-state cooperative is not resolving an issue related to my deposit. Where can I file a complaint?,Central,True,5,MSCS_AMD_2023_ITEM_30,MSCS_AMD_2023,Multi-State Cooperative Societies Amendment Act 2023,Central,0.83564651,True,False,False,,,,,"In section 78 of the principal Act, after sub-section (1), the following sub-sections Amendment",appeal;complaint;deposits;documents;multistate;ombudsman;registrar,14,15,"30. In section 78 of the principal Act, after sub-section (1), the following sub-sections Amendment shall be inserted, namely:––
+
+of section 78.
+
+“(1A) If the Central Registrar is satisfied on the basis of information available with him or furnished ",0.71067498,0.8,0.0,1.0
+H007,My crop was damaged after heavy rain. Where in PMFBY should I look for what I need to do next?,India,True,1,PMFBY_2023_SEC_38_2_15,PMFBY_2023,PMFBY Operational Guidelines 2023,India,0.87763262,True,False,False,38.2.15,,,,State Government/UT Administration,crop_insurance;crop_loss;pmfby,146,146,38.2.15 Assist the insurance companies for assessment of crop loss of the individual insured farmers caused by localized perils and also assist in assessment of the post-harvest losses. Also to notify preventive sowing/germination failure and Mid-Sea,0.77902692,1.0,0.0,1.0
+H007,My crop was damaged after heavy rain. Where in PMFBY should I look for what I need to do next?,India,True,2,PMFBY_2023_SEC_21_6_2,PMFBY_2023,PMFBY Operational Guidelines 2023,India,0.87186122,True,False,False,21.6.2,,,,Post-Harvest Losses,crop_insurance;crop_loss;pmfby,111,111,"21.6.2 For indemniﬁcation of post-harvest crop losses, the provision of damage of harvested crops due to unseasonal rains shall trigger when the unseasonal rainfall is more than 20% over long period average for the month for that sub-district/distric",0.72567951,1.0,0.0,0.0
+H007,My crop was damaged after heavy rain. Where in PMFBY should I look for what I need to do next?,India,True,3,PMFBY_2023_SEC_38_3_4,PMFBY_2023,PMFBY Operational Guidelines 2023,India,0.87157428,True,False,False,38.3.4,,,,Central PMUs and State PMUs,crop_insurance;pmfby,147,147,38.3.4 Appraisal/ benchmarking and standardization of crop insurance products (weather based) for various participating Insurance Companies.,0.72551308,1.0,0.0,0.0
+H007,My crop was damaged after heavy rain. Where in PMFBY should I look for what I need to do next?,India,True,4,PMFBY_2023_SEC_884_SUB_2,PMFBY_2023,PMFBY Operational Guidelines 2023,India,0.87102002,True,False,False,,,,,b) Limited area-based notiﬁcation,claim;crop_insurance;grievance;pmfby,161,162,"Once the values are finally accepted, the corresponding claims are calculated automatically for further processing of claims settlement though PFMS platform directly into farmer’s account.
+
+States/UTs are also required to approve the Loss Cost for cl",0.72519161,1.0,0.0,0.0
+H007,My crop was damaged after heavy rain. Where in PMFBY should I look for what I need to do next?,India,True,5,PMFBY_2023_SEC_21_6_1,PMFBY_2023,PMFBY Operational Guidelines 2023,India,0.86997569,True,False,False,21.6.1,,,,Post-Harvest Losses,crop_insurance;pmfby,111,111,"21.6.1 Provision has been made for assessment of loss on individual plot basis in the case of occurrence of hailstorm, cyclone, cyclonic rains and unseasonal rains resulting in damage to harvested crop lying in the ﬁeld in 'cut and spread' or small b",0.7245859,1.0,0.0,0.0
+H008,I want to know whether a farmer is eligible for PMFBY and what premium or contribution applies. Which source should answer this?,India,True,1,PMFBY_2023_SEC_3_10_3,PMFBY_2023,PMFBY Operational Guidelines 2023,India,0.88380098,True,False,False,3.10.3,,,,Eligibility Criteria:,crop_insurance;eligibility;pmfby;premium,170,170,3.10.3 Only those farmers would be eligible for ﬁnancial support under this cover who have paid the premium for the add-on cover. i.e. the premium has been debited from their account before the occurrence of the insured peril.,0.83260457,1.0,0.33333333,1.0
+H008,I want to know whether a farmer is eligible for PMFBY and what premium or contribution applies. Which source should answer this?,India,True,2,PMFBY_2023_SEC_17_14,PMFBY_2023,PMFBY Operational Guidelines 2023,India,0.88092166,True,False,False,17.14,,,,Collection of Applications and Premium from Farmers,crop_insurance;eligibility;pmfby;premium,68,68,"17.14 Insurance Companies shall verify and satisfy themselves about the coverage of farmers and crops and accept the applications submitted by banks electronically through NCIP. The insured farmer's personal details like Aadhaar Number, Banking Detai",0.78093456,1.0,0.33333333,0.0
+H008,I want to know whether a farmer is eligible for PMFBY and what premium or contribution applies. Which source should answer this?,India,True,3,PMFBY_2023_SEC_21_6_4_4,PMFBY_2023,PMFBY Operational Guidelines 2023,India,0.88681841,True,False,False,21.6.4.4,,,,Post-Harvest Losses,crop_insurance;eligibility;pmfby;premium,111,111,21.6.4.4 Only those farmers would be eligible for ﬁnancial support under this cover who have paid the premium i.e. the premium has been debited from their account before the occurrence of the insured peril.,0.73435468,1.0,0.0,0.0
+H008,I want to know whether a farmer is eligible for PMFBY and what premium or contribution applies. Which source should answer this?,India,True,4,PMFBY_2023_SEC_21_5_4_4,PMFBY_2023,PMFBY Operational Guidelines 2023,India,0.8865248,True,False,False,21.5.4.4,,,,Localized Calamity,crop_insurance;eligibility;pmfby;premium,102,102,21.5.4.4 Only those farmers would be eligible for ﬁnancial support under this cover who have paid the premium i.e. the premium has been debited from their account before the occurrence of the insured peril.,0.73418438,1.0,0.0,0.0
+H008,I want to know whether a farmer is eligible for PMFBY and what premium or contribution applies. Which source should answer this?,India,True,5,PMFBY_2023_SEC_2_9,PMFBY_2023,PMFBY Operational Guidelines 2023,India,0.88432896,True,False,False,2.9,,,,Adoption of Technology for Scheme Administration,crop_insurance;eligibility;pmfby;premium;timeline,12,12,"2.9 Only those farmers whose data is uploaded on the NCIP, and their share of premium has been remitted to the concerned Insurance Company within the prescribed time limit, shall be eligible for Insurance coverage. The premium subsidy from the State/",0.7329108,1.0,0.0,0.0
+H009,What official document should I check to understand what activities a PACS is allowed to carry out?,Central,True,1,PACS_COMPUTERIZATION_SEC_8_2,PACS_COMPUTERIZATION,PACS Computerization Guidelines,Central,0.86443055,False,False,False,8.2,,,,Deliverables of the Project,computerization;governance;meetings;pacs,24,24,"8.2 Governance
+
+1. Alerts on the conduct of Board Meetings and General Body meetings.
+
+2. Prompting on Agenda preparation.
+
+3. Record Keeping of Board & General Body Meeting proceedings.
+
+4. Real time information flow and access to all stakeholders.",0.66136972,0.5,0.0,1.0
+H009,What official document should I check to understand what activities a PACS is allowed to carry out?,Central,True,2,PACS_MODEL_BYLAWS_CLAUSE_13_SUB_6,PACS_MODEL_BYLAWS,Model Bye-Laws for PACS,Central,0.84812188,True,False,False,,,,13,MAINTENANCE OF BOOKS AND ACCOUNTS AND REGISTERS,byelaws;pacs,32,32,"(6) The Society shall maintain such accounts and other matters related to accounts in
+
+such form and manner as may be directed by the authority competent to do so under
+
+the Cooperative Societies Act/ Rules.",0.65191069,0.5,0.0,1.0
+H009,What official document should I check to understand what activities a PACS is allowed to carry out?,Central,True,3,PMFBY_2023_SEC_6_3_1,PMFBY_2023,PMFBY Operational Guidelines 2023,India,0.82662153,False,False,False,6.3.1,,,,Preconditions for Implementation of the Scheme,crop_insurance;pacs;pmfby,28,28,"6.3.1 Creation of digital credentials for each user at PACS, Branch, Regional/Zonal Office and Head Office level and compulsory data entry of farmers' details on NCIP either through fully automated mode using APIs or through manual mode as per the pr",0.63944049,0.5,0.0,1.0
+H009,What official document should I check to understand what activities a PACS is allowed to carry out?,Central,True,4,MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19C,MSCS_RULES_AMD_2023,Multi-State Cooperative Societies Amendment Rules 2023,Central,0.80142456,False,False,False,,,19C,,,documents;elections;meetings;multistate;timeline,28,29,"19C. Powers and functions of Chairperson.—(1) The Chairperson shall be the administrative head of the Authority and shall have all the administrative and financial powers. [भाग II—खण्‍ड 3(i)] भारत‍का‍राजपत्र‍:‍असाधारण
+
+(2) The Chairperson shall have ",0.62482625,0.5,0.0,1.0
+H009,What official document should I check to understand what activities a PACS is allowed to carry out?,Central,True,5,MSCS_RULES_2002_RULE_36,MSCS_RULES_2002,Multi-State Cooperative Societies Rules 2002,Central,0.79408455,False,False,False,,,36,,Mode of service of summon,deposits;documents;multistate;registrar;registration;reporting;timeline,23,37,"Chapter 9 Miscellaneous
+
+36. Mode of service of summon
+
+(1) Every summon issued under the Act or these rules shall be in writing, shall be authenticated by the sea, if any, of the officer by whom it is issued and shall be signed by such officer or by",0.62056904,0.5,0.0,1.0
+H010,Where can I find official information about the computerization and digital modernization of PACS?,Central,True,1,PACS_COMPUTERIZATION_SEC_5_1_2,PACS_COMPUTERIZATION,PACS Computerization Guidelines,Central,0.86655647,True,False,False,5.1.2,,,,,computerization;eligibility;meetings;pacs;pacs_services,18,19,"5.1.2 State Governments:
+
+a. State Governments will be responsible for implementation and monitoring
+
+of the project in their respective states through the State Level
+
+Implementation and Monitoring Committee (SLIMC) and District Level
+
+Implementatio",0.77260275,1.0,0.0,1.0
+H010,Where can I find official information about the computerization and digital modernization of PACS?,Central,True,2,PACS_MODEL_BYLAWS_CLAUSE_13_SUB_8,PACS_MODEL_BYLAWS,Model Bye-Laws for PACS,Central,0.82912731,False,False,False,,,,13,MAINTENANCE OF BOOKS AND ACCOUNTS AND REGISTERS,byelaws;computerization;pacs,32,32,"(8) The Society shall use the Common Accounting System as is being implemented
+
+through computerization of PACS project, designed by NABARD.",0.75089384,1.0,0.0,1.0
+H010,Where can I find official information about the computerization and digital modernization of PACS?,Central,True,3,PMFBY_2023_SEC_6_3_1,PMFBY_2023,PMFBY Operational Guidelines 2023,India,0.81902146,False,False,False,6.3.1,,,,Preconditions for Implementation of the Scheme,crop_insurance;pacs;pmfby,28,28,"6.3.1 Creation of digital credentials for each user at PACS, Branch, Regional/Zonal Office and Head Office level and compulsory data entry of farmers' details on NCIP either through fully automated mode using APIs or through manual mode as per the pr",0.74503245,1.0,0.0,1.0
+H010,Where can I find official information about the computerization and digital modernization of PACS?,Central,True,4,PACS_COMPUTERIZATION_SEC_067,PACS_COMPUTERIZATION,PACS Computerization Guidelines,Central,0.86329377,True,False,False,,,,,Ministry of Cooperation,computerization;pacs,26,26,"Ministry of Cooperation
+
+Atal Akshya Urja Bhawan, CGO Complex, New Delhi - 110003
+
+Website: http://cooperation.gov.in/
+
+Ph:20849021, 20849022",0.72071038,1.0,0.0,0.0
+H010,Where can I find official information about the computerization and digital modernization of PACS?,Central,True,5,PACS_COMPUTERIZATION_SEC_3_11,PACS_COMPUTERIZATION,PACS Computerization Guidelines,Central,0.8630231,True,False,False,3.11,,,,Project Details,computerization;management;pacs,15,15,"3.11 Data Management
+
+The data shall be housed at the National Level Data Repository (NLDR). Data
+
+generated at PACS would be routed, either through the DCCBs or State Data
+
+Centers, to the National Level Data Repository (NLDR). All data will be shar",0.7205534,1.0,0.0,0.0
+H011,Our village cooperative secretary says our own registered bye-laws allow a certain action. Can you tell me exactly what our society's bye-laws say?,Unknown,False,1,MSCS_ACT_2002_SEC_3_SUB_C,MSCS_ACT_2002,Multi-State Cooperative Societies Act 2002,Central,0.86383152,False,False,False,3,,,c,Definitions,byelaws;multistate,7,7,(c) “bye-laws” means the bye-laws for the time being in force which have been duly registered or deemed to have been registered under this Act and includes amendments thereto which have been duly registered or deemed to have been registered under thi,0.55102228,0.0,0.0,1.0
+H011,Our village cooperative secretary says our own registered bye-laws allow a certain action. Can you tell me exactly what our society's bye-laws say?,Unknown,False,2,PACS_MODEL_BYLAWS_CLAUSE_4_SUB_6,PACS_MODEL_BYLAWS,Model Bye-Laws for PACS,Central,0.85954112,False,False,False,,,,4,DEFINITIONS:,byelaws;pacs,3,3,"(6) “Byelaws” means the Registered Byelaws of the Society and includes
+
+amendment thereof;",0.54853385,0.0,0.0,1.0
+H011,Our village cooperative secretary says our own registered bye-laws allow a certain action. Can you tell me exactly what our society's bye-laws say?,Unknown,False,3,MSCS_RULES_2002_RULE_6,MSCS_RULES_2002,Multi-State Cooperative Societies Rules 2002,Central,0.85536194,False,False,False,,,6,,Bye-laws,byelaws;elections;multistate;registrar;registration,6,6,"6. Bye-laws
+
+Every multi-state cooperative society applying for registration under this Act may make bye-laws consistent with the provisions of this Act and the rules made thereunder and model bye-laws, if any, framed by the Central Registrar. The su",0.54610992,0.0,0.0,1.0
+H011,Our village cooperative secretary says our own registered bye-laws allow a certain action. Can you tell me exactly what our society's bye-laws say?,Unknown,False,4,MSCS_AMD_2023_ITEM_22,MSCS_AMD_2023,Multi-State Cooperative Societies Amendment Act 2023,Central,0.84059572,False,False,False,,,,,"In section 53 of the principal Act, for sub-section (1), the following sub-section",byelaws;multistate,11,12,"22. In section 53 of the principal Act, for sub-section (1), the following sub-section
+
+Amendment of section 53.
+
+shall be substituted, namely:––
+
+“(1) The board may constitute an Executive Committee, and such other committees or sub-committees as ma",0.53754552,0.0,0.0,1.0
+H011,Our village cooperative secretary says our own registered bye-laws allow a certain action. Can you tell me exactly what our society's bye-laws say?,Unknown,False,5,MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19N,MSCS_RULES_AMD_2023,Multi-State Cooperative Societies Amendment Rules 2023,Central,0.83458847,False,False,False,,,19N,,,byelaws;elections;meetings;multistate;reporting,34,34,"19N. Election of office bearers by secret ballot.— (1) As soon as the members of the board have been elected, the Returning Officer shall, notwithstanding anything contained in the bye-laws of the multi-State co-operative society, convene a meeting o",0.53406131,0.0,0.0,1.0
+H012,"My cooperative is registered in Karnataka, but someone showed me a Maharashtra cooperative rule. Should that Maharashtra rule be used to answer my Karnataka membership question?",Karnataka,True,1,KA_ACT_1959_SEC_29C_SUB_7,KA_ACT_1959,Karnataka Co-operative Societies Act 1959,Karnataka,0.87771368,True,False,False,29C,7,,,Disqualification for membership of the *board*,byelaws;membership;registrar;state_law,74,75,"(7) Any question as to whether a member of the *board* was or has become subject to
+
+any of the disqualifications mentioned in this section shall be decided by the Registrar after
+
+giving the person concerned a reasonable opportunity of being heard.
+",0.92907393,1.0,1.0,1.0
+H012,"My cooperative is registered in Karnataka, but someone showed me a Maharashtra cooperative rule. Should that Maharashtra rule be used to answer my Karnataka membership question?",Karnataka,True,2,KA_ACT_1959_SEC_29C_SUB_5,KA_ACT_1959,Karnataka Co-operative Societies Act 1959,Karnataka,0.87646413,True,False,False,29C,5,,,Disqualification for membership of the *board*,eligibility;membership;state_law,74,74,"(5) In the case of co-operative marketing societies, consumers co-operative societies and
+
+such class or classes of co-operative societies as may be specified by the State
+
+Government, by notification in the official Gazette, no member shall be eligi",0.87834919,1.0,1.0,0.0
+H012,"My cooperative is registered in Karnataka, but someone showed me a Maharashtra cooperative rule. Should that Maharashtra rule be used to answer my Karnataka membership question?",Karnataka,True,3,KA_ACT_1959_SEC_129_SUB_2,KA_ACT_1959,Karnataka Co-operative Societies Act 1959,Karnataka,0.87779427,True,False,False,129,2,,,Powers to make rules,appeal;byelaws;deposits;elections;loans;management;meetings;membership;registrar;registration;state_law,172,175,"(2) In particular, and without prejudice to the generality of the foregoing power, such rules
+
+may provide for all or any of the following matters, namely:—
+
+(a) the applicant to whom the order refusing the registration of a co-operative society
+
+may",0.72912067,1.0,0.0,0.0
+H012,"My cooperative is registered in Karnataka, but someone showed me a Maharashtra cooperative rule. Should that Maharashtra rule be used to answer my Karnataka membership question?",Karnataka,True,4,KA_ACT_1959_SEC_16,KA_ACT_1959,Karnataka Co-operative Societies Act 1959,Karnataka,0.87426805,True,False,False,16,,,,Persons who may become members,byelaws;membership;registration;state_law,49,51,"CHAPTER III
+
+MEMBERS OF CO-OPERATIVE SOCIETIES AND THEIR RIGHTS AND LIABILITIES.
+
+1 16. Persons who may become members.- [(1) Subject to the provisions of section 17,
+
+no person shall be admitted as a member of a co-operative society except the follo",0.72707547,1.0,0.0,0.0
+H012,"My cooperative is registered in Karnataka, but someone showed me a Maharashtra cooperative rule. Should that Maharashtra rule be used to answer my Karnataka membership question?",Karnataka,True,5,MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19C,MSCS_RULES_AMD_2023,Multi-State Cooperative Societies Amendment Rules 2023,Central,0.85986483,False,False,False,,,19C,,,documents;elections;meetings;multistate;timeline,28,29,"19C. Powers and functions of Chairperson.—(1) The Chairperson shall be the administrative head of the Authority and shall have all the administrative and financial powers. [भाग II—खण्‍ड 3(i)] भारत‍का‍राजपत्र‍:‍असाधारण
+
+(2) The Chairperson shall have ",0.5487216,0.0,0.0,1.0

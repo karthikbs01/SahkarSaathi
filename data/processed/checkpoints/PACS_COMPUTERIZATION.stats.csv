@@ -1,0 +1,69 @@
+chunk_id,source_id,record_type,retrieval_status,document_type,jurisdiction,word_count,char_count,page_start,page_end,section,subsection,rule,subrule,clause,heading,topics,warning
+PACS_COMPUTERIZATION_DOC,PACS_COMPUTERIZATION,parent,REFERENCE_ONLY,scheme_guideline,Central,3,19,1,26,,,,,,,computerization;pacs,CONTEXT_PARENT;SHORT_CONTEXT_PARENT
+PACS_COMPUTERIZATION_SEC_001,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,21,184,1,1,,,,,,Implementing Agency: NABARD,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_1,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,274,1822,3,3,1,,,,,Introduction,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_2,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,269,1869,3,4,2,,,,,Aims & Objectives of the Project,computerization;management;pacs;pacs_services;reporting,
+PACS_COMPUTERIZATION_SEC_3,PACS_COMPUTERIZATION,parent,REFERENCE_ONLY,scheme_guideline,Central,3,17,4,15,3,,,,,Project Details,computerization;pacs,SHORT_CONTEXT_PARENT
+PACS_COMPUTERIZATION_SEC_3_1,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,15,118,4,4,3.1,,,,,Project Details,computerization;pacs,SHORT_COMPLETE_PROVISION
+PACS_COMPUTERIZATION_SEC_3_2,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,9,68,4,4,3.2,,,,,Project Details,computerization;pacs,SHORT_COMPLETE_PROVISION
+PACS_COMPUTERIZATION_SEC_3_3,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,15,80,4,4,3.3,,,,,Project Details,computerization;pacs,SHORT_COMPLETE_PROVISION
+PACS_COMPUTERIZATION_SEC_3_4,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,16,81,5,5,3.4,,,,,Project Details,computerization;pacs,SHORT_COMPLETE_PROVISION
+PACS_COMPUTERIZATION_SEC_3_5,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,21,155,5,5,3.5,,,,,Project Details,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_3_6,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,73,490,5,5,3.6,,,,,Project Details,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_3_7,PACS_COMPUTERIZATION,parent,REFERENCE_ONLY,scheme_guideline,Central,3,28,5,5,3.7,,,,,Project Details,computerization;pacs,SHORT_CONTEXT_PARENT
+PACS_COMPUTERIZATION_SEC_3_7_1,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,41,322,5,5,3.7.1,,,,,Implementation Mechanism,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_013,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,65,509,5,5,,,,,,a) Members of NLMIC:,computerization;management;pacs,
+PACS_COMPUTERIZATION_SEC_014,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,183,1165,5,6,,,,,,b) Role of NLMIC:,computerization;grievance;pacs,
+PACS_COMPUTERIZATION_SEC_015,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,56,423,6,6,,,,,,a) Members of SLIMC,computerization;management;pacs;registrar,
+PACS_COMPUTERIZATION_SEC_016,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,56,298,6,6,,,,,,b) Role of SLIMC,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_017,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,62,446,6,7,,,,,,a) Members of the DLIMC:,computerization;management;pacs,
+PACS_COMPUTERIZATION_SEC_018,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,54,333,7,7,,,,,,b) Role of DLIMC:,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_3_8,PACS_COMPUTERIZATION,parent,REFERENCE_ONLY,scheme_guideline,Central,9,52,7,12,3.8,,,,,Project Details,computerization;pacs,SHORT_CONTEXT_PARENT
+PACS_COMPUTERIZATION_SEC_3_8_1,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,64,407,7,7,3.8.1,,,,,"Project Cost, Sources of Funds & Funding Pattern",computerization;pacs,TABLE_REVIEW
+PACS_COMPUTERIZATION_SEC_3_8_2,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,133,849,7,8,3.8.2,,,,,"Project Cost, Sources of Funds & Funding Pattern",computerization;pacs,TABLE_REVIEW
+PACS_COMPUTERIZATION_SEC_3_8_3,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,17,96,8,8,3.8.3,,,,,"Project Cost, Sources of Funds & Funding Pattern",computerization;pacs,SHORT_COMPLETE_PROVISION
+PACS_COMPUTERIZATION_SEC_023,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,83,647,8,8,,,,,,₹ per PACS,computerization;deposits;management;membership;pacs,TABLE_REVIEW
+PACS_COMPUTERIZATION_SEC_024,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,72,540,9,9,,,,,,₹ per PACS,computerization;pacs;pacs_services,TABLE_REVIEW
+PACS_COMPUTERIZATION_SEC_3_8_4,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,502,3053,9,12,3.8.4,,,,,"Project Cost, Sources of Funds & Funding Pattern",computerization;pacs;pacs_services,TABLE_REVIEW
+PACS_COMPUTERIZATION_SEC_3_9,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,5,26,12,12,3.9,,,,,Project Details,computerization;pacs,SHORT_COMPLETE_PROVISION
+PACS_COMPUTERIZATION_SEC_027,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,43,270,12,12,,,,,,Total No. of PACS to be Maintenance and hand-,computerization;pacs,TABLE_REVIEW
+PACS_COMPUTERIZATION_SEC_3_9_002,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,6,37,13,13,3.9,,,,,Project Details,computerization;pacs,SHORT_COMPLETE_PROVISION
+PACS_COMPUTERIZATION_SEC_3_10_1,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,75,483,13,13,3.10.1,,,,,Project Details,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_3_10_2,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,316,1959,13,14,3.10.2,,,,,Project Details,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_3_10_3,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,147,1005,14,14,3.10.3,,,,,Project Details,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_3_10_4,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,102,643,14,14,3.10.4,,,,,Project Details,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_3_11,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,131,834,15,15,3.11,,,,,Project Details,computerization;management;pacs,
+PACS_COMPUTERIZATION_SEC_3_11_002,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,175,1078,15,15,3.11,,,,,Project Details,computerization;eligibility;pacs,
+PACS_COMPUTERIZATION_SEC_4,PACS_COMPUTERIZATION,parent,REFERENCE_ONLY,scheme_guideline,Central,6,47,16,18,4,,,,,Project Monitoring Units (PMUs)/Support Teams,computerization;pacs,SHORT_CONTEXT_PARENT
+PACS_COMPUTERIZATION_SEC_4_1,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,3,16,16,16,4.1,,,,,Project Monitoring Units (PMUs)/Support Teams,computerization;pacs,SHORT_COMPLETE_PROVISION
+PACS_COMPUTERIZATION_SEC_037,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,245,1671,16,17,,,,,,a. Roles and responsibilities of central PMU,computerization;management;pacs;reporting,
+PACS_COMPUTERIZATION_SEC_4_2,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,3,15,17,17,4.2,,,,,Project Monitoring Units (PMUs)/Support Teams,computerization;pacs,SHORT_COMPLETE_PROVISION
+PACS_COMPUTERIZATION_SEC_039,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,194,1317,17,17,,,,,,a. Roles and responsibilities of State PMU,computerization;management;pacs,
+PACS_COMPUTERIZATION_SEC_4_3,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,106,671,17,18,4.3,,,,,Project Monitoring Units (PMUs)/Support Teams,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_5,PACS_COMPUTERIZATION,parent,REFERENCE_ONLY,scheme_guideline,Central,2,14,18,22,5,,,,,Stakeholders,computerization;pacs,SHORT_CONTEXT_PARENT
+PACS_COMPUTERIZATION_SEC_5_1,PACS_COMPUTERIZATION,parent,REFERENCE_ONLY,scheme_guideline,Central,10,69,18,22,5.1,,,,,Stakeholders,computerization;pacs,SHORT_CONTEXT_PARENT
+PACS_COMPUTERIZATION_SEC_5_1_1,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,26,182,18,18,5.1.1,,,,,,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_5_1_2,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,417,2702,18,19,5.1.2,,,,,,computerization;eligibility;meetings;pacs;pacs_services,
+PACS_COMPUTERIZATION_SEC_5_1_3,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,70,451,19,20,5.1.3,,,,,,computerization;management;pacs,
+PACS_COMPUTERIZATION_SEC_5_1_4,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,93,588,20,20,5.1.4,,,,,,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_5_1_5,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,198,1219,20,21,5.1.5,,,,,,computerization;eligibility;meetings;pacs,
+PACS_COMPUTERIZATION_SEC_5_1_6,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,234,1442,21,21,5.1.6,,,,,,computerization;eligibility;pacs,
+PACS_COMPUTERIZATION_SEC_5_1_7,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,63,413,21,22,5.1.7,,,,,,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_5_1_8,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,42,288,22,22,5.1.8,,,,,,computerization;management;pacs,
+PACS_COMPUTERIZATION_SEC_5_1_9,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,111,717,22,22,5.1.9,,,,,,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_6,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,80,513,22,23,6,,,,,Legal Framework,computerization;pacs;pacs_services,
+PACS_COMPUTERIZATION_SEC_7,PACS_COMPUTERIZATION,parent,REFERENCE_ONLY,scheme_guideline,Central,7,42,23,23,7,,,,,Upkeep and maintenance of assets created,computerization;pacs,SHORT_CONTEXT_PARENT
+PACS_COMPUTERIZATION_SEC_7_1,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,49,308,23,23,7.1,,,,,Upkeep and maintenance of assets created,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_7_2,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,29,180,23,23,7.2,,,,,Upkeep and maintenance of assets created,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_7_3,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,43,279,23,23,7.3,,,,,Upkeep and maintenance of assets created,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_7_4,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,30,185,23,23,7.4,,,,,Upkeep and maintenance of assets created,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_7_5,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,51,313,23,23,7.5,,,,,Upkeep and maintenance of assets created,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_8,PACS_COMPUTERIZATION,parent,REFERENCE_ONLY,scheme_guideline,Central,5,29,24,24,8,,,,,Deliverables of the Project,computerization;pacs,SHORT_CONTEXT_PARENT
+PACS_COMPUTERIZATION_SEC_8_1,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,128,900,24,24,8.1,,,,,Deliverables of the Project,computerization;management;pacs,
+PACS_COMPUTERIZATION_SEC_8_2,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,39,249,24,24,8.2,,,,,Deliverables of the Project,computerization;governance;meetings;pacs,
+PACS_COMPUTERIZATION_SEC_8_3,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,57,438,24,24,8.3,,,,,Deliverables of the Project,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_9,PACS_COMPUTERIZATION,parent,REFERENCE_ONLY,scheme_guideline,Central,65,427,25,26,9,,,,,Expected Outcomes of the Project:,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_9_1,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,57,375,25,25,9.1,,,,,Expected Outcomes of the Project:,computerization;pacs;timeline,
+PACS_COMPUTERIZATION_SEC_9_2,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,46,324,25,25,9.2,,,,,Expected Outcomes of the Project:,computerization;pacs,
+PACS_COMPUTERIZATION_SEC_9_3,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,31,248,25,26,9.3,,,,,Expected Outcomes of the Project:,computerization;management;pacs,
+PACS_COMPUTERIZATION_SEC_067,PACS_COMPUTERIZATION,child,ACTIVE,scheme_guideline,Central,17,141,26,26,,,,,,Ministry of Cooperation,computerization;pacs,SHORT_CHUNK

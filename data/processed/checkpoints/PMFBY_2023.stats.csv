@@ -1,0 +1,967 @@
+chunk_id,source_id,record_type,retrieval_status,document_type,jurisdiction,word_count,char_count,page_start,page_end,section,subsection,rule,subrule,clause,heading,topics,warning
+PMFBY_2023_DOC,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,5,32,1,213,,,,,,,crop_insurance;pmfby,CONTEXT_PARENT;SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_001,PMFBY_2023,child,REVIEW,scheme_guideline,India,20,147,1,1,,,,,,Department of Agriculture & Farmers Welfare\,crop_insurance;pmfby,TOC_REVIEW
+PMFBY_2023_SEC_002,PMFBY_2023,child,REVIEW,scheme_guideline,India,440,3110,1,3,,,,,,Ministry of Agriculture & Farmers Welfare,claim;crop_insurance;crop_loss;grievance;management;pmfby;premium;reporting,TABLE_REVIEW;TOC_REVIEW
+PMFBY_2023_SEC_003,PMFBY_2023,child,REFERENCE_ONLY,scheme_guideline,India,1184,8457,4,9,,,,,,TABLE INDEX,crop_insurance;crop_loss;grievance;management;pacs;pmfby;premium,LONG_CHUNK_NO_SAFE_SPLIT
+PMFBY_2023_SEC_004,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,542,3785,10,11,,,,,,Pradhan Mantri Fasal Bima Yojana,crop_insurance;documents;grievance;management;pmfby,
+PMFBY_2023_SEC_004_SUB_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,394,2809,10,10,,,,,,Pradhan Mantri Fasal Bima Yojana,crop_insurance;management;pmfby,
+PMFBY_2023_SEC_004_SUB_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,148,974,10,11,,,,,,Pradhan Mantri Fasal Bima Yojana,crop_insurance;documents;grievance;pmfby,
+PMFBY_2023_SEC_005,PMFBY_2023,child,ACTIVE,scheme_guideline,India,99,708,11,11,,,,,,Objective of the Scheme,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_2,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,7,51,11,14,2,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_2_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,68,485,11,11,2.1,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,42,318,11,11,2.2,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,94,641,11,11,2.3,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby;premium;timeline,
+PMFBY_2023_SEC_2_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,41,274,11,11,2.4,,,,,Adoption of Technology for Scheme Administration,crop_insurance;documents;pmfby;premium,
+PMFBY_2023_SEC_2_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,50,343,11,12,2.5,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,36,243,12,12,2.6,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,49,384,12,12,2.7,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,53,430,12,12,2.8,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pacs;pacs_services;pmfby,
+PMFBY_2023_SEC_2_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,59,369,12,12,2.9,,,,,Adoption of Technology for Scheme Administration,crop_insurance;eligibility;pmfby;premium;timeline,
+PMFBY_2023_SEC_2_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,176,1074,12,12,2.10,,,,,Adoption of Technology for Scheme Administration,claim;crop_insurance;documents;pmfby;premium,
+PMFBY_2023_SEC_2_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,39,307,12,12,2.11,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,80,531,12,13,2.12,,,,,Adoption of Technology for Scheme Administration,crop_insurance;loans;pmfby,
+PMFBY_2023_SEC_2_13,PMFBY_2023,child,ACTIVE,scheme_guideline,India,140,1004,13,13,2.13,,,,,Adoption of Technology for Scheme Administration,crop_insurance;meetings;pmfby,
+PMFBY_2023_SEC_2_14,PMFBY_2023,child,ACTIVE,scheme_guideline,India,157,1057,13,13,2.14,,,,,Adoption of Technology for Scheme Administration,crop_insurance;crop_loss;pmfby;reporting,
+PMFBY_2023_SEC_2_15,PMFBY_2023,child,ACTIVE,scheme_guideline,India,50,324,13,13,2.15,,,,,Adoption of Technology for Scheme Administration,crop_insurance;management;pmfby,
+PMFBY_2023_SEC_2_16,PMFBY_2023,child,ACTIVE,scheme_guideline,India,43,302,13,13,2.16,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_17,PMFBY_2023,child,ACTIVE,scheme_guideline,India,41,248,13,13,2.17,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_18,PMFBY_2023,child,ACTIVE,scheme_guideline,India,61,403,13,13,2.18,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_19,PMFBY_2023,child,ACTIVE,scheme_guideline,India,70,472,13,14,2.19,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_20,PMFBY_2023,child,ACTIVE,scheme_guideline,India,66,468,14,14,2.20,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_21,PMFBY_2023,child,ACTIVE,scheme_guideline,India,40,238,14,14,2.21,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_22,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,173,14,14,2.22,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_23,PMFBY_2023,child,ACTIVE,scheme_guideline,India,42,251,14,14,2.23,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_24,PMFBY_2023,child,ACTIVE,scheme_guideline,India,36,259,14,14,2.24,,,,,Adoption of Technology for Scheme Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_3,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,4,22,14,16,3,,,,,Coverage of Farmers,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_3_1,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,172,1180,14,16,3.1,,,,,Coverage of Farmers,crop_insurance;documents;eligibility;loans;pmfby,
+PMFBY_2023_SEC_3_1_1_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,105,676,14,15,3.1.1.1,,,,,,crop_insurance;eligibility;loans;pmfby,
+PMFBY_2023_SEC_3_1_1_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,42,278,15,15,3.1.1.2,,,,,,crop_insurance;loans;pmfby,
+PMFBY_2023_SEC_3_1_1_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,62,440,15,15,3.1.1.3,,,,,,crop_insurance;deposits;eligibility;loans;pmfby,
+PMFBY_2023_SEC_3_1_2_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,34,215,15,15,3.1.2.1,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_3_1_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,50,340,15,15,3.1.3,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_3_1_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,185,1218,15,15,3.1.4,,,,,,crop_insurance;pmfby;premium;timeline,
+PMFBY_2023_SEC_3_1_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,75,454,15,16,3.1.5,,,,,,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_3_1_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,135,891,16,16,3.1.6,,,,,,claim;crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_3_1_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,196,16,16,3.1.7,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_3_2_1,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,45,301,16,16,3.2.1,,,,,Coverage of Farmers,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_3_2_1_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,87,577,16,16,3.2.1.1,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_3_2_1_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,48,347,16,16,3.2.1.2,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,94,623,16,17,4,,,,,Coverage of Crops,crop_insurance;pmfby,
+PMFBY_2023_SEC_5,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,6,35,17,23,5,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_5_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,60,408,17,17,5.1,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_2,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,60,376,17,18,5.2,,,,,Coverage of Risks and Exclusions,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_5_2_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,18,172,17,17,5.2.1,,,,,,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_5_2_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,62,389,17,17,5.2.2,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_2_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,61,371,17,17,5.2.3,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_2_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,34,248,17,17,5.2.4,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_2_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,175,1101,17,18,5.2.5,,,,,,crop_insurance;crop_loss;pmfby;premium,
+PMFBY_2023_SEC_5_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,34,209,18,18,5.3,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,20,132,18,18,5.4,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,93,654,18,18,5.5,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_5_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,23,153,18,18,5.6,,,,,Coverage of Risks and Exclusions,claim;crop_insurance;management;pmfby,
+PMFBY_2023_SEC_5_7_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,37,257,18,18,5.7.1,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_5_7_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,92,565,18,18,5.7.2,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_5_7_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,32,172,18,18,5.7.3,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_7_4,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,11,80,18,21,5.7.4,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_5_7_4_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,99,621,18,19,5.7.4.1,,,,,,crop_insurance;pmfby,TABLE_REVIEW
+PMFBY_2023_SEC_063,PMFBY_2023,child,ACTIVE,scheme_guideline,India,20,94,19,19,,,,,,Profit = 100%- LR = 100%,crop_insurance;pmfby,
+PMFBY_2023_SEC_064,PMFBY_2023,child,ACTIVE,scheme_guideline,India,87,434,19,19,,,,,,Loss = 100%- LR = -250%,crop_insurance;pmfby,
+PMFBY_2023_SEC_065,PMFBY_2023,child,ACTIVE,scheme_guideline,India,182,1089,19,19,,,,,,102% of the premium,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_5_7_4_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,119,753,20,20,5.7.4.2,,,,,,crop_insurance;pmfby;premium,TABLE_REVIEW
+PMFBY_2023_SEC_067,PMFBY_2023,child,ACTIVE,scheme_guideline,India,78,476,20,20,,,,,,II. Surplus Sharing:,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_7_4_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,160,1006,20,21,5.7.4.3,,,,,,crop_insurance;pmfby;premium,TABLE_REVIEW
+PMFBY_2023_SEC_069,PMFBY_2023,child,ACTIVE,scheme_guideline,India,61,356,21,21,,,,,,II. Surplus Sharing:,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_7_4_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,192,1201,21,21,5.7.4.4,,,,,,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_5_7_4_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,130,795,21,21,5.7.4.5,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_5_8_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,164,1164,21,22,5.8.1,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_8_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,116,806,22,22,5.8.2,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_8_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,133,890,22,22,5.8.3,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_5_8_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,106,728,22,22,5.8.4,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_8_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,48,403,22,23,5.8.5,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_8_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,148,1095,23,23,5.8.6,,,,,Coverage of Risks and Exclusions,complaint;crop_insurance;grievance;pmfby;registration,
+PMFBY_2023_SEC_5_8_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,27,186,23,23,5.8.7,,,,,Coverage of Risks and Exclusions,crop_insurance;pmfby,
+PMFBY_2023_SEC_6,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,54,370,23,29,6,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_6_1_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,67,465,23,23,6.1.1,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_6_1_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,108,675,23,23,6.1.2,,,,,Preconditions for Implementation of the Scheme,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_6_1_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,67,461,23,24,6.1.3,,,,,Preconditions for Implementation of the Scheme,crop_insurance;meetings;pmfby,
+PMFBY_2023_SEC_6_1_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,31,176,24,24,6.1.4,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_6_1_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,54,339,24,24,6.1.5,,,,,Preconditions for Implementation of the Scheme,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_6_1_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,40,255,24,24,6.1.6,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_086,PMFBY_2023,child,ACTIVE,scheme_guideline,India,25,178,24,24,,,,,,II. Notwithstanding any legal order specifically restricting the release of subsidy the,crop_insurance;pmfby,
+PMFBY_2023_SEC_087,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,214,24,24,,,,,,III. All the financial transactions (subsidy and claims) including farmers premium being,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_088,PMFBY_2023,child,ACTIVE,scheme_guideline,India,33,233,24,24,,,,,,IV. The States/UTs are required to commit their liabilities in advance as per modalities,crop_insurance;pmfby,
+PMFBY_2023_SEC_089,PMFBY_2023,child,ACTIVE,scheme_guideline,India,20,129,24,24,,,,,,CNA to Confirm on NCIP,crop_insurance;pmfby,
+PMFBY_2023_SEC_6_1_7,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,737,4657,25,26,6.1.7,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby;premium;reporting;timeline,
+PMFBY_2023_SEC_6_1_7_SUB_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,462,2873,25,25,6.1.7,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby;premium;reporting,
+PMFBY_2023_SEC_6_1_7_SUB_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,275,1782,25,26,6.1.7,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby;premium;timeline,
+PMFBY_2023_SEC_6_1_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,39,262,26,26,6.1.8,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_6_1_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,119,963,26,26,6.1.9,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_6_1_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,41,256,26,26,6.1.10,,,,,Preconditions for Implementation of the Scheme,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_6_1_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,92,659,26,27,6.1.11,,,,,Preconditions for Implementation of the Scheme,complaint;crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_6_2_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,24,155,27,27,6.2.1,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_6_2_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,43,271,27,27,6.2.2,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_6_2_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,42,253,27,27,6.2.3,,,,,Preconditions for Implementation of the Scheme,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_6_2_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,49,334,27,27,6.2.4,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_6_2_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,45,314,27,27,6.2.5,,,,,Preconditions for Implementation of the Scheme,crop_insurance;grievance;pmfby;registration;reporting,
+PMFBY_2023_SEC_6_2_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,31,201,27,27,6.2.6,,,,,Preconditions for Implementation of the Scheme,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_6_2_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,31,210,27,27,6.2.7,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_6_2_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,145,27,27,6.2.8,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_6_2_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,96,695,27,28,6.2.9,,,,,Preconditions for Implementation of the Scheme,complaint;crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_6_3_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,73,466,28,28,6.3.1,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pacs;pmfby,
+PMFBY_2023_SEC_6_3_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,43,285,28,28,6.3.2,,,,,Preconditions for Implementation of the Scheme,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_6_3_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,43,312,28,28,6.3.3,,,,,Preconditions for Implementation of the Scheme,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_6_3_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,20,147,28,28,6.3.4,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_6_3_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,47,306,28,28,6.3.5,,,,,Preconditions for Implementation of the Scheme,complaint;crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_6_4_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,199,28,28,6.4.1,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_6_4_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,78,482,28,28,6.4.2,,,,,Preconditions for Implementation of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_6_4_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,70,472,28,28,6.4.3,,,,,Preconditions for Implementation of the Scheme,crop_insurance;loans;pmfby,
+PMFBY_2023_SEC_6_5_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,66,424,28,29,6.5.1,,,,,Preconditions for Implementation of the Scheme,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_7,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,13,84,29,42,7,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_7_1_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,81,500,29,29,7.1.1,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_7_1_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,19,126,29,29,7.1.2,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;documents;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_7_1_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,51,309,29,29,7.1.3,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;meetings;pmfby,
+PMFBY_2023_SEC_7_1_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,45,280,29,29,7.1.4,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_7_1_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,81,560,29,29,7.1.5,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;documents;pmfby;premium,
+PMFBY_2023_SEC_7_1_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,72,442,29,29,7.1.6,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_7_1_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,60,386,29,29,7.1.7,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_121,PMFBY_2023,child,ACTIVE,scheme_guideline,India,33,244,29,30,,,,,,"A. Details of Automatic Weather Stations (AWS), Automatic Rain Gauges (ARG) or",crop_insurance;pmfby,
+PMFBY_2023_SEC_122,PMFBY_2023,child,ACTIVE,scheme_guideline,India,34,208,30,30,,,,,,B. Year wise historical Average Yield data for each notiﬁed crop at the Notiﬁed IU level,crop_insurance;pmfby,
+PMFBY_2023_SEC_123,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,187,30,30,,,,,,"C. Year wise, Crop-wise, IU level historical Coverage and Claim data for past 3 years",crop_insurance;pmfby,
+PMFBY_2023_SEC_124,PMFBY_2023,child,ACTIVE,scheme_guideline,India,24,160,30,30,,,,,,D. Crop-wise nomenclature of yield being collated and reported along with the,crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_125,PMFBY_2023,child,ACTIVE,scheme_guideline,India,35,225,30,30,,,,,,E. List of cluster wise distribution of districts and list of crops proposed to be covered,crop_insurance;pmfby,
+PMFBY_2023_SEC_126,PMFBY_2023,child,ACTIVE,scheme_guideline,India,47,337,30,30,,,,,,F. Classiﬁcation of irrigated and unirrigated districts in clusters as per irrigation facilities,crop_insurance;pmfby,
+PMFBY_2023_SEC_127,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,147,30,30,,,,,,G. Details of Alternate Risk Management Models (ARTM) and Yield Estimation Models,crop_insurance;management;pmfby,
+PMFBY_2023_SEC_7_1_8,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,125,714,30,31,7.1.8,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_7_1_8_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,125,30,30,7.1.8.1,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_1_8_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,128,807,30,30,7.1.8.2,,,,,,crop_insurance;documents;pmfby;premium,
+PMFBY_2023_SEC_7_1_8_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,120,741,30,31,7.1.8.3,,,,,,crop_insurance;documents;pmfby;premium,
+PMFBY_2023_SEC_7_1_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,182,1152,31,31,7.1.9,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_7_1_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,64,374,31,31,7.1.10,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_7_1_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,151,966,31,31,7.1.11,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_1_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,69,499,31,31,7.1.12,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;documents;management;meetings;pmfby,
+PMFBY_2023_SEC_7_1_13,PMFBY_2023,child,ACTIVE,scheme_guideline,India,70,417,31,32,7.1.13,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;documents;pmfby;timeline,
+PMFBY_2023_SEC_7_1_14,PMFBY_2023,child,ACTIVE,scheme_guideline,India,71,426,32,32,7.1.14,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_7_1_15,PMFBY_2023,child,ACTIVE,scheme_guideline,India,41,260,32,32,7.1.15,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_1_16,PMFBY_2023,child,ACTIVE,scheme_guideline,India,57,383,32,32,7.1.16,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_1_17_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,234,1515,32,32,7.1.17.1,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_7_1_17_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,69,427,32,33,7.1.17.2,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_7_2_1_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,177,1018,33,33,7.2.1.1,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;meetings;pmfby;premium,
+PMFBY_2023_SEC_7_2_1_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,58,339,33,33,7.2.1.2,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_7_2_1_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,106,656,33,33,7.2.1.3,,,,,Procedure for Issuance of Tender by the States/UTs,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_7_2_1_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,161,944,33,33,7.2.1.4,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;documents;pmfby;premium,
+PMFBY_2023_SEC_7_2_1_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,85,521,33,34,7.2.1.5,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_2_1_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,133,841,34,34,7.2.1.6,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;documents;pmfby;reporting,
+PMFBY_2023_SEC_7_2_1_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,125,738,34,34,7.2.1.7,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_7_2_1_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,117,721,34,34,7.2.1.8,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_7_2_1_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,81,537,34,34,7.2.1.9,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_3_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,152,885,34,35,7.3.1,,,,,Procedure for Issuance of Tender by the States/UTs,claim;crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_7_3_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,102,670,35,35,7.3.2,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_3_3,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,90,558,35,38,7.3.3,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_3_3_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,105,581,35,35,7.3.3.1,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_155,PMFBY_2023,child,ACTIVE,scheme_guideline,India,70,394,35,35,,,,,,Threshold Yield:,crop_insurance;pmfby,
+PMFBY_2023_SEC_156,PMFBY_2023,child,ACTIVE,scheme_guideline,India,71,390,35,36,,,,,,Premium Rate:,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_157,PMFBY_2023,child,ACTIVE,scheme_guideline,India,56,375,36,36,,,,,,Evaluation of tender process and determination of L1 Company:,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_7_3_3_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,216,1212,36,36,7.3.3.2,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_159,PMFBY_2023,child,ACTIVE,scheme_guideline,India,133,777,36,37,,,,,,Threshold Yield:,crop_insurance;pmfby,
+PMFBY_2023_SEC_160,PMFBY_2023,child,ACTIVE,scheme_guideline,India,117,682,37,37,,,,,,Evaluation of tender process and determination of L1 Company:,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_161,PMFBY_2023,child,ACTIVE,scheme_guideline,India,200,1129,37,37,,,,,,Indemnity Level-70%,crop_insurance;pmfby,
+PMFBY_2023_SEC_162,PMFBY_2023,child,ACTIVE,scheme_guideline,India,62,408,37,38,,,,,,Evaluation of tender process and determination of L1 Company:,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_7_3_3_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,74,463,38,38,7.3.3.3,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_164,PMFBY_2023,child,ACTIVE,scheme_guideline,India,139,888,38,38,,,,,,responding Increase/ Decrease in APR against each 1% point Increase/Decrease in,crop_insurance;pmfby;premium,TABLE_REVIEW
+PMFBY_2023_SEC_165,PMFBY_2023,child,ACTIVE,scheme_guideline,India,192,1097,38,39,,,,,,Premium rate quoted by L1 Insurance Company for a district crop combination =13%,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_166,PMFBY_2023,child,ACTIVE,scheme_guideline,India,45,313,39,39,,,,,,Evaluation of tender process and determination of L1 Company:,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_167,PMFBY_2023,child,ACTIVE,scheme_guideline,India,346,2124,39,40,,,,,,Actual Premium Rate (APR),crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_7_3_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,382,2458,40,40,7.3.4,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;crop_loss;pmfby;premium,
+PMFBY_2023_SEC_7_6_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,56,405,41,41,7.6.1,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_6_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,33,253,41,41,7.6.2,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_7_6_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,62,492,41,41,7.6.3,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_7_6_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,31,191,41,41,7.6.4,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_6_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,47,316,41,41,7.6.5,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_6_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,103,716,41,41,7.6.6,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_6_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,56,354,41,41,7.6.7,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_6_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,74,446,41,41,7.6.8,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_6_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,81,505,42,42,7.6.9,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_7_6_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,92,560,42,42,7.6.10,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby;premium,TABLE_REVIEW
+PMFBY_2023_SEC_7_6_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,61,459,42,42,7.6.11,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;management;pmfby,
+PMFBY_2023_SEC_7_6_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,86,539,42,42,7.6.12,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_6_13,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,153,42,42,7.6.13,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_7_6_14,PMFBY_2023,child,ACTIVE,scheme_guideline,India,47,296,42,42,7.6.14,,,,,Procedure for Issuance of Tender by the States/UTs,crop_insurance;pmfby,
+PMFBY_2023_SEC_8,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,9,56,42,44,8,,,,,Engagement of Common Service Centers (CSCs) and Other,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_8_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,82,564,42,43,8.1,,,,,Engagement of Common Service Centers (CSCs) and Other,crop_insurance;pmfby,
+PMFBY_2023_SEC_8_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,43,266,43,43,8.2,,,,,Engagement of Common Service Centers (CSCs) and Other,crop_insurance;pmfby,
+PMFBY_2023_SEC_8_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,109,681,43,43,8.3,,,,,Engagement of Common Service Centers (CSCs) and Other,crop_insurance;pmfby;timeline,
+PMFBY_2023_SEC_8_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,69,450,43,43,8.4,,,,,Engagement of Common Service Centers (CSCs) and Other,crop_insurance;pmfby,
+PMFBY_2023_SEC_8_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,108,700,43,43,8.5,,,,,Engagement of Common Service Centers (CSCs) and Other,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_8_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,307,1937,43,44,8.6,,,,,Engagement of Common Service Centers (CSCs) and Other,crop_insurance;documents;pmfby;timeline,
+PMFBY_2023_SEC_8_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,46,336,44,44,8.7,,,,,Engagement of Common Service Centers (CSCs) and Other,crop_insurance;pmfby,
+PMFBY_2023_SEC_8_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,143,921,44,44,8.8,,,,,Engagement of Common Service Centers (CSCs) and Other,crop_insurance;eligibility;loans;pmfby;premium,
+PMFBY_2023_SEC_8_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,76,499,44,44,8.9,,,,,Engagement of Common Service Centers (CSCs) and Other,crop_insurance;pmfby;timeline,
+PMFBY_2023_SEC_9,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,5,33,44,46,9,,,,,Electronic Remittance of Funds,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_9_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,82,582,44,44,9.1,,,,,Electronic Remittance of Funds,crop_insurance;eligibility;management;pmfby;premium,
+PMFBY_2023_SEC_9_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,121,831,44,45,9.2,,,,,Electronic Remittance of Funds,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_9_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,102,630,45,45,9.3,,,,,Electronic Remittance of Funds,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_9_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,128,847,45,45,9.4,,,,,Electronic Remittance of Funds,crop_insurance;deposits;pmfby;premium,
+PMFBY_2023_SEC_9_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,64,449,45,45,9.5,,,,,Electronic Remittance of Funds,claim;crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_9_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,106,708,45,45,9.6,,,,,Electronic Remittance of Funds,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_9_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,165,1157,45,46,9.7,,,,,Electronic Remittance of Funds,crop_insurance;management;pmfby,
+PMFBY_2023_SEC_9_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,121,787,46,46,9.8,,,,,Electronic Remittance of Funds,crop_insurance;pmfby,
+PMFBY_2023_SEC_9_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,47,304,46,46,9.9,,,,,Electronic Remittance of Funds,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_10,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,6,35,46,46,10,,,,,Census Code Mapping of Entities,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_10_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,79,544,46,46,10.1,,,,,Census Code Mapping of Entities,crop_insurance;pmfby,
+PMFBY_2023_SEC_10_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,60,390,46,46,10.2,,,,,Census Code Mapping of Entities,crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_10_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,77,486,46,46,10.3,,,,,Census Code Mapping of Entities,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_11_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,114,758,47,47,11.1,,,,,,crop_insurance;eligibility;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_12,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,4,30,47,47,12,,,,,Sum Insured/Coverage Limit,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_12_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,148,855,47,47,12.1,,,,,Sum Insured/Coverage Limit,crop_insurance;pmfby,
+PMFBY_2023_SEC_12_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,43,302,47,47,12.2,,,,,Sum Insured/Coverage Limit,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_12_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,200,47,47,12.3,,,,,Sum Insured/Coverage Limit,crop_insurance;pmfby,
+PMFBY_2023_SEC_13,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,6,37,47,50,13,,,,,Premium Rates and Premium Subsidy,crop_insurance;pmfby;premium,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_13_1,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,147,857,47,50,13.1,,,,,Premium Rates and Premium Subsidy,crop_insurance;pmfby;premium,TABLE_REVIEW
+PMFBY_2023_SEC_214,PMFBY_2023,child,ACTIVE,scheme_guideline,India,44,282,48,48,,,,,,Payment of Government Subsidy,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_13_1_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,66,405,48,48,13.1.1,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_13_1_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,130,778,48,48,13.1.2,,,,,,crop_insurance;documents;pmfby;premium,
+PMFBY_2023_SEC_13_1_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,27,175,48,48,13.1.3,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_13_1_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,17,102,48,48,13.1.4,,,,,,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_13_1_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,54,308,48,48,13.1.5,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_13_1_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,106,687,48,48,13.1.6,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_13_1_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,65,413,48,49,13.1.7,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_13_1_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,145,926,49,49,13.1.8,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_13_1_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,59,367,49,49,13.1.9,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_13_1_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,102,724,49,49,13.1.10,,,,,,claim;crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_13_1_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,100,645,49,49,13.1.11,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_13_1_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,47,327,49,49,13.1.12,,,,,,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_13_1_13,PMFBY_2023,child,ACTIVE,scheme_guideline,India,40,274,49,49,13.1.13,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_13_1_14,PMFBY_2023,child,ACTIVE,scheme_guideline,India,132,826,50,50,13.1.14,,,,,,crop_insurance;pmfby;premium;timeline,
+PMFBY_2023_SEC_14,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,5,38,50,50,14,,,,,Budget for Administrative Expenses,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_14_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,84,614,50,50,14.1,,,,,Budget for Administrative Expenses,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_14_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,46,353,50,50,14.2,,,,,Budget for Administrative Expenses,crop_insurance;pmfby,
+PMFBY_2023_SEC_15,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,9,58,50,51,15,,,,,Central Program Management Unit (CPMU) & State Program,crop_insurance;management;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_15_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,67,494,50,50,15.1,,,,,Central Program Management Unit (CPMU) & State Program,crop_insurance;management;pmfby,
+PMFBY_2023_SEC_15_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,127,795,50,50,15.2,,,,,Central Program Management Unit (CPMU) & State Program,crop_insurance;management;pmfby;premium,
+PMFBY_2023_SEC_15_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,107,737,50,51,15.3,,,,,Central Program Management Unit (CPMU) & State Program,crop_insurance;management;pmfby;premium,
+PMFBY_2023_SEC_15_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,121,799,51,51,15.4,,,,,Central Program Management Unit (CPMU) & State Program,crop_insurance;management;pmfby,
+PMFBY_2023_SEC_15_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,141,1015,51,51,15.5,,,,,Central Program Management Unit (CPMU) & State Program,crop_insurance;management;pmfby,
+PMFBY_2023_SEC_16,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,3,26,51,59,16,,,,,Seasonality Discipline,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_16_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,149,987,51,52,16.1,,,,,Seasonality Discipline,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_16_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,69,408,52,52,16.2,,,,,Seasonality Discipline,crop_insurance;pmfby,
+PMFBY_2023_SEC_16_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,61,390,52,52,16.3,,,,,Seasonality Discipline,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_16_4,PMFBY_2023,child,REFERENCE_ONLY,scheme_guideline,India,2475,16021,52,57,16.4,,,,,Seasonality Discipline,claim;complaint;crop_insurance;crop_loss;documents;meetings;pacs;pmfby;premium;registration;reporting;timeline,LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW
+PMFBY_2023_SEC_16_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,125,721,57,57,16.5,,,,,Seasonality Discipline,crop_insurance;pmfby;premium;reporting,
+PMFBY_2023_SEC_16_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,82,467,57,57,16.6,,,,,Seasonality Discipline,crop_insurance;pmfby,
+PMFBY_2023_SEC_16_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,36,238,57,57,16.7,,,,,Seasonality Discipline,crop_insurance;pmfby,
+PMFBY_2023_SEC_16_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,156,980,57,58,16.8,,,,,Seasonality Discipline,crop_insurance;crop_loss;eligibility;pmfby;premium,
+PMFBY_2023_SEC_16_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,111,668,58,58,16.9,,,,,Seasonality Discipline,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_16_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,100,609,58,58,16.10,,,,,Seasonality Discipline,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_16_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,97,641,58,58,16.11,,,,,Seasonality Discipline,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_16_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,113,727,58,58,16.12,,,,,Seasonality Discipline,claim;crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_16_13,PMFBY_2023,child,ACTIVE,scheme_guideline,India,161,967,58,59,16.13,,,,,Seasonality Discipline,claim;crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_16_14,PMFBY_2023,child,ACTIVE,scheme_guideline,India,135,896,59,59,16.14,,,,,Seasonality Discipline,claim;crop_insurance;management;pmfby;premium,
+PMFBY_2023_SEC_16_15,PMFBY_2023,child,ACTIVE,scheme_guideline,India,60,378,59,59,16.15,,,,,Seasonality Discipline,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_17,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,8,54,59,69,17,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pmfby;premium,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_17_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,242,1718,59,59,17.1,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pacs;pmfby;premium,
+PMFBY_2023_SEC_17_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,139,877,59,60,17.2,,,,,Collection of Applications and Premium from Farmers,crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_17_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,40,285,60,60,17.3,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pacs;pmfby;premium,
+PMFBY_2023_SEC_17_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,97,613,60,60,17.4,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_17_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,39,231,60,60,17.5,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_17_6,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,3,20,60,64,17.6,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pmfby;premium,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_17_6_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,231,1461,60,60,17.6.1,,,,,Loanee Farmers:,crop_insurance;documents;eligibility;loans;pacs;pmfby;premium,
+PMFBY_2023_SEC_17_6_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,228,1441,60,61,17.6.2,,,,,Loanee Farmers:,crop_insurance;eligibility;loans;pacs;pmfby;premium,
+PMFBY_2023_SEC_17_6_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,147,984,61,61,17.6.3,,,,,Loanee Farmers:,computerization;crop_insurance;eligibility;loans;pacs;pmfby,
+PMFBY_2023_SEC_17_6_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,55,386,61,61,17.6.4,,,,,Loanee Farmers:,crop_insurance;documents;pmfby;reporting,
+PMFBY_2023_SEC_17_6_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,88,590,61,61,17.6.5,,,,,Loanee Farmers:,crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_17_6_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,317,1789,61,62,17.6.6,,,,,Loanee Farmers:,crop_insurance;documents;loans;pmfby;premium,TABLE_REVIEW
+PMFBY_2023_SEC_17_6_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,104,663,62,63,17.6.7,,,,,Loanee Farmers:,crop_insurance;loans;pmfby;premium,
+PMFBY_2023_SEC_17_6_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,40,271,63,63,17.6.8,,,,,Loanee Farmers:,crop_insurance;pacs;pmfby;premium,
+PMFBY_2023_SEC_17_6_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,55,354,63,63,17.6.9,,,,,Loanee Farmers:,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_17_6_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,61,424,63,63,17.6.10,,,,,Loanee Farmers:,crop_insurance;pmfby,
+PMFBY_2023_SEC_17_6_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,181,1192,63,63,17.6.11,,,,,Loanee Farmers:,complaint;crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_17_6_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,46,261,63,63,17.6.12,,,,,Loanee Farmers:,crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_17_6_13,PMFBY_2023,child,ACTIVE,scheme_guideline,India,67,393,63,63,17.6.13,,,,,Loanee Farmers:,crop_insurance;pmfby,
+PMFBY_2023_SEC_17_6_14,PMFBY_2023,child,ACTIVE,scheme_guideline,India,43,278,63,64,17.6.14,,,,,Loanee Farmers:,crop_insurance;loans;pmfby,
+PMFBY_2023_SEC_17_6_15,PMFBY_2023,child,ACTIVE,scheme_guideline,India,88,555,64,64,17.6.15,,,,,Loanee Farmers:,claim;crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_17_6_16,PMFBY_2023,child,ACTIVE,scheme_guideline,India,70,437,64,64,17.6.16,,,,,Loanee Farmers:,claim;crop_insurance;pacs;pmfby;timeline,
+PMFBY_2023_SEC_17_6_17,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,140,64,64,17.6.17,,,,,Loanee Farmers:,crop_insurance;pmfby,
+PMFBY_2023_SEC_17_7,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,9,64,64,65,17.7,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pmfby;premium,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_17_7_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,59,376,64,64,17.7.1,,,,,Non-Loanee Farmers through Banks and other Channel Partners,crop_insurance;pmfby,
+PMFBY_2023_SEC_17_7_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,38,238,64,64,17.7.2,,,,,Non-Loanee Farmers through Banks and other Channel Partners,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_17_7_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,150,946,64,64,17.7.3,,,,,Non-Loanee Farmers through Banks and other Channel Partners,crop_insurance;documents;pacs;pmfby;premium,
+PMFBY_2023_SEC_17_7_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,102,676,64,65,17.7.4,,,,,Non-Loanee Farmers through Banks and other Channel Partners,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_17_7_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,144,1075,65,65,17.7.5,,,,,Non-Loanee Farmers through Banks and other Channel Partners,computerization;crop_insurance;documents;eligibility;pacs;pmfby;premium,
+PMFBY_2023_SEC_17_7_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,94,632,65,65,17.7.6,,,,,Non-Loanee Farmers through Banks and other Channel Partners,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_17_7_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,134,926,65,65,17.7.7,,,,,Non-Loanee Farmers through Banks and other Channel Partners,crop_insurance;pmfby;premium;timeline,
+PMFBY_2023_SEC_17_7_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,75,471,65,65,17.7.8,,,,,Non-Loanee Farmers through Banks and other Channel Partners,claim;crop_insurance;pacs;pmfby;timeline,
+PMFBY_2023_SEC_17_7_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,139,65,65,17.7.9,,,,,Non-Loanee Farmers through Banks and other Channel Partners,crop_insurance;pmfby,
+PMFBY_2023_SEC_17_7_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,202,65,65,17.7.10,,,,,Non-Loanee Farmers through Banks and other Channel Partners,crop_insurance;pmfby,
+PMFBY_2023_SEC_17_8,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,12,79,66,66,17.8,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pmfby;premium,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_17_8_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,26,195,66,66,17.8.1,,,,,,crop_insurance;documents;pmfby;premium,
+PMFBY_2023_SEC_17_8_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,145,971,66,66,17.8.2,,,,,,crop_insurance;documents;pmfby;premium;reporting,
+PMFBY_2023_SEC_17_8_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,116,711,66,66,17.8.3,,,,,,claim;crop_insurance;documents;pmfby;premium,
+PMFBY_2023_SEC_17_8_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,81,536,66,66,17.8.4,,,,,,crop_insurance;documents;pmfby;premium;timeline,
+PMFBY_2023_SEC_17_8_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,77,513,66,66,17.8.5,,,,,,claim;crop_insurance;pacs;pmfby;timeline,
+PMFBY_2023_SEC_17_8_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,141,66,66,17.8.6,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_17_9,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,10,49,66,67,17.9,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pmfby;premium,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_17_9_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,175,1057,66,67,17.9.1,,,,,,crop_insurance;loans;pmfby;premium,
+PMFBY_2023_SEC_17_9_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,128,813,67,67,17.9.2,,,,,,crop_insurance;pmfby;premium;reporting,
+PMFBY_2023_SEC_17_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,190,1273,67,67,17.10,,,,,Collection of Applications and Premium from Farmers,claim;crop_insurance;eligibility;pacs;pmfby;premium,
+PMFBY_2023_SEC_17_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,130,865,67,67,17.11,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pacs;pmfby;premium,
+PMFBY_2023_SEC_17_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,120,875,68,68,17.12,,,,,Collection of Applications and Premium from Farmers,crop_insurance;documents;pmfby;premium,
+PMFBY_2023_SEC_17_13,PMFBY_2023,child,ACTIVE,scheme_guideline,India,202,1426,68,68,17.13,,,,,Collection of Applications and Premium from Farmers,crop_insurance;documents;eligibility;pacs;pmfby;premium;reporting;timeline,
+PMFBY_2023_SEC_17_14,PMFBY_2023,child,ACTIVE,scheme_guideline,India,101,683,68,68,17.14,,,,,Collection of Applications and Premium from Farmers,crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_17_15,PMFBY_2023,child,ACTIVE,scheme_guideline,India,119,860,68,69,17.15,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_17_16,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,37,248,69,69,17.16,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_17_16_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,13,84,69,69,17.16.1,,,,,,crop_insurance;loans;pmfby;premium,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_17_16_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,19,96,69,69,17.16.2,,,,,,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_17_16_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,17,99,69,69,17.16.3,,,,,,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_17_16_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,11,68,69,69,17.16.4,,,,,,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_17_16_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,13,71,69,69,17.16.5,,,,,,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_17_16_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,19,128,69,69,17.16.6,,,,,,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_17_16_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,24,141,69,69,17.16.7,,,,,,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_17_16_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,19,107,69,69,17.16.8,,,,,,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_17_17,PMFBY_2023,child,ACTIVE,scheme_guideline,India,24,153,69,69,17.17,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_17_18,PMFBY_2023,child,ACTIVE,scheme_guideline,India,106,738,69,69,17.18,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pmfby;premium;reporting;timeline,
+PMFBY_2023_SEC_17_19,PMFBY_2023,child,ACTIVE,scheme_guideline,India,83,564,69,69,17.19,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_17_20,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,124,69,69,17.20,,,,,Collection of Applications and Premium from Farmers,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_18,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,8,42,69,75,18,,,,,Assessment of Loss / Shortfall in Yield,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_18_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,175,1085,70,70,18.1,,,,,Assessment of Loss / Shortfall in Yield,claim;crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_18_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,187,1142,70,70,18.2,,,,,Assessment of Loss / Shortfall in Yield,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_18_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,72,411,70,70,18.3,,,,,Assessment of Loss / Shortfall in Yield,crop_insurance;pmfby,
+PMFBY_2023_SEC_18_4,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,39,268,70,71,18.4,,,,,Assessment of Loss / Shortfall in Yield,crop_insurance;pmfby,
+PMFBY_2023_SEC_18_4_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,50,335,70,71,18.4.1,,,,,Smart Sampling Methodology for Crop Yield Estimation,crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,8,62,71,75,18.5,,,,,Assessment of Loss / Shortfall in Yield,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_18_5_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,309,1915,71,71,18.5.1,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,44,292,71,71,18.5.2,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,129,835,71,71,18.5.3,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,72,429,72,72,18.5.4,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,57,348,72,72,18.5.5,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,209,72,72,18.5.6,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,23,129,72,72,18.5.7,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,36,217,72,72,18.5.8,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,53,339,72,72,18.5.9,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,82,544,72,72,18.5.10,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,396,2697,72,73,18.5.11,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,211,1337,73,73,18.5.12,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_13_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,99,666,73,74,18.5.13.1,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_13_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,38,225,74,74,18.5.13.2,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_13_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,49,318,74,74,18.5.13.3,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_340,PMFBY_2023,child,ACTIVE,scheme_guideline,India,258,1059,74,74,,,,,,An Example for Yield Calculation for multi-picking crop is mentioned in Table 5 below:,crop_insurance;pmfby,TABLE_REVIEW
+PMFBY_2023_SEC_18_5_13_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,69,424,74,74,18.5.13.4,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_13_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,95,613,74,75,18.5.13.5,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_13_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,197,1213,75,75,18.5.13.6,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;pmfby,
+PMFBY_2023_SEC_18_5_13_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,140,956,75,75,18.5.13.7,,,,,Modalities for Conducting Crop Cutting Experiments (CCEs),crop_insurance;documents;pmfby,
+PMFBY_2023_FORM_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,201,75,75,,,,,,"Form-2 etc. to the Insurance Companies, however, the State/UT should provide",crop_insurance;documents;pmfby,MULTIPLE_FORMS_REVIEW
+PMFBY_2023_SEC_19,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,8,57,75,81,19,,,,,Dispute resolution regarding Yield Data/Crop Loss Data,crop_insurance;crop_loss;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_19_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,36,232,75,75,19.1,,,,,Dispute resolution regarding Yield Data/Crop Loss Data,claim;crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_19_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,353,2247,75,76,19.2,,,,,Dispute resolution regarding Yield Data/Crop Loss Data,appeal;crop_insurance;crop_loss;documents;meetings;pmfby;reporting;timeline,
+PMFBY_2023_SEC_16_14_002,PMFBY_2023,child,ACTIVE,scheme_guideline,India,3,14,76,76,16.14,,,,,,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION;STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_19_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,124,927,77,77,19.3,,,,,Dispute resolution regarding Yield Data/Crop Loss Data,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_19_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,84,556,77,77,19.4,,,,,Dispute resolution regarding Yield Data/Crop Loss Data,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_19_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,88,620,77,77,19.5,,,,,Dispute resolution regarding Yield Data/Crop Loss Data,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_19_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,218,77,77,19.6,,,,,Dispute resolution regarding Yield Data/Crop Loss Data,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_19_7,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,13,68,77,81,19.7,,,,,Dispute resolution regarding Yield Data/Crop Loss Data,crop_insurance;crop_loss;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_19_7_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,258,1557,77,78,19.7.1,,,,,,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_19_7_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,60,406,78,78,19.7.2,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_19_7_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,167,1047,78,78,19.7.3,,,,,,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_19_7_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,115,744,78,78,19.7.4,,,,,,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_19_7_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,44,229,79,79,19.7.5,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_360,PMFBY_2023,child,ACTIVE,scheme_guideline,India,192,1326,79,79,,,,,,a) Statistical analysis of the yield assessment survey and/or CCE yield data:,crop_insurance;pmfby,
+PMFBY_2023_SEC_0_25,PMFBY_2023,child,ACTIVE,scheme_guideline,India,28,167,79,79,0.25,,,,,,crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_362,PMFBY_2023,child,ACTIVE,scheme_guideline,India,122,902,79,79,,,,,,c) Analysis of Long-term Yield Data: Analysis of previous 10 years' yield data (at,crop_insurance;pmfby,
+PMFBY_2023_SEC_363,PMFBY_2023,child,ACTIVE,scheme_guideline,India,60,436,79,79,,,,,,"e) Analysis of Vegetation Index from Satellite Data: The vegetation indices, which",crop_insurance;pmfby,
+PMFBY_2023_SEC_364,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,823,5081,79,81,,,,,,levels of analysis,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_364_SUB_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,522,3190,79,80,,,,,,levels of analysis,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_364_SUB_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,336,2095,80,81,,,,,,levels of analysis,crop_insurance;pmfby,
+PMFBY_2023_SEC_19_7_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,33,200,81,81,19.7.6,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_19_7_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,56,333,81,81,19.7.7,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_19_7_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,48,306,81,81,19.7.8,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_19_7_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,175,1159,81,81,19.7.9,,,,,,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_20,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,8,53,82,88,20,,,,,Use of Innovative Technologies in Yield Estimation,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_20_1,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,9,61,82,84,20.1,,,,,Use of Innovative Technologies in Yield Estimation,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_20_1_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,219,1441,82,82,20.1.1,,,,,Rationalization of CCEs - Smart Sampling Technique (SST),crop_insurance;pmfby,
+PMFBY_2023_SEC_20_1_2,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,28,168,82,82,20.1.2,,,,,Rationalization of CCEs - Smart Sampling Technique (SST),crop_insurance;pmfby,
+PMFBY_2023_SEC_20_1_2_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,119,784,82,82,20.1.2.1,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_20_1_2_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,118,714,82,82,20.1.2.2,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_20_1_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,190,1193,83,83,20.1.3,,,,,Rationalization of CCEs - Smart Sampling Technique (SST),crop_insurance;pmfby,
+PMFBY_2023_SEC_20_1_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,98,644,83,83,20.1.4,,,,,Rationalization of CCEs - Smart Sampling Technique (SST),crop_insurance;pmfby,
+PMFBY_2023_SEC_20_1_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,86,546,83,83,20.1.5,,,,,Rationalization of CCEs - Smart Sampling Technique (SST),crop_insurance;pmfby,
+PMFBY_2023_SEC_20_1_6,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,42,259,83,84,20.1.6,,,,,Rationalization of CCEs - Smart Sampling Technique (SST),crop_insurance;pmfby,
+PMFBY_2023_SEC_20_1_6_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,44,259,83,83,20.1.6.1,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_20_1_6_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,42,284,83,83,20.1.6.2,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_20_1_6_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,63,394,83,84,20.1.6.3,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_20_1_6_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,44,262,84,84,20.1.6.4,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_20_1_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,48,297,84,84,20.1.7,,,,,Rationalization of CCEs - Smart Sampling Technique (SST),crop_insurance;pmfby,
+PMFBY_2023_SEC_20_2,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,6,47,84,86,20.2,,,,,Use of Innovative Technologies in Yield Estimation,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_20_2_1,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,8,61,84,85,20.2.1,,,,,Direct Yield Estimation through Technology,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_20_2_1_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,145,1022,84,84,20.2.1.1,,,,,Yield Estimation System Based on Technology (YES-TECH),claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_20_2_1_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,13,89,84,84,20.2.1.2,,,,,Yield Estimation System Based on Technology (YES-TECH),crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_20_2_1_1_002,PMFBY_2023,child,ACTIVE,scheme_guideline,India,48,313,84,84,20.2.1.1,,,,,Yield Estimation System Based on Technology (YES-TECH),crop_insurance;pmfby,
+PMFBY_2023_SEC_20_2_1_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,39,289,84,84,20.2.1.3,,,,,Yield Estimation System Based on Technology (YES-TECH),claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_20_2_1_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,166,84,84,20.2.1.4,,,,,Yield Estimation System Based on Technology (YES-TECH),crop_insurance;pmfby,
+PMFBY_2023_SEC_20_2_1_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,69,474,84,84,20.2.1.5,,,,,Yield Estimation System Based on Technology (YES-TECH),crop_insurance;pmfby,
+PMFBY_2023_SEC_20_2_1_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,40,259,85,85,20.2.1.6,,,,,Yield Estimation System Based on Technology (YES-TECH),crop_insurance;pmfby,
+PMFBY_2023_SEC_20_2_1_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,70,359,85,85,20.2.1.7,,,,,Yield Estimation System Based on Technology (YES-TECH),crop_insurance;pmfby,
+PMFBY_2023_SEC_20_2_1_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,136,906,85,85,20.2.1.8,,,,,Yield Estimation System Based on Technology (YES-TECH),crop_insurance;pmfby,
+PMFBY_2023_SEC_20_2_1_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,83,484,85,85,20.2.1.9,,,,,Yield Estimation System Based on Technology (YES-TECH),crop_insurance;pmfby,TABLE_REVIEW
+PMFBY_2023_SEC_20_2_2,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,10,72,85,86,20.2.2,,,,,Direct Yield Estimation through Technology,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_20_2_2_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,46,296,85,85,20.2.2.1,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_20_2_2_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,42,240,85,85,20.2.2.2,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_20_2_2_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,17,114,86,86,20.2.2.3,,,,,,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_20_2_2_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,53,338,86,86,20.2.2.4,,,,,,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_20_2_2_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,71,445,86,86,20.2.2.5,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_20_2_2_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,17,109,86,86,20.2.2.6,,,,,,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_20_3,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,11,68,86,86,20.3,,,,,Use of Innovative Technologies in Yield Estimation,crop_insurance;pmfby;reporting,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_20_3_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,97,585,86,86,20.3.1,,,,,,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_20_3_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,227,1453,86,86,20.3.2,,,,,,claim;crop_insurance;meetings;pmfby;timeline,
+PMFBY_2023_SEC_20_4,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,7,46,86,88,20.4,,,,,Use of Innovative Technologies in Yield Estimation,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_20_4_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,54,390,86,87,20.4.1,,,,,Fund for Innovation and Technology (FIAT),crop_insurance;meetings;pmfby,
+PMFBY_2023_SEC_20_4_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,82,534,87,87,20.4.2,,,,,Fund for Innovation and Technology (FIAT),crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_20_4_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,127,901,87,87,20.4.3,,,,,Fund for Innovation and Technology (FIAT),crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_20_4_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,267,1892,87,88,20.4.4,,,,,Fund for Innovation and Technology (FIAT),crop_insurance;management;pmfby,
+PMFBY_2023_SEC_21,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,7,42,88,121,21,,,,,Assessment of Claims & Claim Settlement,claim;crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_21_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,163,1077,88,88,21.1,,,,,Assessment of Claims & Claim Settlement,claim;crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_21_2,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,10,63,88,89,21.2,,,,,Assessment of Claims & Claim Settlement,claim;crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_21_2_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,289,1634,88,89,21.2.1,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_2_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,28,213,89,89,21.2.2,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_3,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,7,70,89,95,21.3,,,,,Assessment of Claims & Claim Settlement,claim;crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_21_3_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,104,574,89,89,21.3.1,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;crop_loss;eligibility;pmfby;timeline,
+PMFBY_2023_SEC_21_3_2_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,16,91,89,89,21.3.2.1,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_21_3_2_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,72,454,89,89,21.3.2.2,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_21_3_2_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,78,485,89,89,21.3.2.3,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;eligibility;loans;pmfby;premium;timeline,
+PMFBY_2023_SEC_21_3_2_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,61,394,89,89,21.3.2.4,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_3_2_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,117,822,89,90,21.3.2.5,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,claim;crop_insurance;crop_loss;eligibility;pmfby;reporting,
+PMFBY_2023_SEC_21_3_2_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,54,332,90,90,21.3.2.6,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_3_2_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,106,655,90,90,21.3.2.7,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby;premium;timeline,
+PMFBY_2023_SEC_21_3_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,75,521,90,90,21.3.3,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_21_3_4_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,69,420,90,90,21.3.4.1,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby;timeline,
+PMFBY_2023_SEC_21_3_4_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,124,834,90,90,21.3.4.2,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_3_4_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,137,864,90,91,21.3.4.3,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;meetings;pmfby,
+PMFBY_2023_SEC_21_3_4_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,48,344,91,91,21.3.4.4,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_21_3_4_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,40,298,91,91,21.3.4.5,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_21_3_4_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,53,329,91,91,21.3.4.6,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_21_3_4_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,31,207,91,91,21.3.4.7,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_3_5_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,45,267,91,91,21.3.5.1,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_3_5_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,152,91,91,21.3.5.2,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;eligibility;loans;pmfby;premium,
+PMFBY_2023_SEC_21_3_5_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,113,660,91,91,21.3.5.3,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby;premium;timeline,
+PMFBY_2023_SEC_21_3_5_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,141,91,91,21.3.5.4,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby;timeline,
+PMFBY_2023_SEC_21_3_5_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,35,216,91,91,21.3.5.5,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_21_3_5_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,53,297,91,92,21.3.5.6,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_21_3_5_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,21,126,92,92,21.3.5.7,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_3_5_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,26,156,92,92,21.3.5.8,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_3_5_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,46,298,92,92,21.3.5.9,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;eligibility;pmfby;premium;reporting;timeline,
+PMFBY_2023_SEC_21_3_5_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,88,489,92,92,21.3.5.10,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_3_5_11,PMFBY_2023,child,REFERENCE_ONLY,scheme_guideline,India,1117,7236,92,95,21.3.5.11,,,,,Prevented/Failed Sowing and Prevented Planting/Germination Claims,appeal;crop_insurance;documents;eligibility;grievance;meetings;pmfby;premium;timeline,LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW
+PMFBY_2023_SEC_21_4,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,9,61,95,102,21.4,,,,,Assessment of Claims & Claim Settlement,claim;crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_21_4_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,84,498,95,95,21.4.1,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;eligibility;pmfby;timeline,
+PMFBY_2023_SEC_21_4_2_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,17,102,95,95,21.4.2.1,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_21_4_2_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,48,276,96,96,21.4.2.2,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_21_4_2_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,48,293,96,96,21.4.2.3,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_4_2_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,104,741,96,96,21.4.2.4,,,,,On-Account Payment of Claims due to Mid-Season Adversity,claim;crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_21_4_2_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,58,368,96,96,21.4.2.5,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_4_2_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,73,431,96,96,21.4.2.6,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;eligibility;loans;pmfby;premium;timeline,
+PMFBY_2023_SEC_21_4_2_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,25,158,96,96,21.4.2.7,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_4_2_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,93,592,96,96,21.4.2.8,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby;timeline,
+PMFBY_2023_SEC_21_4_2_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,51,293,96,96,21.4.2.9,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_4_2_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,20,117,96,96,21.4.2.10,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_4_2_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,47,312,97,97,21.4.2.11,,,,,On-Account Payment of Claims due to Mid-Season Adversity,claim;crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_21_4_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,108,748,97,97,21.4.3,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_21_4_4_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,42,260,97,97,21.4.4.1,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_21_4_4_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,199,1267,97,97,21.4.4.2,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;meetings;pmfby,
+PMFBY_2023_SEC_21_4_4_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,54,403,97,97,21.4.4.3,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_21_4_4_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,69,414,97,97,21.4.4.4,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby;timeline,
+PMFBY_2023_SEC_21_4_4_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,52,336,97,98,21.4.4.5,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_4_4_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,28,187,98,98,21.4.4.6,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_4_4_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,75,452,98,98,21.4.4.7,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;crop_loss;pmfby;timeline,
+PMFBY_2023_SEC_21_4_4_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,40,248,98,98,21.4.4.8,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_4_4_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,31,210,98,98,21.4.4.9,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_4_5_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,46,304,98,98,21.4.5.1,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby;timeline,
+PMFBY_2023_SEC_21_4_5_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,51,307,98,98,21.4.5.2,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;eligibility;pmfby;timeline,
+PMFBY_2023_SEC_21_4_5_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,28,187,98,98,21.4.5.3,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_4_5_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,43,319,98,98,21.4.5.4,,,,,On-Account Payment of Claims due to Mid-Season Adversity,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_21_4_6_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,26,165,98,98,21.4.6.1,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;eligibility;loans;pmfby;premium,
+PMFBY_2023_SEC_21_4_6_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,34,203,99,99,21.4.6.2,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_21_4_6_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,35,235,99,99,21.4.6.3,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_21_4_6_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,15,96,99,99,21.4.6.4,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_21_4_6_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,201,1185,99,99,21.4.6.5,,,,,On-Account Payment of Claims due to Mid-Season Adversity,crop_insurance;pmfby;premium;reporting;timeline,
+PMFBY_2023_SEC_21_4_6_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,886,5662,99,102,21.4.6.6,,,,,On-Account Payment of Claims due to Mid-Season Adversity,appeal;crop_insurance;eligibility;grievance;meetings;pmfby;timeline,TABLE_REVIEW
+PMFBY_2023_SEC_21_5,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,3,23,102,109,21.5,,,,,Assessment of Claims & Claim Settlement,claim;crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_21_5_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,45,285,102,102,21.5.1,,,,,Localized Calamity,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_21_5_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,65,372,102,102,21.5.2,,,,,Localized Calamity,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_21_5_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,87,548,102,102,21.5.3,,,,,Localized Calamity,crop_insurance;documents;eligibility;pmfby,
+PMFBY_2023_SEC_21_5_4_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,17,102,102,102,21.5.4.1,,,,,Localized Calamity,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_21_5_4_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,28,173,102,102,21.5.4.2,,,,,Localized Calamity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_5_4_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,37,244,102,102,21.5.4.3,,,,,Localized Calamity,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_21_5_4_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,34,206,102,102,21.5.4.4,,,,,Localized Calamity,crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_21_5_4_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,51,293,102,102,21.5.4.5,,,,,Localized Calamity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_5_4_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,20,116,102,102,21.5.4.6,,,,,Localized Calamity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_5_4_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,47,311,102,103,21.5.4.7,,,,,Localized Calamity,claim;crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_21_5_4_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,68,514,103,103,21.5.4.8,,,,,Localized Calamity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_5_5_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,8,53,103,103,21.5.5.1,,,,,Localized Calamity,crop_insurance;pmfby;reporting,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_490,PMFBY_2023,child,ACTIVE,scheme_guideline,India,48,302,103,103,,,,,,A. The State/UT Government shall define the period during which the crop is in,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_5_5_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,16,99,103,103,21.5.5.4,,,,,Localized Calamity,crop_insurance;pmfby;reporting,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_492,PMFBY_2023,child,ACTIVE,scheme_guideline,India,59,377,103,103,,,,,,"C. Intimation must contain details of insured farmer's name, affected survey number-",crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_493,PMFBY_2023,child,ACTIVE,scheme_guideline,India,38,208,103,103,,,,,,"D. Premium payment veriﬁcation to be done from the portal and in case of need, may",crop_insurance;pmfby;premium;timeline,
+PMFBY_2023_SEC_494,PMFBY_2023,child,ACTIVE,scheme_guideline,India,27,193,103,103,,,,,,E. Mobile application may be used for reporting incidence of localized calamities for,crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_21_5_5_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,35,220,103,103,21.5.5.2,,,,,Localized Calamity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_5_5_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,37,251,103,103,21.5.5.3,,,,,Localized Calamity,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_21_5_5_4_002,PMFBY_2023,child,ACTIVE,scheme_guideline,India,136,910,103,104,21.5.5.4,,,,,Localized Calamity,crop_insurance;crop_loss;pmfby;premium;reporting,
+PMFBY_2023_SEC_21_5_5_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,192,104,104,21.5.5.5,,,,,Localized Calamity,crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_21_5_5_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,55,363,104,104,21.5.5.6,,,,,Localized Calamity,crop_insurance;documents;pmfby;reporting,
+PMFBY_2023_SEC_21_5_6_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,73,453,104,104,21.5.6.1,,,,,Localized Calamity,crop_insurance;crop_loss;documents;pmfby;reporting;timeline,
+PMFBY_2023_SEC_21_5_6_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,91,606,104,104,21.5.6.2,,,,,Localized Calamity,crop_insurance;documents;pmfby;reporting,
+PMFBY_2023_SEC_21_5_6_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,43,285,104,104,21.5.6.3,,,,,Localized Calamity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_5_7_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,100,710,104,104,21.5.7.1,,,,,Localized Calamity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_5_7_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,24,164,104,104,21.5.7.2,,,,,Localized Calamity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_5_7_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,599,3605,105,106,21.5.7.3,,,,,Localized Calamity,claim;crop_insurance;crop_loss;eligibility;pmfby;premium;reporting,
+PMFBY_2023_SEC_506,PMFBY_2023,child,ACTIVE,scheme_guideline,India,40,264,106,106,,,,,,D. The tentative sample size would be as under:,crop_insurance;pmfby;reporting,TABLE_REVIEW
+PMFBY_2023_SEC_21_5_9_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,25,165,106,106,21.5.9.1,,,,,Localized Calamity,crop_insurance;eligibility;loans;pmfby;premium,
+PMFBY_2023_SEC_21_5_9_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,66,411,106,106,21.5.9.2,,,,,Localized Calamity,crop_insurance;eligibility;pmfby;premium;reporting,
+PMFBY_2023_SEC_21_5_9_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,110,659,106,106,21.5.9.3,,,,,Localized Calamity,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_21_5_9_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,119,824,106,106,21.5.9.4,,,,,Localized Calamity,claim;crop_insurance;eligibility;pmfby;reporting,
+PMFBY_2023_SEC_21_5_9_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,54,334,106,106,21.5.9.5,,,,,Localized Calamity,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_5_9_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,34,206,106,106,21.5.9.6,,,,,Localized Calamity,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_21_5_9_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,17,101,106,107,21.5.9.7,,,,,Localized Calamity,crop_insurance;pmfby;timeline,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_21_5_9_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,33,200,107,107,21.5.9.8,,,,,Localized Calamity,crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_21_5_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,629,3989,107,109,21.5.10,,,,,Localized Calamity,crop_insurance;crop_loss;loans;pacs;pmfby;reporting;timeline,TABLE_REVIEW
+PMFBY_2023_SEC_516,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,647,4041,109,111,,,,,,Protocol for Area based Assessment: If affected area >25% of total insured Area:,appeal;crop_insurance;crop_loss;eligibility;grievance;meetings;pmfby;reporting;timeline,TABLE_REVIEW
+PMFBY_2023_SEC_516_SUB_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,529,3422,109,111,,,,,,Protocol for Area based Assessment: If affected area >25% of total insured Area:,appeal;crop_insurance;crop_loss;eligibility;grievance;meetings;pmfby;reporting;timeline,TABLE_REVIEW
+PMFBY_2023_SEC_516_SUB_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,192,1078,111,111,,,,,,Protocol for Area based Assessment: If affected area >25% of total insured Area:,crop_insurance;crop_loss;eligibility;pmfby;reporting;timeline,TABLE_REVIEW
+PMFBY_2023_SEC_21_6,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,3,24,111,117,21.6,,,,,Assessment of Claims & Claim Settlement,claim;crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_21_6_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,69,393,111,111,21.6.1,,,,,Post-Harvest Losses,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_6_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,38,252,111,111,21.6.2,,,,,Post-Harvest Losses,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_21_6_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,78,509,111,111,21.6.3,,,,,Post-Harvest Losses,crop_insurance;documents;eligibility;pmfby,
+PMFBY_2023_SEC_21_6_4_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,17,102,111,111,21.6.4.1,,,,,Post-Harvest Losses,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_21_6_4_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,187,111,111,21.6.4.2,,,,,Post-Harvest Losses,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_6_4_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,60,373,111,111,21.6.4.3,,,,,Post-Harvest Losses,crop_insurance;eligibility;pmfby;timeline,
+PMFBY_2023_SEC_21_6_4_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,34,206,111,111,21.6.4.4,,,,,Post-Harvest Losses,crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_21_6_4_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,46,259,112,112,21.6.4.5,,,,,Post-Harvest Losses,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_6_4_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,20,115,112,112,21.6.4.6,,,,,Post-Harvest Losses,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_6_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,62,456,112,112,21.6.5,,,,,Post-Harvest Losses,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_6_6,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,4,32,112,113,21.6.6,,,,,Post-Harvest Losses,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_21_6_6_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,80,546,112,112,21.6.6.1,,,,,Loss Assessment Procedure,crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_21_6_6_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,123,775,112,112,21.6.6.4,,,,,Loss Assessment Procedure,crop_insurance;pmfby;premium;reporting;timeline,
+PMFBY_2023_SEC_21_6_6_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,35,221,112,112,21.6.6.2,,,,,Loss Assessment Procedure,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_6_6_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,37,251,112,112,21.6.6.3,,,,,Loss Assessment Procedure,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_21_6_6_4_002,PMFBY_2023,child,ACTIVE,scheme_guideline,India,136,911,112,113,21.6.6.4,,,,,Loss Assessment Procedure,crop_insurance;crop_loss;pmfby;premium;reporting,
+PMFBY_2023_SEC_21_6_6_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,203,113,113,21.6.6.5,,,,,Loss Assessment Procedure,crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_21_6_6_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,55,363,113,113,21.6.6.6,,,,,Loss Assessment Procedure,crop_insurance;documents;pmfby;reporting,
+PMFBY_2023_SEC_21_6_7_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,69,440,113,113,21.6.7.1,,,,,Post-Harvest Losses,crop_insurance;documents;pmfby;reporting,
+PMFBY_2023_SEC_21_6_7_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,91,606,113,113,21.6.7.2,,,,,Post-Harvest Losses,crop_insurance;documents;pmfby;reporting,
+PMFBY_2023_SEC_21_6_7_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,43,280,113,113,21.6.7.3,,,,,Post-Harvest Losses,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_6_8_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,93,678,113,113,21.6.8.1,,,,,Post-Harvest Losses,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_6_8_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,24,164,113,113,21.6.8.2,,,,,Post-Harvest Losses,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_6_8_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,612,3655,114,114,21.6.8.3,,,,,Post-Harvest Losses,claim;crop_insurance;crop_loss;eligibility;pmfby;premium;reporting,
+PMFBY_2023_SEC_542,PMFBY_2023,child,ACTIVE,scheme_guideline,India,39,251,114,115,,,,,,I. The tentative sample size would be as under:,crop_insurance;pmfby;reporting,TABLE_REVIEW
+PMFBY_2023_SEC_21_6_10_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,25,166,115,115,21.6.10.1,,,,,Post-Harvest Losses,crop_insurance;eligibility;loans;pmfby;premium,
+PMFBY_2023_SEC_21_6_10_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,67,408,115,115,21.6.10.2,,,,,Post-Harvest Losses,crop_insurance;eligibility;pmfby;premium;reporting,
+PMFBY_2023_SEC_21_6_10_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,109,654,115,115,21.6.10.3,,,,,Post-Harvest Losses,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_21_6_10_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,122,833,115,115,21.6.10.4,,,,,Post-Harvest Losses,claim;crop_insurance;eligibility;pmfby;reporting,
+PMFBY_2023_SEC_21_6_10_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,60,366,115,115,21.6.10.5,,,,,Post-Harvest Losses,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_6_10_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,35,212,115,115,21.6.10.6,,,,,Post-Harvest Losses,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_21_6_10_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,21,126,115,115,21.6.10.7,,,,,Post-Harvest Losses,crop_insurance;pmfby;timeline,
+PMFBY_2023_SEC_21_6_10_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,636,4044,115,117,21.6.10.8,,,,,Post-Harvest Losses,crop_insurance;crop_loss;eligibility;loans;pacs;pmfby;premium;reporting;timeline,TABLE_REVIEW
+PMFBY_2023_SEC_551,PMFBY_2023,child,ACTIVE,scheme_guideline,India,387,2514,117,118,,,,,,Sl. No. Action required to be taken Action to be taken by Schedule for taking action,appeal;claim;crop_insurance;eligibility;grievance;meetings;pmfby;timeline,TABLE_REVIEW
+PMFBY_2023_SEC_552,PMFBY_2023,child,ACTIVE,scheme_guideline,India,196,1097,119,119,,,,,,Sl. No. Action required to be taken Action to be taken by Schedule for taking action,crop_insurance;crop_loss;eligibility;pmfby;reporting;timeline,TABLE_REVIEW
+PMFBY_2023_SEC_21_7,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,11,74,119,121,21.7,,,,,Assessment of Claims & Claim Settlement,claim;crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_21_7_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,65,442,119,119,21.7.1,,,,,,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_21_7_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,57,393,119,119,21.7.2,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_7_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,70,442,119,119,21.7.3,,,,,,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_21_7_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,104,691,119,120,21.7.4,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_7_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,97,669,120,120,21.7.5,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_21_7_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,60,382,120,120,21.7.6,,,,,,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_21_7_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,102,649,120,120,21.7.7,,,,,,claim;crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_21_7_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,6,59,121,121,21.7.8,,,,,,claim;crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_562,PMFBY_2023,child,ACTIVE,scheme_guideline,India,219,1416,121,121,,,,,,Claim Reported,crop_insurance;pmfby;reporting,TABLE_REVIEW
+PMFBY_2023_SEC_563,PMFBY_2023,child,ACTIVE,scheme_guideline,India,21,133,121,121,,,,,,Season ends,crop_insurance;pmfby,
+PMFBY_2023_SEC_22,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,11,82,121,122,22,,,,,Participation of Loss Assessors/Evaluators for Loss Assessment,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_22_1,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,3,25,121,122,22.1,,,,,Participation of Loss Assessors/Evaluators for Loss Assessment,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_22_1_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,62,433,121,122,22.1.1,,,,,Empanelment Criteria,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_22_1_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,57,377,122,122,22.1.2,,,,,Empanelment Criteria,crop_insurance;pmfby,
+PMFBY_2023_SEC_22_1_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,58,382,122,122,22.1.3,,,,,Empanelment Criteria,crop_insurance;pmfby,
+PMFBY_2023_SEC_22_1_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,50,362,122,122,22.1.4,,,,,Empanelment Criteria,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_22_1_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,66,457,122,122,22.1.5,,,,,Empanelment Criteria,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_22_1_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,62,417,122,122,22.1.6,,,,,Empanelment Criteria,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_22_1_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,45,283,122,122,22.1.7,,,,,Empanelment Criteria,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_23,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,9,52,122,125,23,,,,,Procedure for Settlement of Claims to the Farmers,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_23_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,118,750,122,122,23.1,,,,,Procedure for Settlement of Claims to the Farmers,claim;crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_23_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,96,606,122,123,23.2,,,,,Procedure for Settlement of Claims to the Farmers,crop_insurance;pmfby,
+PMFBY_2023_SEC_23_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,187,1174,123,123,23.3,,,,,Procedure for Settlement of Claims to the Farmers,claim;crop_insurance;crop_loss;pmfby;timeline,
+PMFBY_2023_SEC_23_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,115,756,123,123,23.4,,,,,Procedure for Settlement of Claims to the Farmers,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_23_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,110,743,123,123,23.5,,,,,Procedure for Settlement of Claims to the Farmers,crop_insurance;management;pmfby,
+PMFBY_2023_SEC_23_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,96,634,123,124,23.6,,,,,Procedure for Settlement of Claims to the Farmers,claim;crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_23_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,155,994,124,124,23.7,,,,,Procedure for Settlement of Claims to the Farmers,claim;crop_insurance;loans;pmfby,
+PMFBY_2023_SEC_23_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,127,792,124,124,23.8,,,,,Procedure for Settlement of Claims to the Farmers,crop_insurance;pmfby,
+PMFBY_2023_SEC_23_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,37,243,124,124,23.9,,,,,Procedure for Settlement of Claims to the Farmers,crop_insurance;pmfby,
+PMFBY_2023_SEC_23_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,85,534,124,124,23.10,,,,,Procedure for Settlement of Claims to the Farmers,crop_insurance;pmfby,
+PMFBY_2023_SEC_23_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,155,959,124,124,23.11,,,,,Procedure for Settlement of Claims to the Farmers,crop_insurance;eligibility;loans;pmfby,
+PMFBY_2023_SEC_23_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,35,249,125,125,23.12,,,,,Procedure for Settlement of Claims to the Farmers,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_23_13,PMFBY_2023,child,ACTIVE,scheme_guideline,India,116,830,125,125,23.13,,,,,Procedure for Settlement of Claims to the Farmers,claim;crop_insurance;grievance;pmfby;reporting,
+PMFBY_2023_SEC_23_14,PMFBY_2023,child,ACTIVE,scheme_guideline,India,107,694,125,125,23.14,,,,,Procedure for Settlement of Claims to the Farmers,claim;crop_insurance;eligibility;pmfby;timeline,
+PMFBY_2023_SEC_23_15,PMFBY_2023,child,ACTIVE,scheme_guideline,India,46,290,125,125,23.15,,,,,Procedure for Settlement of Claims to the Farmers,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_23_16,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,70,420,125,125,23.16,,,,,Procedure for Settlement of Claims to the Farmers,crop_insurance;pmfby,
+PMFBY_2023_SEC_23_16_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,20,115,125,125,23.16.1,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_23_16_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,128,125,125,23.16.2,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_23_16_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,158,125,125,23.16.3,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_24,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,9,65,125,126,24,,,,,Important Conditions/ Clauses Applicable for Coverage of Risks,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_24_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,59,373,125,126,24.1,,,,,Important Conditions/ Clauses Applicable for Coverage of Risks,crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_24_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,46,289,126,126,24.2,,,,,Important Conditions/ Clauses Applicable for Coverage of Risks,crop_insurance;pmfby,
+PMFBY_2023_SEC_24_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,67,407,126,126,24.3,,,,,Important Conditions/ Clauses Applicable for Coverage of Risks,crop_insurance;eligibility;loans;pmfby;premium,
+PMFBY_2023_SEC_24_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,58,361,126,126,24.4,,,,,Important Conditions/ Clauses Applicable for Coverage of Risks,crop_insurance;pmfby,
+PMFBY_2023_SEC_25,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,3,22,126,128,25,,,,,Acreage Discrepancy,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_25_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,452,2966,126,127,25.1,,,,,Acreage Discrepancy,crop_insurance;loans;pmfby;premium;reporting,
+PMFBY_2023_SEC_25_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,33,198,127,127,25.2,,,,,Acreage Discrepancy,crop_insurance;pmfby,
+PMFBY_2023_SEC_25_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,165,1001,127,127,25.3,,,,,Acreage Discrepancy,crop_insurance;crop_loss;pmfby;premium;reporting,
+PMFBY_2023_SEC_25_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,107,652,127,127,25.4,,,,,Acreage Discrepancy,crop_insurance;pmfby,
+PMFBY_2023_SEC_25_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,202,1280,127,127,25.5,,,,,Acreage Discrepancy,crop_insurance;pmfby;premium;reporting,
+PMFBY_2023_SEC_25_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,76,468,127,128,25.6,,,,,Acreage Discrepancy,crop_insurance;pmfby,
+PMFBY_2023_SEC_25_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,138,836,128,128,25.7,,,,,Acreage Discrepancy,crop_insurance;pmfby,
+PMFBY_2023_SEC_25_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,73,494,128,128,25.8,,,,,Acreage Discrepancy,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_25_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,37,255,128,128,25.9,,,,,Acreage Discrepancy,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_26,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,9,68,128,131,26,,,,,Information Education & Communication (IEC) and Capacity Building,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_26_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,150,1139,128,128,26.1,,,,,Information Education & Communication (IEC) and Capacity Building,crop_insurance;management;pacs;pacs_services;pmfby,
+PMFBY_2023_SEC_26_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,178,1222,128,129,26.2,,,,,Information Education & Communication (IEC) and Capacity Building,claim;crop_insurance;pmfby,
+PMFBY_2023_SEC_26_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,97,683,129,129,26.3,,,,,Information Education & Communication (IEC) and Capacity Building,claim;crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_26_4,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,25,157,129,131,26.4,,,,,Information Education & Communication (IEC) and Capacity Building,crop_insurance;pmfby,
+PMFBY_2023_SEC_26_4_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,101,690,129,129,26.4.1,,,,,,crop_insurance;management;pmfby,
+PMFBY_2023_SEC_26_4_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,71,484,129,129,26.4.2,,,,,,crop_insurance;pmfby;timeline,
+PMFBY_2023_SEC_26_4_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,40,284,129,129,26.4.3,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_26_4_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,71,461,129,130,26.4.4,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_26_4_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,66,421,130,130,26.4.5,,,,,,claim;crop_insurance;pmfby;timeline,
+PMFBY_2023_SEC_26_4_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,153,130,130,26.4.6,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_26_4_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,28,237,130,130,26.4.7,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_26_4_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,55,386,130,130,26.4.8,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_26_4_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,168,1137,130,130,26.4.9,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_26_4_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,68,444,130,130,26.4.10,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_26_4_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,35,213,130,130,26.4.11,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_26_4_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,34,248,130,130,26.4.12,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_26_4_13,PMFBY_2023,child,ACTIVE,scheme_guideline,India,61,457,130,131,26.4.13,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_26_4_14,PMFBY_2023,child,ACTIVE,scheme_guideline,India,25,165,131,131,26.4.14,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_26_4_15,PMFBY_2023,child,ACTIVE,scheme_guideline,India,65,507,131,131,26.4.15,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_26_4_16,PMFBY_2023,child,ACTIVE,scheme_guideline,India,49,330,131,131,26.4.16,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_27_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,41,246,131,131,27.1,,,,,,crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_27_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,44,322,131,131,27.2,,,,,,crop_insurance;pmfby;premium,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_27_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,84,566,131,131,27.3,,,,,,crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_27_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,85,590,131,131,27.4,,,,,,crop_insurance;pmfby;premium,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_27_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,48,303,131,132,27.5,,,,,,crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_27_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,42,265,132,132,27.6,,,,,,crop_insurance;pmfby;premium,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_27_7,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,6,31,132,132,27.7,,,,,Bank HQs and Bank Branches,crop_insurance;pmfby,SHORT_CONTEXT_PARENT;STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_27_7_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,237,1480,132,132,27.7.1,,,,,Bank HQs and Bank Branches,crop_insurance;pmfby;premium;timeline,
+PMFBY_2023_SEC_27_8,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,6,36,132,133,27.8,,,,,"CSC, BCs & Other Intermediaries",crop_insurance;pmfby,SHORT_CONTEXT_PARENT;STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_27_8_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,148,870,132,132,27.8.1,,,,,"CSC, BCs & Other Intermediaries",crop_insurance;pmfby;timeline,
+PMFBY_2023_SEC_27_8_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,117,836,132,133,27.8.2,,,,,"CSC, BCs & Other Intermediaries",crop_insurance;documents;pmfby;premium,
+PMFBY_2023_SEC_27_8_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,82,510,133,133,27.8.3,,,,,"CSC, BCs & Other Intermediaries",crop_insurance;pmfby,
+PMFBY_2023_SEC_28,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,6,28,133,133,28,,,,,Goods & Service Tax (GST),crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_28_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,17,105,133,133,28.1,,,,,Goods & Service Tax (GST),crop_insurance;pmfby;premium,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_29,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,7,38,133,134,29,,,,,Monitoring and Review of the Scheme,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_29_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,50,327,133,133,29.1,,,,,Monitoring and Review of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_29_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,90,578,133,133,29.2,,,,,Monitoring and Review of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_29_3,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,25,169,133,134,29.3,,,,,Monitoring and Review of the Scheme,crop_insurance;pmfby,
+PMFBY_2023_SEC_29_3_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,80,535,133,133,29.3.1,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_29_3_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,91,523,133,133,29.3.2,,,,,,crop_insurance;pmfby;reporting;timeline,
+PMFBY_2023_SEC_29_3_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,78,516,134,134,29.3.3,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_29_3_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,54,339,134,134,29.3.4,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_29_3_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,61,392,134,134,29.3.5,,,,,,complaint;crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_29_3_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,76,523,134,134,29.3.6,,,,,,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_29_3_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,35,216,134,134,29.3.7,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_29_3_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,179,134,134,29.3.8,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_29_3_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,40,222,134,134,29.3.9,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_30,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,4,32,134,138,30,,,,,Grievance Redressal Mechanism,crop_insurance;grievance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_30_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,39,294,134,134,30.1,,,,,Grievance Redressal Mechanism,crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_30_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,94,650,134,135,30.2,,,,,Grievance Redressal Mechanism,crop_insurance;grievance;pmfby;timeline,
+PMFBY_2023_SEC_30_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,199,1374,135,135,30.3,,,,,Grievance Redressal Mechanism,appeal;crop_insurance;grievance;management;pmfby;timeline,
+PMFBY_2023_SEC_30_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,101,781,135,135,30.4,,,,,Grievance Redressal Mechanism,crop_insurance;grievance;management;pmfby,
+PMFBY_2023_SEC_30_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,372,2442,135,136,30.5,,,,,Grievance Redressal Mechanism,complaint;crop_insurance;grievance;pmfby;reporting;timeline,
+PMFBY_2023_SEC_30_6,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,7,44,136,137,30.6,,,,,Grievance Redressal Mechanism,crop_insurance;grievance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_30_6_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,160,1035,136,136,30.6.1,,,,,Krishi Rakshak Portal & Helpline (KRPH),complaint;crop_insurance;grievance;pmfby;timeline,
+PMFBY_2023_SEC_30_6_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,58,439,136,136,30.6.2,,,,,Krishi Rakshak Portal & Helpline (KRPH),complaint;crop_insurance;pmfby,
+PMFBY_2023_SEC_30_6_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,175,1167,136,137,30.6.3,,,,,Krishi Rakshak Portal & Helpline (KRPH),appeal;crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_30_6_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,52,364,137,137,30.6.4,,,,,Krishi Rakshak Portal & Helpline (KRPH),crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_30_6_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,73,455,137,137,30.6.5,,,,,Krishi Rakshak Portal & Helpline (KRPH),crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_30_6_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,94,668,137,137,30.6.6,,,,,Krishi Rakshak Portal & Helpline (KRPH),complaint;crop_insurance;grievance;management;pmfby;registration,
+PMFBY_2023_SEC_30_6_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,24,158,137,137,30.6.7,,,,,Krishi Rakshak Portal & Helpline (KRPH),crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_30_7,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,7,55,137,138,30.7,,,,,Grievance Redressal Mechanism,crop_insurance;grievance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_30_7_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,116,843,137,137,30.7.1,,,,,Grievance Redressal Mechanism by Insurance Company,complaint;crop_insurance;grievance;meetings;pmfby,
+PMFBY_2023_SEC_30_7_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,25,160,137,137,30.7.2,,,,,Grievance Redressal Mechanism by Insurance Company,crop_insurance;grievance;meetings;pmfby,
+PMFBY_2023_SEC_30_7_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,47,308,138,138,30.7.3,,,,,Grievance Redressal Mechanism by Insurance Company,complaint;crop_insurance;grievance;pmfby;timeline,
+PMFBY_2023_SEC_30_7_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,35,237,138,138,30.7.4,,,,,Grievance Redressal Mechanism by Insurance Company,crop_insurance;grievance;pmfby;reporting,
+PMFBY_2023_SEC_30_7_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,23,152,138,138,30.7.5,,,,,Grievance Redressal Mechanism by Insurance Company,complaint;crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_30_8,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,18,125,138,138,30.8,,,,,Grievance Redressal Mechanism,crop_insurance;grievance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_30_8_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,90,673,138,138,30.8.1,,,,,,crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_30_8_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,19,136,138,138,30.8.2,,,,,,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_30_8_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,46,328,138,138,30.8.3,,,,,,crop_insurance;pmfby,
+PMFBY_2023_SEC_30_8_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,64,443,138,138,30.8.4,,,,,,crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_31,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,8,57,138,140,31,,,,,Empanelment and Selection of Insurance Companies (ICs),crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_31_1,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,3,25,138,139,31.1,,,,,Empanelment and Selection of Insurance Companies (ICs),crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_31_1_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,82,581,138,138,31.1.1,,,,,Empanelment Criteria,crop_insurance;pmfby,
+PMFBY_2023_SEC_31_1_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,163,1061,139,139,31.1.2,,,,,Empanelment Criteria,crop_insurance;pmfby,
+PMFBY_2023_SEC_31_1_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,28,178,139,139,31.1.3,,,,,Empanelment Criteria,crop_insurance;pmfby,
+PMFBY_2023_SEC_31_1_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,56,376,139,139,31.1.4,,,,,Empanelment Criteria,claim;crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_31_1_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,80,522,139,139,31.1.5,,,,,Empanelment Criteria,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_31_2,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,11,84,139,140,31.2,,,,,Empanelment and Selection of Insurance Companies (ICs),crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_31_2_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,76,457,139,139,31.2.1,,,,,Selection Criteria of Empaneled Insurance Companies as Implementing,crop_insurance;pmfby,
+PMFBY_2023_SEC_31_2_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,100,660,139,139,31.2.2,,,,,Selection Criteria of Empaneled Insurance Companies as Implementing,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_31_2_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,57,353,140,140,31.2.3,,,,,Selection Criteria of Empaneled Insurance Companies as Implementing,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_31_2_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,122,904,140,140,31.2.4,,,,,Selection Criteria of Empaneled Insurance Companies as Implementing,crop_insurance;pmfby,
+PMFBY_2023_SEC_31_2_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,67,397,140,140,31.2.5,,,,,Selection Criteria of Empaneled Insurance Companies as Implementing,crop_insurance;pmfby,
+PMFBY_2023_SEC_31_2_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,89,564,140,140,31.2.6,,,,,Selection Criteria of Empaneled Insurance Companies as Implementing,crop_insurance;pmfby,
+PMFBY_2023_SEC_32,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,9,63,140,141,32,,,,,Clustering/Clubbing of Districts for Bidding by the State/UT,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_32_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,161,984,140,140,32.1,,,,,Clustering/Clubbing of Districts for Bidding by the State/UT,crop_insurance;pmfby,
+PMFBY_2023_SEC_32_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,74,489,140,141,32.2,,,,,Clustering/Clubbing of Districts for Bidding by the State/UT,crop_insurance;pmfby,
+PMFBY_2023_SEC_32_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,103,631,141,141,32.3,,,,,Clustering/Clubbing of Districts for Bidding by the State/UT,crop_insurance;pmfby,
+PMFBY_2023_SEC_32_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,67,416,141,141,32.4,,,,,Clustering/Clubbing of Districts for Bidding by the State/UT,crop_insurance;pmfby,
+PMFBY_2023_SEC_32_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,80,499,141,141,32.5,,,,,Clustering/Clubbing of Districts for Bidding by the State/UT,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_32_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,146,988,141,141,32.6,,,,,Clustering/Clubbing of Districts for Bidding by the State/UT,crop_insurance;pmfby,
+PMFBY_2023_SEC_32_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,38,258,141,141,32.7,,,,,Clustering/Clubbing of Districts for Bidding by the State/UT,crop_insurance;pmfby,
+PMFBY_2023_SEC_32_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,21,151,141,141,32.8,,,,,Clustering/Clubbing of Districts for Bidding by the State/UT,crop_insurance;pmfby,
+PMFBY_2023_SEC_33,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,9,70,142,142,33,,,,,Assessment of Performance and De-empanelment of Insurance,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_33_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,62,419,142,142,33.1,,,,,Assessment of Performance and De-empanelment of Insurance,crop_insurance;pmfby,
+PMFBY_2023_SEC_33_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,205,142,142,33.2,,,,,Assessment of Performance and De-empanelment of Insurance,crop_insurance;pmfby,
+PMFBY_2023_SEC_33_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,60,375,142,142,33.3,,,,,Assessment of Performance and De-empanelment of Insurance,crop_insurance;pmfby,
+PMFBY_2023_SEC_33_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,117,773,142,142,33.4,,,,,Assessment of Performance and De-empanelment of Insurance,crop_insurance;pmfby,
+PMFBY_2023_SEC_33_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,52,329,142,142,33.5,,,,,Assessment of Performance and De-empanelment of Insurance,crop_insurance;pmfby,
+PMFBY_2023_SEC_33_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,38,237,142,142,33.6,,,,,Assessment of Performance and De-empanelment of Insurance,crop_insurance;pmfby,
+PMFBY_2023_SEC_34,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,10,63,142,142,34,,,,,Evaluation of Efﬁciency of Nodal Departments of the State/UT,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_34_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,32,214,142,142,34.1,,,,,Evaluation of Efﬁciency of Nodal Departments of the State/UT,crop_insurance;pmfby,
+PMFBY_2023_SEC_34_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,205,142,142,34.2,,,,,Evaluation of Efﬁciency of Nodal Departments of the State/UT,crop_insurance;pmfby,
+PMFBY_2023_SEC_35,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,6,39,142,143,35,,,,,Evaluation of Efﬁciency of Districts,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_35_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,203,142,143,35.1,,,,,Evaluation of Efﬁciency of Districts,crop_insurance;pmfby,
+PMFBY_2023_SEC_35_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,205,143,143,35.2,,,,,Evaluation of Efﬁciency of Districts,crop_insurance;pmfby,
+PMFBY_2023_SEC_35_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,37,225,143,143,35.3,,,,,Evaluation of Efﬁciency of Districts,crop_insurance;pmfby,
+PMFBY_2023_SEC_36,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,6,35,143,143,36,,,,,Evaluation of Efﬁciency of Banks,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_36_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,34,225,143,143,36.1,,,,,Evaluation of Efﬁciency of Banks,crop_insurance;pmfby,
+PMFBY_2023_SEC_36_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,205,143,143,36.2,,,,,Evaluation of Efﬁciency of Banks,crop_insurance;pmfby,
+PMFBY_2023_SEC_37,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,6,38,143,143,37,,,,,Evaluation of Efﬁciency of CSC-VLEs,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_37_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,31,196,143,143,37.1,,,,,Evaluation of Efﬁciency of CSC-VLEs,crop_insurance;pmfby,
+PMFBY_2023_SEC_37_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,62,447,143,143,37.2,,,,,Evaluation of Efﬁciency of CSC-VLEs,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_1_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,35,274,143,143,38.1.1,,,,,,crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,25,168,143,143,38.1.2,,,,,,crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,46,325,143,143,38.1.3,,,,,"Design, development, operationalization and maintenance of National Crop",crop_insurance;crop_loss;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,20,128,144,144,38.1.4,,,,,,crop_insurance;management;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,32,212,144,144,38.1.5,,,,,,crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,19,130,144,144,38.1.6,,,,,,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION;STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,41,229,144,144,38.1.7,,,,,,crop_insurance;pmfby;premium,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,23,147,144,144,38.1.8,,,,,,crop_insurance;pmfby;premium,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,49,397,144,144,38.1.9,,,,,,crop_insurance;pmfby;premium,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,50,369,144,144,38.1.10,,,,,,crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,215,144,144,38.1.11,,,,,,crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,45,301,144,144,38.1.12,,,,,,crop_insurance;pmfby;premium,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_13,PMFBY_2023,child,ACTIVE,scheme_guideline,India,23,178,144,144,38.1.13,,,,,,claim;crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_14,PMFBY_2023,child,ACTIVE,scheme_guideline,India,62,445,144,144,38.1.14,,,,,"Empanelment of Insurance Companies, constitutions of various committees",crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_15,PMFBY_2023,child,ACTIVE,scheme_guideline,India,47,357,144,145,38.1.15,,,,,,crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_16,PMFBY_2023,child,ACTIVE,scheme_guideline,India,40,278,145,145,38.1.16,,,,,,crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_17,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,197,145,145,38.1.17,,,,,,crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_1_18,PMFBY_2023,child,ACTIVE,scheme_guideline,India,33,213,145,145,38.1.18,,,,,,crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_2,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,4,39,145,147,38.2,,,,,State Government/UT Administration,crop_insurance;pmfby,SHORT_CONTEXT_PARENT;STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_2_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,44,292,145,145,38.2.1,,,,,State Government/UT Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_2_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,40,255,145,145,38.2.2,,,,,State Government/UT Administration,crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_38_2_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,49,335,145,145,38.2.3,,,,,State Government/UT Administration,crop_insurance;crop_loss;grievance;meetings;pmfby,
+PMFBY_2023_SEC_38_2_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,45,295,145,145,38.2.4,,,,,State Government/UT Administration,crop_insurance;documents;meetings;pmfby,
+PMFBY_2023_SEC_38_2_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,32,179,145,145,38.2.5,,,,,State Government/UT Administration,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_38_2_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,207,145,145,38.2.6,,,,,State Government/UT Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_2_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,18,143,145,145,38.2.7,,,,,State Government/UT Administration,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_2_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,42,250,145,145,38.2.8,,,,,State Government/UT Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_2_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,75,443,146,146,38.2.9,,,,,State Government/UT Administration,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_38_2_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,34,230,146,146,38.2.10,,,,,State Government/UT Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_2_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,36,245,146,146,38.2.11,,,,,State Government/UT Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_2_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,42,236,146,146,38.2.12,,,,,State Government/UT Administration,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_38_2_13,PMFBY_2023,child,ACTIVE,scheme_guideline,India,23,148,146,146,38.2.13,,,,,State Government/UT Administration,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_38_2_14,PMFBY_2023,child,ACTIVE,scheme_guideline,India,31,191,146,146,38.2.14,,,,,State Government/UT Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_2_15,PMFBY_2023,child,ACTIVE,scheme_guideline,India,46,321,146,146,38.2.15,,,,,State Government/UT Administration,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_38_2_16,PMFBY_2023,child,ACTIVE,scheme_guideline,India,42,246,146,146,38.2.16,,,,,State Government/UT Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_2_17,PMFBY_2023,child,ACTIVE,scheme_guideline,India,46,256,146,146,38.2.17,,,,,State Government/UT Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_2_18,PMFBY_2023,child,ACTIVE,scheme_guideline,India,56,351,146,146,38.2.18,,,,,State Government/UT Administration,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_38_2_19,PMFBY_2023,child,ACTIVE,scheme_guideline,India,20,147,146,146,38.2.19,,,,,State Government/UT Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_2_20,PMFBY_2023,child,ACTIVE,scheme_guideline,India,21,174,146,146,38.2.20,,,,,State Government/UT Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_2_21,PMFBY_2023,child,ACTIVE,scheme_guideline,India,20,117,147,147,38.2.21,,,,,State Government/UT Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_2_22,PMFBY_2023,child,ACTIVE,scheme_guideline,India,27,173,147,147,38.2.22,,,,,State Government/UT Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_2_23,PMFBY_2023,child,ACTIVE,scheme_guideline,India,13,86,147,147,38.2.23,,,,,State Government/UT Administration,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_2_24,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,221,147,147,38.2.24,,,,,State Government/UT Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_2_25,PMFBY_2023,child,ACTIVE,scheme_guideline,India,17,142,147,147,38.2.25,,,,,State Government/UT Administration,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_2_26,PMFBY_2023,child,ACTIVE,scheme_guideline,India,17,120,147,147,38.2.26,,,,,State Government/UT Administration,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_2_27,PMFBY_2023,child,ACTIVE,scheme_guideline,India,28,192,147,147,38.2.27,,,,,State Government/UT Administration,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_3,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,6,32,147,148,38.3,,,,,Central PMUs and State PMUs,crop_insurance;pmfby,SHORT_CONTEXT_PARENT;STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_3_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,14,97,147,147,38.3.1,,,,,Central PMUs and State PMUs,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_3_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,21,180,147,147,38.3.2,,,,,Central PMUs and State PMUs,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_3_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,24,160,147,147,38.3.3,,,,,Central PMUs and State PMUs,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_3_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,16,140,147,147,38.3.4,,,,,Central PMUs and State PMUs,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_3_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,18,131,147,147,38.3.5,,,,,Central PMUs and State PMUs,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_3_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,16,112,147,147,38.3.6,,,,,Central PMUs and State PMUs,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_3_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,14,104,147,147,38.3.7,,,,,Central PMUs and State PMUs,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_3_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,213,147,147,38.3.8,,,,,Central PMUs and State PMUs,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_38_3_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,211,147,147,38.3.9,,,,,Central PMUs and State PMUs,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_3_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,16,125,148,148,38.3.10,,,,,Central PMUs and State PMUs,crop_insurance;management;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_3_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,27,202,148,148,38.3.11,,,,,Central PMUs and State PMUs,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_4,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,4,30,148,149,38.4,,,,,Insurance Companies (ICs),crop_insurance;pmfby,SHORT_CONTEXT_PARENT;STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_4_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,24,187,148,148,38.4.1,,,,,Insurance Companies (ICs),crop_insurance;meetings;pmfby,
+PMFBY_2023_SEC_38_4_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,31,237,148,148,38.4.2,,,,,Insurance Companies (ICs),claim;crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_38_4_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,35,221,148,148,38.4.3,,,,,Insurance Companies (ICs),claim;crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_38_4_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,159,148,148,38.4.4,,,,,Insurance Companies (ICs),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_4_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,54,312,148,148,38.4.5,,,,,Insurance Companies (ICs),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_4_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,49,323,148,148,38.4.6,,,,,Insurance Companies (ICs),crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_38_4_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,21,145,148,148,38.4.7,,,,,Insurance Companies (ICs),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_4_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,66,421,148,148,38.4.8,,,,,Insurance Companies (ICs),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_4_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,16,126,148,148,38.4.9,,,,,Insurance Companies (ICs),crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_4_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,202,148,148,38.4.10,,,,,Insurance Companies (ICs),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_4_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,206,148,149,38.4.11,,,,,Insurance Companies (ICs),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_4_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,48,319,149,149,38.4.12,,,,,Insurance Companies (ICs),complaint;crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_38_4_13,PMFBY_2023,child,ACTIVE,scheme_guideline,India,38,254,149,149,38.4.13,,,,,Insurance Companies (ICs),crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_38_4_14,PMFBY_2023,child,ACTIVE,scheme_guideline,India,148,985,149,149,38.4.14,,,,,Insurance Companies (ICs),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_4_15,PMFBY_2023,child,ACTIVE,scheme_guideline,India,17,132,149,149,38.4.15,,,,,Insurance Companies (ICs),crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_4_16,PMFBY_2023,child,ACTIVE,scheme_guideline,India,39,251,149,149,38.4.16,,,,,Insurance Companies (ICs),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_4_17,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,223,149,149,38.4.17,,,,,Insurance Companies (ICs),crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_38_4_18,PMFBY_2023,child,ACTIVE,scheme_guideline,India,18,134,149,149,38.4.18,,,,,Insurance Companies (ICs),crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_4_19,PMFBY_2023,child,ACTIVE,scheme_guideline,India,50,315,149,149,38.4.19,,,,,Insurance Companies (ICs),crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_38_5,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,3,33,149,151,38.5,,,,,Financial Institutions/Banks,crop_insurance;pmfby,SHORT_CONTEXT_PARENT;STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_5_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,28,179,149,149,38.5.1,,,,,Financial Institutions/Banks,crop_insurance;loans;pmfby,
+PMFBY_2023_SEC_38_5_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,35,238,150,150,38.5.2,,,,,Financial Institutions/Banks,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_5_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,21,144,150,150,38.5.3,,,,,Financial Institutions/Banks,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_5_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,156,150,150,38.5.4,,,,,Financial Institutions/Banks,crop_insurance;loans;pmfby;premium,
+PMFBY_2023_SEC_38_5_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,19,114,150,150,38.5.5,,,,,Financial Institutions/Banks,crop_insurance;eligibility;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_5_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,56,368,150,150,38.5.6,,,,,Financial Institutions/Banks,crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_38_5_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,32,196,150,150,38.5.7,,,,,Financial Institutions/Banks,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_38_5_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,118,799,150,150,38.5.8,,,,,Financial Institutions/Banks,crop_insurance;eligibility;loans;pmfby,
+PMFBY_2023_SEC_38_5_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,103,657,150,150,38.5.9,,,,,Financial Institutions/Banks,crop_insurance;eligibility;pmfby;premium;timeline,
+PMFBY_2023_SEC_38_5_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,89,572,150,150,38.5.10,,,,,Financial Institutions/Banks,crop_insurance;pmfby;timeline,
+PMFBY_2023_SEC_38_5_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,28,208,151,151,38.5.11,,,,,Financial Institutions/Banks,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_38_5_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,59,367,151,151,38.5.12,,,,,Financial Institutions/Banks,crop_insurance;loans;pmfby,
+PMFBY_2023_SEC_38_5_13,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,184,151,151,38.5.13,,,,,Financial Institutions/Banks,crop_insurance;pacs;pmfby,
+PMFBY_2023_SEC_38_5_14,PMFBY_2023,child,ACTIVE,scheme_guideline,India,49,273,151,151,38.5.14,,,,,Financial Institutions/Banks,claim;crop_insurance;pacs;pmfby,
+PMFBY_2023_SEC_38_5_15,PMFBY_2023,child,ACTIVE,scheme_guideline,India,18,112,151,151,38.5.15,,,,,Financial Institutions/Banks,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_5_16,PMFBY_2023,child,ACTIVE,scheme_guideline,India,33,200,151,151,38.5.16,,,,,Financial Institutions/Banks,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_38_5_17,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,179,151,151,38.5.17,,,,,Financial Institutions/Banks,crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_38_5_18,PMFBY_2023,child,ACTIVE,scheme_guideline,India,32,219,151,151,38.5.18,,,,,Financial Institutions/Banks,crop_insurance;documents;loans;pmfby,
+PMFBY_2023_SEC_38_5_19,PMFBY_2023,child,ACTIVE,scheme_guideline,India,44,269,151,151,38.5.19,,,,,Financial Institutions/Banks,crop_insurance;pmfby;timeline,
+PMFBY_2023_SEC_38_5_20,PMFBY_2023,child,ACTIVE,scheme_guideline,India,26,176,151,151,38.5.20,,,,,Financial Institutions/Banks,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_38_5_21,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,202,151,151,38.5.21,,,,,Financial Institutions/Banks,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_6,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,8,61,151,152,38.6,,,,,Common Service Centre- Special Purpose Vehicle (CSC-SPV),crop_insurance;pmfby,SHORT_CONTEXT_PARENT;STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_6_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,20,134,151,151,38.6.1,,,,,Common Service Centre- Special Purpose Vehicle (CSC-SPV),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_6_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,122,151,151,38.6.2,,,,,Common Service Centre- Special Purpose Vehicle (CSC-SPV),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_6_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,28,169,152,152,38.6.3,,,,,Common Service Centre- Special Purpose Vehicle (CSC-SPV),crop_insurance;pmfby;premium;timeline,
+PMFBY_2023_SEC_38_6_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,26,163,152,152,38.6.4,,,,,Common Service Centre- Special Purpose Vehicle (CSC-SPV),crop_insurance;pmfby;premium;timeline,
+PMFBY_2023_SEC_38_6_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,25,169,152,152,38.6.5,,,,,Common Service Centre- Special Purpose Vehicle (CSC-SPV),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_6_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,14,95,152,152,38.6.6,,,,,Common Service Centre- Special Purpose Vehicle (CSC-SPV),crop_insurance;grievance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_6_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,38,236,152,152,38.6.7,,,,,Common Service Centre- Special Purpose Vehicle (CSC-SPV),crop_insurance;pmfby;timeline,
+PMFBY_2023_SEC_38_6_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,58,354,152,152,38.6.8,,,,,Common Service Centre- Special Purpose Vehicle (CSC-SPV),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_6_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,21,134,152,152,38.6.9,,,,,Common Service Centre- Special Purpose Vehicle (CSC-SPV),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_6_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,97,595,152,152,38.6.10,,,,,Common Service Centre- Special Purpose Vehicle (CSC-SPV),claim;crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_38_7,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,9,67,152,153,38.7,,,,,Common Service Centers - Village Level Entrepreneurs (CSC-VLE),crop_insurance;pmfby,SHORT_CONTEXT_PARENT;STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_7_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,109,705,152,152,38.7.1,,,,,Common Service Centers - Village Level Entrepreneurs (CSC-VLE),crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_38_7_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,26,193,152,152,38.7.2,,,,,Common Service Centers - Village Level Entrepreneurs (CSC-VLE),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_7_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,32,205,152,153,38.7.3,,,,,Common Service Centers - Village Level Entrepreneurs (CSC-VLE),crop_insurance;pmfby,
+PMFBY_2023_SEC_38_7_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,19,112,153,153,38.7.4,,,,,Common Service Centers - Village Level Entrepreneurs (CSC-VLE),crop_insurance;documents;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_7_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,71,425,153,153,38.7.5,,,,,Common Service Centers - Village Level Entrepreneurs (CSC-VLE),crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_38_7_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,55,328,153,153,38.7.6,,,,,Common Service Centers - Village Level Entrepreneurs (CSC-VLE),crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_38_7_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,57,369,153,153,38.7.7,,,,,Common Service Centers - Village Level Entrepreneurs (CSC-VLE),crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_38_7_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,17,123,153,153,38.7.8,,,,,Common Service Centers - Village Level Entrepreneurs (CSC-VLE),crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_7_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,129,804,153,153,38.7.9,,,,,Common Service Centers - Village Level Entrepreneurs (CSC-VLE),crop_insurance;pmfby;reporting;timeline,
+PMFBY_2023_SEC_38_7_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,69,425,153,153,38.7.10,,,,,Common Service Centers - Village Level Entrepreneurs (CSC-VLE),claim;crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_38_8,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,5,57,153,155,38.8,,,,,Designated Insurance Agents/Insurance Intermediaries,crop_insurance;pmfby,SHORT_CONTEXT_PARENT;STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_8_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,110,724,153,154,38.8.1,,,,,Designated Insurance Agents/Insurance Intermediaries,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_38_8_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,31,242,154,154,38.8.2,,,,,Designated Insurance Agents/Insurance Intermediaries,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_8_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,32,205,154,154,38.8.3,,,,,Designated Insurance Agents/Insurance Intermediaries,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_8_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,22,127,154,154,38.8.4,,,,,Designated Insurance Agents/Insurance Intermediaries,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_38_8_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,87,572,154,154,38.8.5,,,,,Designated Insurance Agents/Insurance Intermediaries,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_38_8_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,58,336,154,154,38.8.6,,,,,Designated Insurance Agents/Insurance Intermediaries,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_38_8_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,58,385,154,154,38.8.7,,,,,Designated Insurance Agents/Insurance Intermediaries,crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_38_8_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,17,122,154,154,38.8.8,,,,,Designated Insurance Agents/Insurance Intermediaries,crop_insurance;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_8_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,15,106,154,154,38.8.9,,,,,Designated Insurance Agents/Insurance Intermediaries,claim;crop_insurance;grievance;pmfby;reporting,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_38_8_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,136,876,154,154,38.8.10,,,,,Designated Insurance Agents/Insurance Intermediaries,crop_insurance;pmfby;reporting;timeline,
+PMFBY_2023_SEC_38_8_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,77,490,155,155,38.8.11,,,,,Designated Insurance Agents/Insurance Intermediaries,claim;crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_38_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,75,495,155,155,38.9,,,,,,claim;crop_insurance;documents;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_10,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,3,20,155,155,38.10,,,,,Loanee Farmers,crop_insurance;pmfby,SHORT_CONTEXT_PARENT;STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_10_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,149,871,155,155,38.10.1,,,,,Loanee Farmers,crop_insurance;loans;pmfby;premium,
+PMFBY_2023_SEC_38_10_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,38,258,155,155,38.10.2,,,,,Loanee Farmers,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_10_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,66,409,155,155,38.10.3,,,,,Loanee Farmers,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_38_10_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,54,347,155,155,38.10.4,,,,,Loanee Farmers,crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_38_10_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,75,459,155,155,38.10.5,,,,,Loanee Farmers,crop_insurance;loans;pmfby;premium;reporting,
+PMFBY_2023_SEC_38_11,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,3,24,156,157,38.11,,,,,Non-Loanee Farmers,crop_insurance;pmfby,SHORT_CONTEXT_PARENT;STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_38_11_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,38,262,156,156,38.11.1,,,,,Non-Loanee Farmers,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_11_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,107,699,156,156,38.11.2,,,,,Non-Loanee Farmers,crop_insurance;documents;pacs;pmfby;premium,
+PMFBY_2023_SEC_38_11_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,69,462,156,156,38.11.3,,,,,Non-Loanee Farmers,crop_insurance;documents;pmfby,
+PMFBY_2023_SEC_38_11_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,60,389,156,156,38.11.4,,,,,Non-Loanee Farmers,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_11_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,28,186,156,156,38.11.5,,,,,Non-Loanee Farmers,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_11_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,43,270,156,156,38.11.6,,,,,Non-Loanee Farmers,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_38_11_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,30,200,156,156,38.11.7,,,,,Non-Loanee Farmers,crop_insurance;pmfby,
+PMFBY_2023_SEC_38_11_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,54,347,156,156,38.11.8,,,,,Non-Loanee Farmers,crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_38_11_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,98,625,156,157,38.11.9,,,,,Non-Loanee Farmers,crop_insurance;pmfby;premium;reporting,
+PMFBY_2023_SEC_39,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,14,97,157,159,39,,,,,National Crop Insurance Portal (NCIP) for Administration of Crop,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_39_1_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,187,1305,157,157,39.1.1,,,,,National Crop Insurance Portal (NCIP) for Administration of Crop,crop_insurance;pmfby,
+PMFBY_2023_SEC_39_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,188,1362,157,157,39.2,,,,,National Crop Insurance Portal (NCIP) for Administration of Crop,claim;crop_insurance;documents;pmfby;premium,
+PMFBY_2023_SEC_39_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,65,468,157,157,39.3,,,,,National Crop Insurance Portal (NCIP) for Administration of Crop,crop_insurance;management;pmfby,
+PMFBY_2023_SEC_39_4,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,766,4888,158,159,39.4,,,,,National Crop Insurance Portal (NCIP) for Administration of Crop,crop_insurance;management;pmfby;premium,MULTIPLE_FORMS_REVIEW
+PMFBY_2023_SEC_39_4_SUB_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,447,2852,158,158,39.4,,,,,National Crop Insurance Portal (NCIP) for Administration of Crop,crop_insurance;management;pmfby;premium,
+PMFBY_2023_SEC_39_4_SUB_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,392,2482,158,159,39.4,,,,,National Crop Insurance Portal (NCIP) for Administration of Crop,crop_insurance;management;pmfby,MULTIPLE_FORMS_REVIEW
+PMFBY_2023_SEC_880,PMFBY_2023,child,ACTIVE,scheme_guideline,India,173,1094,159,160,,,,,,a) CCE schedule digitization,crop_insurance;pmfby,
+PMFBY_2023_SEC_881,PMFBY_2023,child,ACTIVE,scheme_guideline,India,71,425,160,160,,,,,,b) Smart Sampling Technique,crop_insurance;pmfby,
+PMFBY_2023_SEC_882,PMFBY_2023,child,ACTIVE,scheme_guideline,India,187,1208,160,160,,,,,,c) State Speciﬁc customization,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_883,PMFBY_2023,child,ACTIVE,scheme_guideline,India,92,559,160,160,,,,,,a) Absolute amount-based farmer premium,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_884,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,4,33,160,167,,,,,,b) Limited area-based notiﬁcation,crop_insurance;pmfby,CONTEXT_PARENT;SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_884_SUB_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,454,3099,160,161,,,,,,b) Limited area-based notiﬁcation,claim;crop_insurance;crop_loss;pmfby;premium;reporting,
+PMFBY_2023_SEC_884_SUB_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,485,3196,161,162,,,,,,b) Limited area-based notiﬁcation,claim;crop_insurance;grievance;pmfby,
+PMFBY_2023_SEC_884_SUB_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,665,4293,162,164,,,,,,b) Limited area-based notiﬁcation,crop_insurance;pmfby;premium;registration;timeline,
+PMFBY_2023_SEC_884_SUB_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,448,2889,164,165,,,,,,b) Limited area-based notiﬁcation,crop_insurance;crop_loss;eligibility;loans;pmfby;premium;reporting,
+PMFBY_2023_SEC_884_SUB_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,586,3806,165,166,,,,,,b) Limited area-based notiﬁcation,crop_insurance;crop_loss;pmfby;premium,
+PMFBY_2023_SEC_884_SUB_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,523,3421,166,167,,,,,,b) Limited area-based notiﬁcation,claim;crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_884_SUB_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,399,2669,167,167,,,,,,b) Limited area-based notiﬁcation,crop_insurance;crop_loss;eligibility;loans;management;pmfby,
+PMFBY_2023_ANNEXURE_I,PMFBY_2023,child,ACTIVE,scheme_guideline,India,25,131,168,168,,,,,,ANNEXURE – I,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_1_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,97,588,168,168,1.1,,,,,,crop_insurance;eligibility;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_1_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,66,438,168,168,1.2,,,,,,crop_insurance;pmfby,STRUCTURE_UNCERTAIN
+PMFBY_2023_SEC_2_002,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,3,17,168,168,2,,,,,Risks Covered:,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_2_1_002,PMFBY_2023,child,ACTIVE,scheme_guideline,India,80,480,168,168,2.1,,,,,Risks Covered:,crop_insurance;pmfby,
+PMFBY_2023_SEC_2_2_002,PMFBY_2023,child,ACTIVE,scheme_guideline,India,23,131,168,168,2.2,,,,,Risks Covered:,crop_insurance;pmfby,
+PMFBY_2023_SEC_3_002,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,3,19,168,171,3,,,,,Risk Acceptance:,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_3_1_002,PMFBY_2023,child,ACTIVE,scheme_guideline,India,156,899,168,168,3.1,,,,,Risk Acceptance:,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_3_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,35,221,168,168,3.2,,,,,Risk Acceptance:,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_3_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,165,1032,168,169,3.3,,,,,Risk Acceptance:,crop_insurance;crop_loss;pmfby;premium,
+PMFBY_2023_SEC_3_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,102,582,169,169,3.4,,,,,Risk Acceptance:,crop_insurance;crop_loss;eligibility;pmfby,
+PMFBY_2023_SEC_3_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,127,897,169,169,3.5,,,,,Risk Acceptance:,crop_insurance;eligibility;management;pmfby,
+PMFBY_2023_SEC_3_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,70,467,169,169,3.6,,,,,Risk Acceptance:,crop_insurance;pmfby;premium,
+PMFBY_2023_SEC_3_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,99,612,169,169,3.7,,,,,Risk Acceptance:,crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_899,PMFBY_2023,child,ACTIVE,scheme_guideline,India,74,443,169,170,,,,,,Case - I:,claim;crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_900,PMFBY_2023,child,ACTIVE,scheme_guideline,India,140,837,170,170,,,,,,Case - II:,crop_insurance;crop_loss;eligibility;pmfby,
+PMFBY_2023_SEC_3_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,61,390,170,170,3.8,,,,,Risk Acceptance:,crop_insurance;meetings;pmfby,
+PMFBY_2023_SEC_3_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,39,260,170,170,3.9,,,,,Risk Acceptance:,crop_insurance;crop_loss;meetings;pmfby,
+PMFBY_2023_SEC_3_10,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,3,26,170,171,3.10,,,,,Risk Acceptance:,crop_insurance;eligibility;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_3_10_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,18,117,170,170,3.10.1,,,,,Eligibility Criteria:,crop_insurance;eligibility;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_3_10_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,32,198,170,170,3.10.2,,,,,Eligibility Criteria:,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_3_10_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,38,226,170,170,3.10.3,,,,,Eligibility Criteria:,crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_3_10_4,PMFBY_2023,child,ACTIVE,scheme_guideline,India,40,240,170,170,3.10.4,,,,,Eligibility Criteria:,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_3_10_5,PMFBY_2023,child,ACTIVE,scheme_guideline,India,71,408,170,170,3.10.5,,,,,Eligibility Criteria:,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_3_10_6,PMFBY_2023,child,ACTIVE,scheme_guideline,India,53,330,170,171,3.10.6,,,,,Eligibility Criteria:,crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_3_10_7,PMFBY_2023,child,ACTIVE,scheme_guideline,India,85,535,171,171,3.10.7,,,,,Eligibility Criteria:,crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_SEC_3_10_8,PMFBY_2023,child,ACTIVE,scheme_guideline,India,12,74,171,171,3.10.8,,,,,Eligibility Criteria:,crop_insurance;eligibility;pmfby,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_3_10_9,PMFBY_2023,child,ACTIVE,scheme_guideline,India,34,222,171,171,3.10.9,,,,,Eligibility Criteria:,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_3_10_10,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,186,171,171,3.10.10,,,,,Eligibility Criteria:,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_3_10_11,PMFBY_2023,child,ACTIVE,scheme_guideline,India,56,339,171,171,3.10.11,,,,,Eligibility Criteria:,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_3_10_12,PMFBY_2023,child,ACTIVE,scheme_guideline,India,31,175,171,171,3.10.12,,,,,Eligibility Criteria:,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_4_002,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,2,20,171,171,4,,,,,Proxy-Indicators:,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_4_1_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,89,585,171,171,4.1.1,,,,,Proxy-Indicators:,crop_insurance;crop_loss;eligibility;pmfby;reporting,
+PMFBY_2023_SEC_5_002,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,4,29,171,172,5,,,,,Loss Assessment Procedure:,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_5_1_002,PMFBY_2023,child,ACTIVE,scheme_guideline,India,8,49,171,171,5.1,,,,,Loss Assessment Procedure:,crop_insurance;pmfby;reporting,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_920,PMFBY_2023,child,ACTIVE,scheme_guideline,India,54,350,171,171,,,,,,A. The State Governments/UT Administrations would notify crop-wise and the agro-,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_2_002,PMFBY_2023,child,ACTIVE,scheme_guideline,India,18,107,171,171,5.2,,,,,Loss Assessment Procedure:,crop_insurance;pmfby;reporting,SHORT_COMPLETE_PROVISION
+PMFBY_2023_SEC_922,PMFBY_2023,child,ACTIVE,scheme_guideline,India,59,378,171,171,,,,,,"C. Intimation must contain details of insured farmer's name, affected survey number-",crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_923,PMFBY_2023,child,ACTIVE,scheme_guideline,India,38,206,172,172,,,,,,"D. Premium payment veriﬁcation to be done from the NCIP and in case of need, may be",crop_insurance;pmfby;premium;timeline,
+PMFBY_2023_SEC_924,PMFBY_2023,child,ACTIVE,scheme_guideline,India,27,193,172,172,,,,,,E. Mobile application may be used for reporting incidence of localized calamities for,crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_5_2_003,PMFBY_2023,child,ACTIVE,scheme_guideline,India,38,233,172,172,5.2,,,,,Loss Assessment Procedure:,crop_insurance;pmfby,
+PMFBY_2023_SEC_5_3_002,PMFBY_2023,child,ACTIVE,scheme_guideline,India,39,260,172,172,5.3,,,,,Loss Assessment Procedure:,crop_insurance;crop_loss;pmfby,
+PMFBY_2023_SEC_6_002,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,9,49,172,172,6,,,,,Channel of Reporting i.e. Whom to be Reported:,crop_insurance;pmfby;reporting,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_6_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,128,866,172,172,6.1,,,,,Channel of Reporting i.e. Whom to be Reported:,crop_insurance;crop_loss;pmfby;premium;reporting,
+PMFBY_2023_SEC_6_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,29,187,172,172,6.2,,,,,Channel of Reporting i.e. Whom to be Reported:,crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_6_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,48,300,172,172,6.3,,,,,Channel of Reporting i.e. Whom to be Reported:,crop_insurance;pmfby;reporting,
+PMFBY_2023_SEC_7_002,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,7,54,172,173,7,,,,,Documentary Evidence Required for Claim Assessment:,claim;crop_insurance;documents;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_7_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,71,438,172,172,7.1,,,,,Documentary Evidence Required for Claim Assessment:,claim;crop_insurance;crop_loss;documents;pmfby;reporting;timeline,
+PMFBY_2023_SEC_7_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,90,600,172,173,7.2,,,,,Documentary Evidence Required for Claim Assessment:,claim;crop_insurance;documents;pmfby;reporting,
+PMFBY_2023_SEC_8_002,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,9,58,173,173,8,,,,,Appointment of Loss Assessors by the Insurance Company:,crop_insurance;pmfby,SHORT_CONTEXT_PARENT
+PMFBY_2023_SEC_8_1_002,PMFBY_2023,child,ACTIVE,scheme_guideline,India,98,700,173,173,8.1,,,,,Appointment of Loss Assessors by the Insurance Company:,crop_insurance;pmfby,
+PMFBY_2023_SEC_8_2_002,PMFBY_2023,child,ACTIVE,scheme_guideline,India,24,159,173,173,8.2,,,,,Appointment of Loss Assessors by the Insurance Company:,crop_insurance;pmfby,
+PMFBY_2023_SEC_8_3_002,PMFBY_2023,child,ACTIVE,scheme_guideline,India,87,525,173,173,8.3,,,,,Appointment of Loss Assessors by the Insurance Company:,crop_insurance;eligibility;pmfby,
+PMFBY_2023_SEC_9_002,PMFBY_2023,child,ACTIVE,scheme_guideline,India,224,1307,173,173,9,,,,,Time Frame for Loss Assessment and Claims Payment:,claim;crop_insurance;eligibility;pmfby;premium,
+PMFBY_2023_ANNEXURE_II,PMFBY_2023,child,ACTIVE,scheme_guideline,India,376,2229,174,175,,,,,,ANNEXURE - II,crop_insurance;loans;pmfby;reporting,TABLE_REVIEW
+PMFBY_2023_ANNEXURE_III,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,682,3553,176,181,,,,,,ANNEXURE- III,crop_insurance;pmfby,CONTEXT_PARENT;TABLE_REVIEW
+PMFBY_2023_ANNEXURE_III_SUB_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,227,1195,178,178,,,,,,ANNEXURE- III,crop_insurance;pmfby,TABLE_REVIEW
+PMFBY_2023_ANNEXURE_III_SUB_2,PMFBY_2023,child,ACTIVE,scheme_guideline,India,280,1802,178,179,,,,,,ANNEXURE- III,crop_insurance;pmfby;premium;timeline,TABLE_REVIEW
+PMFBY_2023_ANNEXURE_III_SUB_3,PMFBY_2023,child,ACTIVE,scheme_guideline,India,893,4519,179,181,,,,,,ANNEXURE- III,crop_insurance;pmfby;premium,TABLE_REVIEW
+PMFBY_2023_ANNEXURE_IV,PMFBY_2023,child,REFERENCE_ONLY,scheme_guideline,India,1100,6673,182,185,,,,,,ANNEXURE- IV,appeal;crop_insurance;documents;eligibility;meetings;pmfby;timeline,LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW
+PMFBY_2023_ANNEXURE_V,PMFBY_2023,parent,REFERENCE_ONLY,scheme_guideline,India,8736,47422,186,210,,,,,,ANNEXURE- V,claim;crop_insurance;crop_loss;eligibility;pmfby,CONTEXT_PARENT;LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW
+PMFBY_2023_ANNEXURE_V_SUB_1,PMFBY_2023,child,ACTIVE,scheme_guideline,India,718,4558,206,207,,,,,,ANNEXURE- V,crop_insurance;crop_loss;eligibility;pmfby,TABLE_REVIEW
+PMFBY_2023_ANNEXURE_V_SUB_2,PMFBY_2023,child,REFERENCE_ONLY,scheme_guideline,India,1104,6596,208,210,,,,,,ANNEXURE- V,crop_insurance;crop_loss;eligibility;pmfby,LONG_CHUNK_NO_SAFE_SPLIT;TABLE_REVIEW
+PMFBY_2023_ANNEXURE_VL,PMFBY_2023,child,ACTIVE,scheme_guideline,India,282,2091,211,213,,,,,,Annexure-Vl,crop_insurance;documents;loans;management;pmfby,

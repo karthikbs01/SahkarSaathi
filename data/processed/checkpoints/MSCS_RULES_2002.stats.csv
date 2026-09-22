@@ -1,0 +1,36 @@
+chunk_id,source_id,record_type,retrieval_status,document_type,jurisdiction,word_count,char_count,page_start,page_end,section,subsection,rule,subrule,clause,heading,topics,warning
+MSCS_RULES_2002_DOC,MSCS_RULES_2002,parent,REFERENCE_ONLY,rules,Central,12,66,4,54,,,,,,,multistate,CONTEXT_PARENT;SHORT_CONTEXT_PARENT
+MSCS_RULES_2002_CONTEXT_001,MSCS_RULES_2002,child,REFERENCE_ONLY,rules,Central,112,667,4,4,,,,,,,multistate;registrar,
+MSCS_RULES_2002_RULE_3,MSCS_RULES_2002,child,ACTIVE,rules,Central,471,2989,4,5,,,3,,,Application for registration,byelaws;documents;governance;multistate;registrar;registration,STRUCTURE_UNCERTAIN
+MSCS_RULES_2002_RULE_4,MSCS_RULES_2002,child,ACTIVE,rules,Central,157,982,5,5,,,4,,,Registration,byelaws;multistate;registrar;registration,
+MSCS_RULES_2002_RULE_5,MSCS_RULES_2002,child,ACTIVE,rules,Central,73,451,6,6,,,5,,,Refusal of registration,multistate;registration,
+MSCS_RULES_2002_RULE_6,MSCS_RULES_2002,child,ACTIVE,rules,Central,227,1421,6,6,,,6,,,Bye-laws,byelaws;elections;multistate;registrar;registration,
+MSCS_RULES_2002_RULE_7,MSCS_RULES_2002,child,ACTIVE,rules,Central,182,1128,6,7,,,7,,,Refusal of amendment of bye-laws,byelaws;multistate;registrar,STRUCTURE_UNCERTAIN
+MSCS_RULES_2002_RULE_9,MSCS_RULES_2002,child,ACTIVE,rules,Central,203,1304,7,8,,,9,,,Maintenance of Registration file by the society,byelaws;multistate;registrar;registration,STRUCTURE_UNCERTAIN
+MSCS_RULES_2002_RULE_11,MSCS_RULES_2002,child,ACTIVE,rules,Central,428,2566,8,9,,,11,,,Conditions to be complied with for membership,byelaws;eligibility;meetings;membership;multistate;registrar;timeline,
+MSCS_RULES_2002_RULE_12,MSCS_RULES_2002,child,ACTIVE,rules,Central,72,489,9,9,,,12,,,Classification of federal cooperatives,byelaws;multistate,
+MSCS_RULES_2002_RULE_13,MSCS_RULES_2002,child,ACTIVE,rules,Central,110,681,9,9,,,13,,,Annual General Meeting,byelaws;management;meetings;membership;multistate,
+MSCS_RULES_2002_RULE_14,MSCS_RULES_2002,child,ACTIVE,rules,Central,523,3028,9,11,,,14,,,Interim board and general meeting for the first election,byelaws;elections;governance;meetings;multistate;registrar;registration;timeline,STRUCTURE_UNCERTAIN
+MSCS_RULES_2002_RULE_17,MSCS_RULES_2002,child,ACTIVE,rules,Central,84,499,11,11,,,17,,,Voting in general meeting,byelaws;meetings;multistate,
+MSCS_RULES_2002_RULE_18,MSCS_RULES_2002,child,ACTIVE,rules,Central,53,304,11,11,,,18,,,Minutes of the general meeting,meetings;multistate,
+MSCS_RULES_2002_RULE_19,MSCS_RULES_2002,child,ACTIVE,rules,Central,132,827,11,12,,,19,,,Procedure for conduct of elections,elections;governance;meetings;multistate;registrar,STRUCTURE_UNCERTAIN
+MSCS_RULES_2002_SCHEDULE_015,MSCS_RULES_2002,child,ACTIVE,rules,Central,126,804,12,12,,,,,,schedule attached with these rules.,elections;eligibility;multistate,
+MSCS_RULES_2002_RULE_22,MSCS_RULES_2002,child,ACTIVE,rules,Central,179,1097,12,13,,,22,,,Certification of copies of entries in books,byelaws;multistate,
+MSCS_RULES_2002_RULE_23,MSCS_RULES_2002,child,ACTIVE,rules,Central,40,258,13,13,,,23,,,Government aid to multi-state cooperative societies,multistate,
+MSCS_RULES_2002_RULE_24,MSCS_RULES_2002,child,ACTIVE,rules,Central,107,653,13,13,,,24,,,Distribution of profit to members,byelaws;multistate,
+MSCS_RULES_2002_RULE_25,MSCS_RULES_2002,child,ACTIVE,rules,Central,313,2136,13,14,,,25,,,Contribution towards Cooperative Education Fund,management;multistate;registrar,
+MSCS_RULES_2002_RULE_26,MSCS_RULES_2002,child,ACTIVE,rules,Central,677,4184,14,16,,,26,,,Contributory Provident Fund,byelaws;loans;multistate;registrar,STRUCTURE_UNCERTAIN
+MSCS_RULES_2002_RULE_28,MSCS_RULES_2002,parent,REFERENCE_ONLY,rules,Central,862,5217,16,19,,,28,,,Procedure to be adopted by liquidator,deposits;documents;loans;meetings;multistate;registrar;registration,CONTEXT_PARENT
+MSCS_RULES_2002_RULE_28_SUB_1,MSCS_RULES_2002,child,ACTIVE,rules,Central,35,203,19,19,,,28,1,,Procedure to be adopted by liquidator,multistate;registrar,
+MSCS_RULES_2002_RULE_28_SUB_2,MSCS_RULES_2002,child,ACTIVE,rules,Central,47,300,19,19,,,28,2,,Procedure to be adopted by liquidator,multistate,
+MSCS_RULES_2002_CONTEXT_022,MSCS_RULES_2002,child,REFERENCE_ONLY,rules,Central,924,5440,19,21,,,,,,,appeal;multistate;registrar;timeline,LONG_CHUNK_NO_SAFE_SPLIT;RULE_IDENTIFIER_MISSING;STRUCTURE_UNCERTAIN
+MSCS_RULES_2002_RULE_34,MSCS_RULES_2002,child,ACTIVE,rules,Central,343,2099,22,22,,,34,,,Preparation of a scheme for the reconstitution or reorganisation of,byelaws;meetings;multistate;registrar,
+MSCS_RULES_2002_RULE_35,MSCS_RULES_2002,child,ACTIVE,rules,Central,39,218,23,23,,,35,,,Payment of fee for inspection of records,multistate,
+MSCS_RULES_2002_RULE_36,MSCS_RULES_2002,child,ACTIVE,rules,Central,6103,35000,23,37,,,36,,,Mode of service of summon,deposits;documents;multistate;registrar;registration;reporting;timeline,LONG_CHUNK_NO_SAFE_SPLIT;STRUCTURE_UNCERTAIN
+MSCS_RULES_2002_RULE_38,MSCS_RULES_2002,child,ACTIVE,rules,Central,93,638,37,37,,,38,,,Repeal and Saving,appeal;management;membership;multistate;registration,
+MSCS_RULES_2002_SCHEDULE_027,MSCS_RULES_2002,child,REFERENCE_ONLY,rules,Central,4087,23956,37,46,,,,,,SCHEDULE,byelaws;elections;eligibility;governance;meetings;membership;multistate;registrar;registration;reporting,LONG_CHUNK_NO_SAFE_SPLIT;MULTIPLE_FORMS_REVIEW
+MSCS_RULES_2002_FORM_I,MSCS_RULES_2002,child,ACTIVE,rules,Central,375,2538,46,49,,,,,,FORM – I,byelaws;documents;multistate;registrar;registration,TABLE_REVIEW
+MSCS_RULES_2002_FORM_II,MSCS_RULES_2002,child,ACTIVE,rules,Central,76,467,49,50,,,,,,FORM – II,elections;governance;multistate;registration,TABLE_REVIEW
+MSCS_RULES_2002_FORM_III,MSCS_RULES_2002,child,ACTIVE,rules,Central,312,1918,50,52,,,,,,FORM III,byelaws;elections;governance;membership;multistate,
+MSCS_RULES_2002_FORM_IV,MSCS_RULES_2002,child,ACTIVE,rules,Central,18,110,52,53,,,,,,FORM IV,elections;multistate,SHORT_CHUNK
+MSCS_RULES_2002_FORM_V,MSCS_RULES_2002,child,ACTIVE,rules,Central,274,1669,53,54,,,,,,FORM V,byelaws;elections;membership;multistate,

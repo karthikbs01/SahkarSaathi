@@ -1,0 +1,74 @@
+chunk_id,source_id,record_type,retrieval_status,document_type,jurisdiction,word_count,char_count,page_start,page_end,section,subsection,rule,subrule,clause,heading,topics,warning
+MSCS_RULES_AMD_2023_DOC,MSCS_RULES_AMD_2023,parent,REFERENCE_ONLY,amendment_rules,Central,4,30,1,49,,,,,,,multistate,CONTEXT_PARENT;SHORT_CONTEXT_PARENT
+MSCS_RULES_AMD_2023_CONTEXT_001,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,342,2053,1,2,,,,,,,multistate,STRUCTURE_UNCERTAIN
+MSCS_RULES_AMD_2023_ITEM_3,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,320,1724,2,2,,,,,,,multistate,
+MSCS_RULES_AMD_2023_ITEM_4,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,7390,36754,2,12,,,,,,,multistate,LONG_CHUNK_NO_SAFE_SPLIT
+MSCS_RULES_AMD_2023_ITEM_5,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,308,1596,12,13,,,,,,,multistate,
+MSCS_RULES_AMD_2023_ITEM_6,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,512,2731,13,14,,,,,,,multistate,
+MSCS_RULES_AMD_2023_ITEM_7,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,1497,7491,14,16,,,,,,,multistate,LONG_CHUNK_NO_SAFE_SPLIT
+MSCS_RULES_AMD_2023_ITEM_8,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,164,791,16,17,,,,,,,multistate,
+MSCS_RULES_AMD_2023_ITEM_9,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,336,1722,17,17,,,,,,,multistate,
+MSCS_RULES_AMD_2023_ITEM_10,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,1122,5994,17,19,,,,,,,multistate,LONG_CHUNK_NO_SAFE_SPLIT
+MSCS_RULES_AMD_2023_ITEM_11,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,10,46,19,19,,,,,,,multistate,SHORT_CHUNK
+MSCS_RULES_AMD_2023_ITEM_12,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,285,1855,19,20,,,,,,,multistate,
+MSCS_RULES_AMD_2023_ITEM_13,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,97,641,20,20,,,,,,,multistate,
+MSCS_RULES_AMD_2023_ITEM_14,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,2110,12168,20,27,,,,,,,multistate,LONG_CHUNK_NO_SAFE_SPLIT
+MSCS_RULES_AMD_2023_BACKGROUND_ENGLISH_NOTICE,MSCS_RULES_AMD_2023,child,REFERENCE_ONLY,amendment_rules,Central,69,450,27,27,,,,,,MINISTRY OF COOPERATION,multistate,
+MSCS_RULES_AMD_2023_ITEM_1,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,34,217,27,27,,,,,,Short title and commencement,multistate,MALFORMED_NUMBERING_HIERARCHY
+MSCS_RULES_AMD_2023_ITEM_2,MSCS_RULES_AMD_2023,child,REVIEW,amendment_rules,Central,151,1005,27,27,,,,,,"In the Multi-State Co-operative Societies Rules, 2002, (hereinafter referred to as the principal rules), in rule 2,",elections;multistate,MULTIPLE_AMENDMENT_ACTIONS
+MSCS_RULES_AMD_2023_ITEM_3_002,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,297,1962,27,28,,,,,,,deposits;loans;management;multistate;registration,
+MSCS_RULES_AMD_2023_ITEM_4_002,MSCS_RULES_AMD_2023,parent,REFERENCE_ONLY,amendment_rules,Central,15,90,28,36,,,,,,,multistate,CONTEXT_PARENT;SHORT_CONTEXT_PARENT
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,107,740,28,28,,,19,,,,multistate;registrar,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19A,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,500,3179,28,28,,,19A,,,,meetings;multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19C,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,592,3574,28,29,,,19C,,,,documents;elections;meetings;multistate;timeline,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19E,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,76,486,29,29,,,19E,,,,meetings;multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19F,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,289,1889,29,30,,,19F,,,,documents;elections;multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19G,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,145,911,30,30,,,19G,,,,elections;multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19H,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,885,5360,30,31,,,19H,,,,byelaws;elections;eligibility;governance;meetings;membership;multistate;registrar;reporting,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19_I,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,328,1852,31,31,,,19-I,,,,byelaws;elections;eligibility;multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19J,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,349,2031,31,32,,,19J,,,,byelaws;elections;multistate,MULTIPLE_FORMS_REVIEW
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19K,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,41,225,32,32,,,19K,,,,elections;eligibility;multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19L,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,346,2049,32,32,,,19L,,,,elections;multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19M,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,1319,7545,32,34,,,19M,,,,elections;eligibility;meetings;multistate;reporting,LONG_CHUNK_NO_SAFE_SPLIT
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19N,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,502,2972,34,34,,,19N,,,,byelaws;elections;meetings;multistate;reporting,MULTIPLE_FORMS_REVIEW
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19_O,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,138,818,34,34,,,19-O,,,,elections;multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19P,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,161,895,34,34,,,19P,,,,multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19Q,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,108,661,34,35,,,19Q,,,,documents;elections;multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19R,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,170,1031,35,35,,,19R,,,,elections;eligibility;multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19S,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,40,253,35,35,,,19S,,,,multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19T,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,76,534,35,35,,,19T,,,,elections;multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19U,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,145,848,35,35,,,19U,,,,elections;multistate;timeline,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19V,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,105,599,35,35,,,19V,,,,elections;multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19W,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,194,1179,35,36,,,19W,,,,elections;multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19X,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,72,406,36,36,,,19X,,,,elections;multistate;timeline,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19Y,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,148,844,36,36,,,19Y,,,,multistate,
+MSCS_RULES_AMD_2023_ITEM_4_002_SUB_19Z,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,63,380,36,36,,,19Z,,,,elections;multistate,
+MSCS_RULES_AMD_2023_ITEM_5_002,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,274,1648,36,36,,,,,,,elections;eligibility;management;multistate,
+MSCS_RULES_AMD_2023_ITEM_6_002,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,467,3263,36,37,,,,,,,management;multistate;registrar,
+MSCS_RULES_AMD_2023_ITEM_7_002,MSCS_RULES_AMD_2023,parent,REFERENCE_ONLY,amendment_rules,Central,23,176,37,40,,,,,,,multistate;ombudsman,CONTEXT_PARENT
+MSCS_RULES_AMD_2023_ITEM_7_002_SUB_30A,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,303,1866,38,38,,,30A,,,,eligibility;management;multistate;ombudsman,
+MSCS_RULES_AMD_2023_ITEM_7_002_SUB_30B,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,46,252,38,38,,,30B,,,,eligibility;multistate;ombudsman,
+MSCS_RULES_AMD_2023_ITEM_7_002_SUB_30C,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,22,123,38,38,,,30C,,,,multistate;ombudsman,
+MSCS_RULES_AMD_2023_ITEM_7_002_SUB_30D,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,28,176,38,38,,,30D,,,,multistate;ombudsman,
+MSCS_RULES_AMD_2023_ITEM_7_002_SUB_30E,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,115,777,38,38,,,30E,,,,appeal;complaint;deposits;multistate;ombudsman,
+MSCS_RULES_AMD_2023_ITEM_7_002_SUB_30F,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,68,435,38,38,,,30F,,,,appeal;complaint;multistate;ombudsman,
+MSCS_RULES_AMD_2023_ITEM_7_002_SUB_30G,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,312,1887,38,39,,,30G,,,,appeal;complaint;multistate;ombudsman;registrar,
+MSCS_RULES_AMD_2023_ITEM_7_002_SUB_30H,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,71,414,39,39,,,30H,,,,appeal;complaint;form_vi;form_vii;multistate;ombudsman,MULTIPLE_FORMS_REVIEW
+MSCS_RULES_AMD_2023_ITEM_7_002_SUB_30_I,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,154,956,39,39,,,30-I,,,,appeal;complaint;multistate;ombudsman,
+MSCS_RULES_AMD_2023_ITEM_7_002_SUB_30J,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,189,1120,39,40,,,30J,,,,appeal;multistate;ombudsman;registrar,
+MSCS_RULES_AMD_2023_ITEM_8_002,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,145,918,40,40,,,,,,,multistate,
+MSCS_RULES_AMD_2023_ITEM_9_002,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,232,1502,40,40,,,,,,,multistate;registrar,
+MSCS_RULES_AMD_2023_ITEM_35B,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,57,346,40,40,,,,,,Omission of National Co-operative Societies from Second Schedule,multistate,
+MSCS_RULES_AMD_2023_ITEM_10_002,MSCS_RULES_AMD_2023,parent,REFERENCE_ONLY,amendment_rules,Central,15,89,40,42,,,,,,,multistate,CONTEXT_PARENT;MALFORMED_NUMBERING_HIERARCHY;SHORT_CONTEXT_PARENT
+MSCS_RULES_AMD_2023_ITEM_10_002_SUB_37A,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,41,294,40,40,,,37A,,,,byelaws;multistate,MALFORMED_NUMBERING_HIERARCHY
+MSCS_RULES_AMD_2023_ITEM_10_002_SUB_37B,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,128,944,40,41,,,37B,,,,management;multistate,MALFORMED_NUMBERING_HIERARCHY
+MSCS_RULES_AMD_2023_ITEM_10_002_SUB_37C,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,138,856,41,41,,,37C,,,,governance;multistate;registrar,MALFORMED_NUMBERING_HIERARCHY
+MSCS_RULES_AMD_2023_ITEM_10_002_SUB_37D,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,60,406,41,41,,,37D,,,,byelaws;documents;multistate,MALFORMED_NUMBERING_HIERARCHY
+MSCS_RULES_AMD_2023_ITEM_10_002_SUB_37E,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,328,2234,41,41,,,37E,,,,byelaws;documents;membership;multistate;registrar;registration;reporting,MALFORMED_NUMBERING_HIERARCHY
+MSCS_RULES_AMD_2023_ITEM_10_002_SUB_37G,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,227,1477,41,42,,,37G,,,,documents;governance;multistate;registrar;reporting;timeline,MALFORMED_NUMBERING_HIERARCHY
+MSCS_RULES_AMD_2023_ITEM_11_002,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,9,54,42,42,,,,,,,multistate,SHORT_CHUNK
+MSCS_RULES_AMD_2023_ITEM_12_002,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,281,1739,42,43,,,,,,,byelaws;elections;governance;membership;multistate,
+MSCS_RULES_AMD_2023_ITEM_13_002,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,89,630,43,43,,,,,,,elections;governance;multistate,
+MSCS_RULES_AMD_2023_ITEM_14_002,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,780,5066,43,46,,,,,,,byelaws;complaint;documents;elections;form_vi;membership;multistate;ombudsman;registrar,MULTIPLE_FORMS_REVIEW
+MSCS_RULES_AMD_2023_FORM_VII,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,372,2491,46,47,,,,,,FORM VII,appeal;complaint;documents;form_vii;membership;multistate;ombudsman;timeline,
+MSCS_RULES_AMD_2023_FORM_VIII,MSCS_RULES_AMD_2023,child,ACTIVE,amendment_rules,Central,667,4529,47,49,,,,,,FORM VIII,appeal;byelaws;complaint;documents;management;membership;multistate;ombudsman;registrar,MULTIPLE_FORMS_REVIEW

@@ -1,0 +1,7 @@
+chunk_id,source_id,record_type,retrieval_status,document_type,jurisdiction,word_count,char_count,page_start,page_end,section,subsection,rule,subrule,clause,heading,topics,warning
+CRCS_OMBUDSMAN_DOC,CRCS_OMBUDSMAN,parent,REFERENCE_ONLY,grievance_guidance,Central,12,57,1,2,,,,,,,grievance;ombudsman,CONTEXT_PARENT;SHORT_CONTEXT_PARENT
+CRCS_OMBUDSMAN_CONTEXT_001,CRCS_OMBUDSMAN,child,REFERENCE_ONLY,grievance_guidance,Central,157,1032,1,1,,,,,,,appeal;complaint;deposits;grievance;ombudsman;registrar,
+CRCS_OMBUDSMAN_SEC_002,CRCS_OMBUDSMAN,child,ACTIVE,grievance_guidance,Central,47,297,1,1,,,,,,How to file a Complaint,complaint;documents;form_vi;grievance;ombudsman,
+CRCS_OMBUDSMAN_SEC_003,CRCS_OMBUDSMAN,child,ACTIVE,grievance_guidance,Central,47,274,1,1,,,,,,How to file an Appeal,appeal;complaint;grievance;ombudsman,
+CRCS_OMBUDSMAN_SEC_004,CRCS_OMBUDSMAN,child,ACTIVE,grievance_guidance,Central,30,200,1,1,,,,,,Complaint or Appeal to the Cooperative Ombudsman shall be filed on the following address,appeal;complaint;grievance;ombudsman,
+CRCS_OMBUDSMAN_SEC_005,CRCS_OMBUDSMAN,child,ACTIVE,grievance_guidance,Central,86,573,1,2,,,,,,Complaint or Appeal to the Cooperative Ombudsman can also be filed online on the following e-mail address,appeal;complaint;grievance;management;ombudsman,
